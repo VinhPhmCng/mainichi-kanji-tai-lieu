@@ -1,0 +1,3 @@
+## Hướng dẫn sử dụng từ điển
+
+blah blah blah...
