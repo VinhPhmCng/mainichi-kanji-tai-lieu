@@ -1,31 +1,21 @@
 ## Cảm hứng
 
-Mainichi Kanji được xây dựng bởi một đội ngũ nhỏ. Trong đó, trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của mỗi thành viên là hoàn toàn khác nhau. Vì vậy, Mainichi Kanji được phát triển với nhiều nguồn cảm hứng.
+Mainichi Kanji được phát triển bởi một đội ngũ nhỏ. Trong đó, trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của từng thành viên là khác nhau. Vì vậy, Mainichi Kanji có nhiều nguồn cảm hứng.
 
-### WaniKani
+#### WaniKani ー SRS và thuật nhớ
 
-Blah blah blah...
+#### Kanji Damage ー thuật nhớ mang tính gần gũi, hài hước
 
-### Kanji Damage
-
-Blah blah blah...
-
-### Mazii
-
-Blah blah blah...
+#### Mazii ー có cộng đồng bạn học đông thích chia sẻ kiến thức
 
 ?> Ngoài ra, về thiết kế giao diện, Mainichi Kanji lấy cảm hứng từ:
 
-### Cubadust (2004)
+#### Cubadust (2004) ー tông màu minimalism
 
-Blah blah blah...
+#### Wikipedia ー cái nhìn đơn giản, gần gũi
 
-### Wikipedia
+?> P.S. dành cho độc giả có hứng thú với công nghệ ー team leader của dự án là một thằng cuồng open source, nên tôi đã được ra lệnh phải shoutout hai công cụ dưới đây.
 
-Blah blah blah...
+#### Flutter ー để phát triển website Mainichi Kanji
 
-?> P.S. Dành cho độc giả có hứng thú với công nghệ: Team leader của dự án là một thằng cuồng công nghệ mã nguồn mở, nên tôi đã được ra lệnh phải shoutout hai công cụ dưới đây.
-
-### Flutter ー để phát triển website Mainichi Kanji
-
-### Docsify ー để biên soạn "Mainichi Kanji: Tài Liệu" mà bạn đang đọc
+#### Docsify ー để biên soạn "Mainichi Kanji: Tài Liệu" mà bạn đang đọc
