@@ -5,8 +5,7 @@ labels: ["lỗi", "cần được hỗ trợ"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Cảm ơn bạn đã dành thời gian!
+      value: Cảm ơn bạn đã dành thời gian!
   - type: textarea
     id: what-happened
     attributes:

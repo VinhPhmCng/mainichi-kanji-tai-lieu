@@ -5,8 +5,7 @@ labels: ["đề xuất tính năng"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Cảm ơn bạn đã dành thời gian!
+      value: Cảm ơn bạn đã dành thời gian!
   - type: textarea
     id: feature-suggestion
     attributes:

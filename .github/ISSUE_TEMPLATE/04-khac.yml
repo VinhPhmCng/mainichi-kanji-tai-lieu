@@ -1,0 +1,14 @@
+name: Khác
+description: Nếu các form báo cáo trên không phải thứ bạn cần
+title: "[KHÁC]: "
+body:
+  - type: markdown
+    attributes:
+      value: Cảm ơn bạn đã dành thời gian!
+  - type: textarea
+    id: content
+    attributes:
+      label: Báo cáo một cái gì đó
+      placeholder: ...
+    validations:
+      required: true
