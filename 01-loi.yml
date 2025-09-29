@@ -1,0 +1,46 @@
+name: Báo cáo lỗi
+description: Viết báo cáo về một lỗi mà bạn đã gặp phải.
+title: "[BUG]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã dành thời gian!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Bạn đã gặp phải lỗi như thế nào?
+      description: Ngoài ra hãy cho chúng tôi biết, bạn nghĩ điều gì đã nên xảy ra thì mới là đúng?
+      placeholder: Mô tả lỗi
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: Bạn gặp vấn đề này trên trình duyệt nào?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+        - Khác (ghi vào mô tả lỗi)
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Mô tả từng bước để tái tạo lỗi
+      description: Nếu có thể, bạn hãy mô tả chi tiết các hành động của bạn khi gặp phải vấn đề.
+      placeholder: |
+        1. Đi đến mục này
+        2. Rồi nhấn vào đây
+        3. Rồi nhấn vào kia
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Hoàn tất báo cáo
+      options:
+        - label: Tôi đã kiểm tra các báo cáo lỗi đã được đăng và đảm bảo rằng vấn đề này chưa được báo cáo.
+          required: true
