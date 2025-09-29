@@ -1,5 +1,5 @@
 name: Báo cáo lỗi
-description: Viết báo cáo về một lỗi mà bạn đã gặp phải.
+description: Báo cáo một lỗi mà bạn đã gặp phải.
 title: "[LỖI]: "
 labels: ["lỗi", "cần được hỗ trợ"]
 body:
