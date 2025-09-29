@@ -1,7 +1,7 @@
 name: Báo cáo lỗi
 description: Viết báo cáo về một lỗi mà bạn đã gặp phải.
-title: "[BUG]: "
-labels: ["bug"]
+title: "[LỖI]: "
+labels: ["lỗi", "cần được hỗ trợ"]
 body:
   - type: markdown
     attributes:
@@ -34,7 +34,7 @@ body:
       label: Mô tả từng bước để tái tạo lỗi
       description: Nếu có thể, bạn hãy mô tả chi tiết các hành động của bạn khi gặp phải vấn đề.
       placeholder: |
-        1. Đi đến mục này
+        1. Đi đến chỗ này
         2. Rồi nhấn vào đây
         3. Rồi nhấn vào kia
   - type: checkboxes
@@ -42,5 +42,5 @@ body:
     attributes:
       label: Hoàn tất báo cáo
       options:
-        - label: Tôi đã kiểm tra các báo cáo lỗi đã được đăng và đảm bảo rằng vấn đề này chưa được báo cáo.
+        - label: Tôi đã kiểm tra các báo cáo đã được đăng và đảm bảo rằng vấn đề này chưa được báo cáo.
           required: true

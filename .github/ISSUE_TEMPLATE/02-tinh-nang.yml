@@ -1,0 +1,30 @@
+name: Đề xuất tính năng
+description: Đề xuất một tính năng mới.
+title: "[TÍNH NĂNG]: "
+labels: ["đề xuất tính năng"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cảm ơn bạn đã dành thời gian!
+  - type: textarea
+    id: feature-suggestion
+    attributes:
+      label: Bạn muốn đề xuất tính năng mới như thế nào?
+      placeholder: Mô tả tính năng mới
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Lý do bạn nghĩ tính năng này nên được thêm là gì?
+      placeholder: Lý do thêm tính năng
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Hoàn tất đề xuất
+      options:
+        - label: Tôi đã kiểm tra các đề xuất đã được đăng và đảm bảo rằng đề xuất này chưa tồn tại.
+          required: true
