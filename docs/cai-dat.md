@@ -1,6 +1,6 @@
 ## Chi tiết các cài đặt
 
-![cai-dat-01](/_media/cai-dat-01.png "cai-dat-01")
+![cai-dat-01](/_media/cai-dat-01.png)
 
 #### Cỡ chữ
 
@@ -10,7 +10,7 @@
 #### Chế độ tương phản cao
 
 - Mặc định: Tắt
-- Dành cho người dùng có chứng mù màu
+- Bật nếu bạn thấy độ tương phản màu sắc của website quá thấp
 
 #### Bàn phím tiếng Việt tự động khi ôn tập
 

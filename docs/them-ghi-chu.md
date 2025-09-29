@@ -1,6 +1,6 @@
 ## Thêm ghi chú
 
-![them-ghi-chu](/_media/them-ghi-chu-01.png "them-ghi-chu-01")
+![them-ghi-chu](/_media/them-ghi-chu-01.png)
 
 #### Bushu
 

@@ -1,6 +1,6 @@
 ## Cảm hứng
 
-Mainichi Kanji được phát triển bởi một đội ngũ nhỏ. Trong đó, trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của từng thành viên là khác nhau. Vì vậy, Mainichi Kanji có nhiều nguồn cảm hứng.
+Trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của các thành viên trong đội ngũ phát triển Mainichi Kanji có nhiều điểm khác biệt. Cũng chính vì thế mà Mainichi Kanji có khá nhiều nguồn cảm hứng.
 
 #### WaniKani ー SRS và thuật nhớ
 

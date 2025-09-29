@@ -1,12 +1,12 @@
 ## Hướng dẫn học và ôn tập
 
-![hoc-va-on-tap-01](/_media/hoc-va-on-tap-01.png "hoc-va-on-tap-01")
+![hoc-va-on-tap-01](/_media/hoc-va-on-tap-01.png)
 
 #### Học
 
 - Mainichi Kanji chia các thẻ học mới thành các nhóm gồm nhiều nhất là 5 thẻ.
-- Với mỗi nhóm, bạn sẽ trước tiên là đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ được ôn tập.
-- Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích bạn nghỉ giải lao 3-5 phút trước khi tiếp tục.
+- Với mỗi nhóm, trước tiên bạn sẽ đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ ôn tập.
+- Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích bạn nghỉ giải lao 2-5 phút trước khi tiếp tục.
 
 #### Ôn tập
 
@@ -20,16 +20,19 @@
 
 #### Về thời gian chờ ôn tập
 
-- Sau lần ôn tập thứ 1, thời gian giờ tới lần ôn tập thứ 2 là **4 tiếng**.
-- Sau lần ôn tập thứ 2, thời gian giờ tới lần ôn tập thứ 3 là **8 tiếng**.
-- Sau lần ôn tập thứ 3, thời gian giờ tới lần ôn tập thứ 4 là **1 ngày**.
-- Sau lần ôn tập thứ 4, thời gian giờ tới lần ôn tập thứ 5 là **2 ngày**.
-- Sau lần ôn tập thứ 5, thời gian giờ tới lần ôn tập thứ 6 là **1 tuần**.
-- Sau lần ôn tập thứ 6, thời gian giờ tới lần ôn tập thứ 7 là **2 tuần**.
-- Sau lần ôn tập thứ 7, thời gian giờ tới lần ôn tập thứ 8 là **3 tuần**.
-- Sau lần ôn tập thứ 8, thời gian giờ tới lần ôn tập thứ 9 là **4 tuần**.
-- Sau lần ôn tập thứ 9, thời gian giờ tới lần ôn tập thứ 10 là **6 tuần**.
-- Sau lần ôn tập thứ 10, thẻ đã "cháy".
+| Sau lần ôn tập thứ | Thời gian chờ tới lần ôn tập tiếp theo |
+|:--:|:-------:|
+| 1  | 4 tiếng |
+| 2  | 8 tiếng |
+| 3  | 1 ngày  |
+| 4  | 2 ngày  |
+| 5  | 1 tuần  |
+| 6  | 2 tuần  |
+| 7  | 3 tuần  |
+| 8  | 4 tuần  |
+| 9  | 6 tuần  |
+
+?> Sau lần ôn tập thứ 10, thẻ đã "cháy".
 
 #### Điều kiện lên cấp của SRS
 

@@ -1,6 +1,6 @@
 ## Mainichi Kanji
 
-> Công cụ hỗ trợ người Việt đang học tiếng Nhật với việc học Kanji
+> Công cụ hỗ trợ người Việt học Kanji
 
 ### Với Mainichi Kanji
 
