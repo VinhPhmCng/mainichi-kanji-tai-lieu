@@ -25,4 +25,4 @@
 
 ## Phản hồi
 
-Nếu bạn có phản hồi, đề xuất, hay gợi ý liên quan đến **Mainichi Kanji** hoặc **Mainichi Kanji: Tài liệu**, vui lòng tham khảo [hướng dẫn này](https://vinhphmcng.github.io/mainichi-kanji-tai-lieu/#/phan-hoi).
+Nếu bạn có phản hồi, đề xuất, hay góp ý liên quan đến **Mainichi Kanji** hoặc **Mainichi Kanji: Tài liệu**, vui lòng tham khảo [hướng dẫn này](https://vinhphmcng.github.io/mainichi-kanji-tai-lieu/#/phan-hoi).
