@@ -26,10 +26,10 @@
     - [3]một[/3]
 - Kết quả: <span style="color:#c0545b; font-weight:bold">một</span>
 
-#### Giúp
+#### Hint
 
 - Cú pháp:
-    - [g]いち[/g]
-    - [giup]いち[/giup]
+    - [h]いち[/h]
+    - [hint]いち[/hint]
     - [4]いち[/4]
 - Kết quả: <span style="color:#000000dd; font-weight:bold">いち</span>
