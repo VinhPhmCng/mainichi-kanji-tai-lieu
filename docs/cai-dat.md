@@ -17,23 +17,23 @@
 #### Bàn phím tiếng Việt tự động khi ôn tập
 
 - Mặc định: Bật
-- Giúp bạn gõ tiếng Việt khi ôn tập mà không cần bật bộ gõ tiếng Việt được cài đặt trên máy
+- Giúp bạn gõ tiếng Việt khi ôn tập mà không cần bật bộ gõ tiếng Việt của thiết bị
 
 #### Bàn phím Hiragana tự động khi ôn tập
 
 - Mặc định: Bật
-- Giúp bạn gõ Hiragana khi ôn tập mà không cần bật bộ gõ tiếng Nhật được cài đặt trên máy
+- Giúp bạn gõ Hiragana khi ôn tập mà không cần bật bộ gõ tiếng Nhật của thiết bị
 
 #### Bàn phím tiếng Việt tự động khi tra cứu
 
 - Mặc định: Tắt
-- Giúp bạn gõ tiếng Việt khi tra cứu mà không cần bật bộ gõ tiếng Việt được cài đặt trên máy
+- Giúp bạn gõ tiếng Việt khi tra cứu mà không cần bật bộ gõ tiếng Việt của thiết bị
 
 #### Bàn phím Hiragana tự động khi tra cứu
 
 - Mặc định: Tắt
-- Giúp bạn gõ Hiragana khi tra cứu mà không cần bật bộ gõ tiếng Nhật được cài đặt trên máy
+- Giúp bạn gõ Hiragana khi tra cứu mà không cần bật bộ gõ tiếng Nhật của thiết bị
 
-?> Mục đích chính của bàn phím tự động là để cải thiện trải nghiệm ôn tập ー để bạn không cần phải liên tục chuyển đổi giữa các chế độ gõ của máy, gián đoạn quá trình ôn tập.
+?> Mục đích chính của bàn phím tự động là để cải thiện trải nghiệm ôn tập ー để bạn không cần phải liên tục chuyển đổi giữa các chế độ gõ của thiết bị, gián đoạn quá trình ôn tập.
 
-!> Nếu bật bàn phím tiếng Việt tự động, thì bạn nên chuyển bộ gõ tiếng Việt của máy sang chế độ tiếng Anh.
+!> Nếu bật bàn phím tiếng Việt tự động, thì bạn nên chuyển bộ gõ tiếng Việt của thiết bị sang chế độ tiếng Anh.
