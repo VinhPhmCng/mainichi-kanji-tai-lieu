@@ -14,7 +14,7 @@ Trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của các 
 
 #### Wikipedia ー cái nhìn đơn giản, gần gũi
 
-?> P.S. dành cho độc giả có hứng thú với công nghệ ー team leader của dự án là một thằng cuồng open source, nên tôi đã được ra lệnh phải shoutout hai công cụ dưới đây.
+?> P.S. Shoutout hai công cụ mã nguồn mở tuyệt vời dành cho độc giả có hứng thú với công nghệ
 
 #### Flutter ー để phát triển website Mainichi Kanji
 
