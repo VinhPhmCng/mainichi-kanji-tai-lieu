@@ -7,6 +7,8 @@
 - Mặc định: Bình thường
 - Thay đổi cỡ chữ trên toàn website
 
+?> Hoặc bạn cũng có thể sử dụng trực tiếp tính năng thu phóng của trình duyệt.
+
 #### Chế độ tương phản cao
 
 - Mặc định: Tắt
