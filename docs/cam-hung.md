@@ -14,7 +14,7 @@ Trải nghiệm học tiếng Nhật, và cụ thể hơn là Kanji, của các 
 
 #### Wikipedia ー cái nhìn đơn giản, gần gũi
 
-?> P.S. Shoutout hai công cụ mã nguồn mở tuyệt vời dành cho độc giả có hứng thú với công nghệ
+?> P.S. Shoutout hai công cụ open source tuyệt vời dành cho độc giả có hứng thú
 
 #### Flutter ー để phát triển website Mainichi Kanji
 
