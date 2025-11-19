@@ -6,17 +6,17 @@
 
 - Mainichi Kanji chia các thẻ học mới thành các nhóm gồm nhiều nhất là 5 thẻ.
 - Với mỗi nhóm, trước tiên bạn sẽ đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ ôn tập.
-- Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích bạn nghỉ giải lao 2-5 phút trước khi tiếp tục.
+- Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
 
 #### Ôn tập
 
 - Mainichi Kanji chia các thẻ ôn tập thành các nhóm gồm nhiều nhất 100 thẻ.
-- Sau khi ôn tập xong 100 thẻ, Mainichi Kanji khuyến khích bạn nghỉ giải lao 5-10 phút trước khi tiếp tục.
+- Sau khi ôn tập xong 100 thẻ, Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
 
 #### Về thẻ học mới
 
-- Các Bushu của cấp **n** sẽ được cho vào nhóm thẻ học mới ngay khi bạn đạt cấp **n**.
-- Một Kanji/từ vựng của cấp **n** sẽ được cho vào nhóm thẻ học mới khi tất cả các thành phần của Kanji/từ vựng đó đã được ôn tập ít nhất **5 lần**.
+- Các bushu của cấp **n** sẽ được cho vào nhóm thẻ học mới ngay khi bạn đạt cấp **n**.
+- Một kanji/từ vựng của cấp **n** sẽ được cho vào nhóm thẻ học mới khi tất cả các thành phần của kanji/từ vựng đó đã được ôn tập ít nhất **5 lần**.
 
 #### Về thời gian chờ ôn tập
 
@@ -41,4 +41,4 @@
 #### Ghi chú
 
 - Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi ôn tập" và "Bàn phím Hiragana tự động khi ôn tập" được **bật**. ([Chi tiết các cài đặt](cai-dat.md))
-- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, nếu cố hết sức mà vẫn không nhớ được, thì bạn hãy cứ thử những câu trả lời "đoán có cơ sở" (educated guess) xem sao nhé.
+- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, nếu cố hết sức mà vẫn không thể nhớ ra, thì bạn hãy thử những câu trả lời "đoán có cơ sở" (educated guess) xem sao nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.

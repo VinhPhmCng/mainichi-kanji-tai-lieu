@@ -1,11 +1,11 @@
 ## Mainichi Kanji
 
-> Công cụ hỗ trợ người Việt học Kanji
+> Công cụ hỗ trợ người Việt học kanji
 
 ### Với Mainichi Kanji
 
-- Học 1859? Kanji sau 50 tuần
-- Tự mình tạo nên phương pháp học tập hiệu quả
+- Học hơn 1800 kanji và 5000 từ vựng
+- Tự mình xây dựng phương pháp học tập hiệu quả
 - Tiếp xúc với media của người Nhật
 
 > [Link đến Mainichi Kanji](https://mainichikanji.org/)
