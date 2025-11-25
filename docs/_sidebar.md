@@ -14,8 +14,14 @@
 
 - Tài liệu tham khảo
 
-  - [test tltk](test-tltk.md)
+  - Tadoku Level 0
+
+    - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
+
+  - Tadoku Level 1
+
+    - [TODO](books/tadoku/level_1/todo/todo.md)
 
 - Blog
 
-  - [test blog](test-blog.md)
+  - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
