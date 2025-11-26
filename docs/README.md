@@ -14,7 +14,7 @@
 - Muốn học những kanji cơ bản và phổ biến nhất, cùng các từ vựng liên quan
 - Có thể đọc và gõ hiragana ở mức độ cơ bản
 
-!> Mainichi Kanji chỉ cung cấp dịch vụ cho người từ 15 tuổi trở lên. (Tham khảo thêm thông tin chi tiết ở Điều khoản Dịch vụ trên trang web.)
+!> Mainichi Kanji chỉ cung cấp dịch vụ cho người từ 15 tuổi trở lên. ([Điều khoản Dịch vụ](https://mainichikanji.org/ve_mainichi_kanji))
 
 ## Mainichi Kanji: Tài Liệu
 
@@ -26,3 +26,7 @@
 - Hướng dẫn / Chi tiết
 - Tài liệu tham khảo
 - Blog
+
+## Phản hồi
+
+Nếu bạn có phản hồi, đề xuất, hay góp ý liên quan đến **Mainichi Kanji** hoặc **Mainichi Kanji: Tài liệu**, vui lòng tham khảo [hướng dẫn này](phan-hoi.md).
