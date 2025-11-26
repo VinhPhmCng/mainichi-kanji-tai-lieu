@@ -6,9 +6,9 @@ Mainichi Kanji là một công cụ, không hơn không kém. Tất cả những
 
 Mainichi (毎日) có nghĩa là "hằng ngày". Nếu bạn xây dựng được cho bản thân sự tự giác, chủ động học tập, thì việc tiến bộ sẽ trở thành điều hiển nhiên. (P.S. Đây là trách nhiệm của bạn. Mainichi Kanji sẽ không cung cấp bất kỳ một tính năng nào liên quan đến việc tạo động lực hay nhắc nhở học đâu.)
 
-#### Cá nhân hóa
+#### Chỉ là một công cụ
 
-Có rất nhiều lý do cho việc học tiếng Nhật, và cụ thể hơn là kanji, của một người:
+Có rất nhiều lý do hay động lực cho việc học tiếng Nhật, và cụ thể hơn là kanji, của một người:
 - thi JLPT, J-Test, hay BJT, v.v.
 - cho vui ー để đọc Manga, xem anime, xem J-Drama, v.v.
 - để đi du lịch hay cư trú tại Nhật Bản
