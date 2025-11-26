@@ -17,11 +17,12 @@
   - Tadoku Level 0
 
     - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
+    - [ざるそば](books/tadoku/level_0/ざるそば/tltk-ざるそば.md)
 
   - Tadoku Level 1
 
-    - [TODO](books/tadoku/level_1/todo/todo.md)
+    - Coming soon
 
 - Blog
 
-  - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
+  - Coming soon
