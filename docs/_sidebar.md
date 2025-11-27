@@ -33,13 +33,15 @@
 
     - Coming soon
 
-  - Tadoku Level 4
+  - [Tadoku Level 4&5](books\tadoku\tltk-tadoku_level4&5.md)
 
-    - Coming soon
+  - NHK
 
-  - Tadoku Level 5
+    - [NHKやさしいことばニュース](news\nhk\tltk-NHKやさしいことばニュース.md)
 
-    - Coming soon
+    - [NHKニュース](news\nhk\tltk-NHKニュース.md)
+
+  - [Satori Reader](books\satori_reader\tltk-satori_reader.md)
 
 - Blog
 
