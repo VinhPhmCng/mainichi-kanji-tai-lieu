@@ -25,7 +25,7 @@ Bản quyền: [tadoku.org - NPO多言語多読](https://tadoku.org/japanese/)
 | Tên sách | Cấp Tadoku | URL tới sách |
 |:--:|:--:|:--:|
 | お姉さん ごめんなさい | L0 | [URL](https://tadoku.org/japanese/book/5370/) |
-| [帽子とマフラー](TODO) | L1 | [URL](https://tadoku.org/japanese/book/5371/) |
+| [帽子とマフラー](books/tadoku/level_1/チワワの花すけ～帽子とマフラー/tltk-チワワの花すけ～帽子とマフラー.md) | L1 | [URL](https://tadoku.org/japanese/book/5371/) |
 | すごい！ | L0 | [URL](https://tadoku.org/japanese/book/5595/) |
 | 影とお散歩 | L0 | [URL](https://tadoku.org/japanese/book/8139/) |
 
