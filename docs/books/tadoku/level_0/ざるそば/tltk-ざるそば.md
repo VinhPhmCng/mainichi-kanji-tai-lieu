@@ -8,9 +8,9 @@ Bản quyền: [tadoku.org - NPO多言語多読](https://tadoku.org/japanese/)
 
 - Sách có furigana trên kanji.
 
-- Từ vựng cấp SRS thấp: 大きい, 入れる, 水, 火
+- Từ vựng cấp SRS thấp: 大きい、入れる、水、火
 
-- Từ vựng cấp SRS cao: お湯, 捨てる
+- Từ vựng cấp SRS cao: お湯、捨てる
 
 - Cấp khuyến khích đọc: 3+
 
