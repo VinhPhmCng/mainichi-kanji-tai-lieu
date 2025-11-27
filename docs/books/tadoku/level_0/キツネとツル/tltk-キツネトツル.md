@@ -8,7 +8,7 @@ Bản quyền: [tadoku.org - NPO多言語多読](https://tadoku.org/japanese/)
 
 - Sách có furigana trên kanji.
 
-- Từ vựng cấp SRS thấp: 中, 日, 上
+- Từ vựng cấp SRS thấp: 中、日、上
 
 - Từ vựng cấp SRS cao: 昨日
 
