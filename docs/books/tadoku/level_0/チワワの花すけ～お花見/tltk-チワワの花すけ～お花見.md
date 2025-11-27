@@ -29,7 +29,7 @@ Bản quyền: [tadoku.org - NPO多言語多読](https://tadoku.org/japanese/)
 | すごい！ | L0 | [URL](https://tadoku.org/japanese/book/5595/) |
 | 影とお散歩 | L0 | [URL](https://tadoku.org/japanese/book/8139/) |
 
-#### Bốn "quy tắc vàng" khi đọc sách tadoku (theo Tadoku)
+#### Bốn "quy tắc vàng" khi đọc sách tadoku
 
 Tại [đây](https://tadoku.org/japanese/what-is-tadoku/), Tadoku nêu bốn quy tắc khi đọc sách tadoku, đặc biệt dành cho các bạn đọc mới bắt đầu.
 
