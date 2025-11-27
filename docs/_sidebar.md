@@ -19,8 +19,25 @@
     - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
     - [ざるそば](books/tadoku/level_0/ざるそば/tltk-ざるそば.md)
     - [かんたん！日本のカレーライス](books/tadoku/level_0/かんたん！日本のカレーライス/tltk-かんたん！日本のカレーライス.md)
+    - [チワワの花すけ～お花見](books/tadoku/level_0/チワワの花すけ～お花見/tltk-チワワの花すけ～お花見.md)
 
   - Tadoku Level 1
+
+    - Coming soon
+
+  - Tadoku Level 2
+
+    - Coming soon
+
+  - Tadoku Level 3
+
+    - Coming soon
+
+  - Tadoku Level 4
+
+    - Coming soon
+
+  - Tadoku Level 5
 
     - Coming soon
 
