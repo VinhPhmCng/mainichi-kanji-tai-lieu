@@ -23,7 +23,7 @@
 
   - Tadoku Level 1
 
-    - Coming soon
+    - [チワワの花すけ～帽子とマフラー](books/tadoku/level_1/チワワの花すけ～帽子とマフラー/tltk-チワワの花すけ～帽子とマフラー.md)
 
   - Tadoku Level 2
 
