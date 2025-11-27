@@ -23,7 +23,7 @@ Bản quyền: [tadoku.org - NPO多言語多読](https://tadoku.org/japanese/)
 | お姉さん ごめんなさい | L0 | [URL](https://tadoku.org/japanese/book/5370/) |
 | すごい！ | L0 | [URL](https://tadoku.org/japanese/book/5595/) |
 | 影とお散歩 | L0 | [URL](https://tadoku.org/japanese/book/8139/) |
-| [お花見](books/tadoku/level_0/チワワの花すけ～お花見/tltk-チワワの花すけ～お花見.md) | L0 | [URL]() |
+| [お花見](books/tadoku/level_0/チワワの花すけ～お花見/tltk-チワワの花すけ～お花見.md) | L0 | [URL](https://tadoku.org/japanese/book/40469/) |
 
 #### Bốn "quy tắc vàng" khi đọc sách tadoku
 
