@@ -18,6 +18,7 @@
 
     - [キツネトツル](books/tadoku/level_0/キツネとツル/tltk-キツネトツル.md)
     - [ざるそば](books/tadoku/level_0/ざるそば/tltk-ざるそば.md)
+    - [かんたん！日本のカレーライス](books/tadoku/level_0/かんたん！日本のカレーライス/tltk-かんたん！日本のカレーライス.md)
 
   - Tadoku Level 1
 
