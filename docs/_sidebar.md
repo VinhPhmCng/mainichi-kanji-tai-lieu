@@ -27,13 +27,15 @@
 
   - Tadoku Level 2
 
-    - Coming soon
+    - [北海道](books/tadoku/level_2/北海道/tltk-北海道.md)
 
   - Tadoku Level 3
 
-    - Coming soon
+    - [黒コウモリと白コウモリ](books/tadoku/level_3/黒コウモリと白コウモリ/tltk-黒コウモリと白コウモリ.md)
 
   - [Tadoku Level 4&5](books\tadoku\tltk-tadoku_level4&5.md)
+
+  - [Sách tương tự Tadoku](books\tadoku\tltk-tadoku_alternatives.md)
 
   - NHK
 
