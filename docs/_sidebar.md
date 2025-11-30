@@ -37,11 +37,11 @@
 
   - [Sách tương tự Tadoku](books\tadoku\tltk-tadoku_alternatives.md)
 
-  - NHK
+  - Tin tức
 
-    - [NHKやさしいことばニュース](news\nhk\tltk-NHKやさしいことばニュース.md)
+    - [NHK](news\tltk-NHK.md)
 
-    - [NHKニュース](news\nhk\tltk-NHKニュース.md)
+    - [ANN](news\tltk-ANN.md)
 
   - [Satori Reader](books\satori_reader\tltk-satori_reader.md)
 
