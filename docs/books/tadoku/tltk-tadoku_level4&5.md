@@ -1,6 +1,6 @@
 ## Tadoku Level 4&5
 
-Khi bạn đã quen với các cuốn sách Tadoku Level 1-3, Mainichi Kanji khuyến khích bạn tiếp tục với các cuốn sách trung cấp trở lên. Dưới đây là một vài cuốn tôi thích và muốn giới thiệu cho bạn:
+Khi bạn đã quen với các cuốn sách Tadoku Level 1-3, tôi khuyến khích bạn tiếp tục với các cuốn sách trung cấp trở lên. Dưới đây là một vài cuốn tôi thích và muốn giới thiệu cho bạn:
 
 | Tên sách | Cấp Tadoku | URL tới sách |
 |:--:|:--:|:--:|
