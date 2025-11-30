@@ -7,4 +7,4 @@ Tôi đánh giá cao mức độ hiệu quả của những cuốn sách này tr
 - dạy cho bạn những thói quen đọc sách tốt
 - xóa bỏ nỗi sợ, đắn đo hay do dự về việc đọc sách trong một ngôn ngữ mới
 
-Nhưng, đồng thời tôi cũng tin rằng sau khi bạn đã đọc xong 20 đến 30 cuốn sách graded readers (trong đó có vài cuốn Level 5), độ hiệu quả của graded readers sẽ dần giảm đi, đơn giản bởi vì chúng không trở nên khó hơn nữa. Ở giai đoạn này, nếu bạn muốn phát triển vốn từ vựng và ngữ pháp của mình nhanh hơn, thì bạn nên tìm đọc các nguồn có độ khó cao hơn, như [NHK News](news\nhk\tltk-NHKニュース.md) hay [Satori Reader](books\satori_reader\tltk-satori_reader.md).
+Nhưng, đồng thời tôi cũng tin rằng sau khi bạn đã đọc xong 20 đến 30 cuốn sách graded readers (trong đó có vài cuốn Level 5), độ hiệu quả của graded readers sẽ dần giảm đi, đơn giản bởi vì chúng không trở nên khó hơn nữa. Ở giai đoạn này, nếu bạn muốn phát triển vốn từ vựng và ngữ pháp của mình nhanh hơn, thì bạn nên tìm đọc các nguồn có độ khó cao hơn, như [NHKニュース](news\nhk\tltk-NHKニュース.md) hay [Satori Reader](books\satori_reader\tltk-satori_reader.md).
