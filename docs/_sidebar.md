@@ -1,7 +1,7 @@
 - Thiết kế
 
-  - [Phương pháp](phuong-phap.md)
   - [Cảm hứng](cam-hung.md)
+  - [Phương pháp](phuong-phap.md)
 
 - Hướng dẫn / Chi tiết
 
@@ -40,11 +40,11 @@
   - Tin tức
 
     - [NHK](news\tltk-NHK.md)
-
     - [ANN](news\tltk-ANN.md)
 
   - [Satori Reader](books\satori_reader\tltk-satori_reader.md)
 
 - Blog
 
-  - Coming soon
+  - [Đọc thêm về thiết kế](blogs\blog-doc-them-ve-thiet-ke.md)
+  - [Don'ts khi viết ghi chú](blogs\blog-donts-khi-viet-ghi-chu.md)
