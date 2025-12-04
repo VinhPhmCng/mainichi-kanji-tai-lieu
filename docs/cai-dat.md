@@ -33,7 +33,3 @@
 
 - Mặc định: Tắt
 - Giúp bạn gõ kana khi tra cứu mà không cần bật bộ gõ tiếng Nhật trên thiết bị
-
-?> Mục đích chính của bàn phím tự động là để cải thiện trải nghiệm ôn tập ー để bạn không cần phải liên tục chuyển đổi giữa các chế độ gõ của thiết bị, gián đoạn quá trình ôn tập. Ngoài lúc ôn tập, Mainichi Kanji khuyến khích việc sử dụng một bộ gõ tiếng Nhật hẳn hoi.
-
-!> Nếu bật bàn phím tiếng Việt tự động trên Mainichi Kanji, thì bạn nên chuyển bộ gõ tiếng Việt trên thiết bị sang chế độ tiếng Anh.
