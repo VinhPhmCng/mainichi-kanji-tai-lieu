@@ -10,6 +10,7 @@
   - [Thêm ghi chú](them-ghi-chu.md)
   - [Mở khóa](mo-khoa.md)
   - [Cài đặt](cai-dat.md)
+  - [Bàn phím tự động](ban-phim-tu-dong.md)
   - [Phản hồi](phan-hoi.md)
 
 - Tài liệu tham khảo
