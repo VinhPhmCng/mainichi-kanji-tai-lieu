@@ -25,7 +25,7 @@
 - Thiết kế
 - Hướng dẫn / Chi tiết
 - Tài liệu tham khảo
-- Blog
+- Blogs
 
 ## Phản hồi
 
