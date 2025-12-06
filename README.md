@@ -19,7 +19,7 @@
 - Thiết kế
 - Hướng dẫn / Chi tiết
 - Tài liệu tham khảo
-- Blog
+- Blogs
 
 > [Link đến Mainichi Kanji: Tài liệu](https://vinhphmcng.github.io/mainichi-kanji-tai-lieu/)
 
