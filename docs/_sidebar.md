@@ -30,6 +30,7 @@
   - Tadoku Level 2
 
     - [北海道](books/tadoku/level_2/北海道/tltk-北海道.md)
+    - [夜の図書館](books/tadoku/level_2/夜の図書館/tltk-夜の図書館.md)
 
   - Tadoku Level 3
 
