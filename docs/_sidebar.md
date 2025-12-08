@@ -25,6 +25,7 @@
   - Tadoku Level 1
 
     - [チワワの花すけ～帽子とマフラー](books/tadoku/level_1/チワワの花すけ～帽子とマフラー/tltk-チワワの花すけ～帽子とマフラー.md)
+    - [山に行きました](books/tadoku/level_1/山に行きました/tltk-山に行きました.md)
 
   - Tadoku Level 2
 
