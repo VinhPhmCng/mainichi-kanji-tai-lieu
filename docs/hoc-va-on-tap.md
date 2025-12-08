@@ -5,13 +5,19 @@
 #### Học
 
 - Mainichi Kanji chia các thẻ học mới thành các nhóm gồm nhiều nhất là 5 thẻ.
-- Với mỗi nhóm, trước tiên bạn sẽ đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ ôn tập.
+- Với mỗi nhóm, trước tiên bạn sẽ đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ trả lời nghĩa hay cách đọc của thẻ.
 - Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
 
 #### Ôn tập
 
 - Mainichi Kanji chia các thẻ ôn tập thành các nhóm gồm nhiều nhất 100 thẻ.
 - Sau khi ôn tập xong 100 thẻ, Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
+
+#### Trả lời
+
+- Sau khi gõ câu trả lời, bấm **Enter** để trả lời.
+- Sau khi trả lời đúng, bấm **Enter** để tiếp tục với thẻ tiếp theo.
+- Sau khi trả lời sai, bấm **Enter** để trả lời lại.
 
 #### Về thẻ học mới
 
