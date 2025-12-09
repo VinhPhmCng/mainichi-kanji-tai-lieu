@@ -46,6 +46,7 @@
     - [ANN](news\tltk-ANN.md)
 
   - [Satori Reader](books\satori_reader\tltk-satori_reader.md)
+  - [漫画やアニメ](manga\manga-anime.md)
 
 - Blogs
 
