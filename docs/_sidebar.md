@@ -52,3 +52,4 @@
 
   - [Đọc thêm về thiết kế](blogs\blog-doc-them-ve-thiet-ke.md)
   - [Don'ts khi viết ghi chú](blogs\blog-donts-khi-viet-ghi-chu.md)
+  - [Công cụ: Sentence Search](blogs\blog-sentence-search.md)
