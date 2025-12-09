@@ -37,6 +37,9 @@
 | 7  | 3 tuần  |
 | 8  | 4 tuần  |
 | 9  | 6 tuần  |
+| 10 | N/A     |
+
+?> Các bushu của cấp 1 là ngoại lệ duy nhất. Cụ thể, sau hai lần ôn tập đầu tiên (mỗi lần cách nhau 2 tiếng), các bushu của cấp 1 được coi là đã ôn tập 5 lần. Điều này giúp bạn học được những kanji đầu tiên sớm hơn.
 
 ?> Sau lần ôn tập thứ 10, thẻ đã "cháy".
 
