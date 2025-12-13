@@ -22,6 +22,12 @@ Ví dụ:
 
 Về cơ bản, khi bạn thấy từ vựng được đặt nghĩa bằng romaji, đó chính là cách Mainichi Kanji đang khuyến khích bạn hãy tự mình tìm hiểu và tra cứu các câu văn hay ngữ cảnh ví dụ.
 
+#### Cách đặt tham chiếu "Giống kanji"
+
+Phần tham chiếu "Giống kanji" của mỗi kanji có thể chứa:
+- Kanji **nhìn** tương tự hay dễ nhầm
+- Kanji có cách **đọc** tương tự hay gần giống
+
 ### Về tính năng
 
-Các tính năng trong Mainichi Kanji được giữ ở mức đơn giản nhất, vì tôi muốn website này đóng vai trò của một công cụ hỗ trợ học tập, chứ không phải một thứ sẽ định nghĩa phương pháp học tập của người dùng. Về cơ bản, Mainichi Kanji chỉ là một cuốn workbook online.
+Các tính năng trong Mainichi Kanji được giữ ở mức đơn giản nhất, vì tôi muốn website này đóng vai trò là một công cụ hỗ trợ học tập, chứ không phải một thứ sẽ định nghĩa phương pháp học tập của người dùng. Về cơ bản, Mainichi Kanji chỉ là một cuốn workbook online.
