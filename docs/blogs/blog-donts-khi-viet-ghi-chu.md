@@ -14,10 +14,14 @@ Họ làm như vậy là bởi vì họ nghĩ rằng việc lưu lại URL chỉ
 
 Nhưng, họ không biết rằng chính sự "lười" đó mới là lý do họ nhanh quên kiến thức.
 
+Ngoài ra, họ còn đang tự mình hạn chế lượng kiến thức bản thân có thể tiếp xúc với. Bởi vì, khả năng tra cứu kiến thức của một người cũng dần dần phát triển trong quá trình học tập. Nghĩa là, mỗi lần tra cứu về cùng một mẩu kiến thức, câu từ hay cách thức họ dùng để tra cứu sẽ khác lúc trước, từ đó có thể dẫn tới các bài viết mới hơn, hay hơn. Việc phụ thuộc vào URL sẽ loại bỏ hoàn toàn lợi thế này.
+
+?> P.S. Tập sử dụng cả công cụ lọc kết quả tra cứu đi bạn nhé.
+
 #### Đừng phụ thuộc vào ghi chú cũ
 
 Bạn đừng nghĩ việc viết ghi chú cho thẻ chỉ là hành động một lần nhé.
 
-Nếu khi ôn tập bạn vẫn khó nhớ hay nhớ sai dù đã viết ghi chú, hãy thử xóa đi viết lại xem sao. 
+Nếu khi ôn tập bạn vẫn thấy khó nhớ hay nhớ sai dù đã viết ghi chú, hãy thử xóa đi viết lại xem sao. 
 
-Hoặc, thỉnh thoảng sẽ có những thẻ mà khi bạn ôn tập (đến lần thứ 5 thứ 6 chẳng hạn), bạn sẽ thấy ghi chú cũ mình đã viết thật là "hiển nhiên làm sao". Điều đó có nghĩa là bạn đã tiến bộ rất nhiều. Khi đó, hãy thử bổ sung ghi chú đó với những kiến thức mới xem sao.
+Hoặc, thỉnh thoảng sẽ có những thẻ mà khi bạn ôn tập (đến lần thứ 5 thứ 6 chẳng hạn), bạn thấy ghi chú cũ mình đã viết thật là "hiển nhiên làm sao". Điều đó có nghĩa là bạn đã tiến bộ rất nhiều. Khi đó, hãy thử bổ sung ghi chú đó với những kiến thức mới xem sao.
