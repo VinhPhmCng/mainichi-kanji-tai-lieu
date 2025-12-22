@@ -17,8 +17,8 @@
 
 #### Quà tặng cho những bạn học đầu tiên
 
-- 10 bạn học đầu tiên được miễn phí toàn bộ 70 cấp.
-- 20 bạn học tiếp theo được miễn phí đến cấp 40 (50 nếu bạn là HSSV).
+- ~~10 bạn học đầu tiên được miễn phí toàn bộ 70 cấp.~~
+- ~~20 bạn học tiếp theo được miễn phí đến cấp 40 (50 nếu bạn là HSSV).~~
 - 30 bạn học tiếp theo được miễn phí đến cấp 20 (30 nếu bạn là HSSV).
 - Để áp dụng, bạn hãy:
     - sử dụng địa chỉ email đã đăng ký tài khoản Mainichi Kanji,
