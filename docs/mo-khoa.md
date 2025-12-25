@@ -12,8 +12,10 @@
 
 #### Lựa chọn & điều kiện mở khóa
 
-- Hiện tại, Mainichi Kanji chỉ cung cấp duy nhất một lựa chọn mở khóa ー "Mở khóa SRS, thêm nghĩa, và thêm ghi chú cho 5 cấp tiếp theo" với giá là **TBD**.
+- Hiện tại, Mainichi Kanji chỉ cung cấp duy nhất một lựa chọn mở khóa ー "Mở khóa SRS, thêm nghĩa, và thêm ghi chú cho 5 cấp tiếp theo" với giá là **30.000đ**.
 - Khi bạn đạt đến cấp 10 của SRS, Mainichi Kanji sẽ hiển thị cho bạn dialog để mở khóa 5 cấp tiếp theo (tương tự khi bạn đạt đến cấp 15, 20, 25, ...). 
+
+![mo-khoa-01](/_media/mo-khoa-01.png)
 
 #### Quà tặng cho những bạn học đầu tiên
 
