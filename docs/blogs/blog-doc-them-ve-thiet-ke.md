@@ -16,17 +16,17 @@ Dưới đây là một vài đoạn note tôi viết trong quá trình soạn g
 
 "Cần giúp người dùng nhận ra rằng khi học từ vựng, có những từ có thể được dịch một cách rõ ràng (translation equivalence) và những từ không nên được học qua phép dịch mà đòi hỏi sự hiểu biết về mặt khái niệm, văn hóa, hay qua ngữ cảnh (conceptual transfer)."
 
-Ví dụ:
+Ví dụ trong Mainichi Kanji:
 - Translation equivalence: 水 được dịch và đặt nghĩa là "nước"
 - Conceptual transfer: 本人 được đặt nghĩa là "honnin"
 
-Về cơ bản, khi bạn thấy từ vựng được đặt nghĩa bằng romaji, đó chính là cách Mainichi Kanji đang khuyến khích bạn hãy tự mình tìm hiểu và tra cứu các câu văn hay ngữ cảnh ví dụ.
+Tóm lại, khi bạn thấy từ vựng được đặt nghĩa bằng romaji, đó chính là cách Mainichi Kanji đang khuyến khích bạn hãy tự mình tìm hiểu và tra cứu các câu văn hay ngữ cảnh ví dụ cho nó.
 
 #### Cách đặt tham chiếu "Giống kanji"
 
 Phần tham chiếu "Giống kanji" của mỗi kanji có thể chứa:
-- Kanji **nhìn** tương tự hay dễ nhầm
-- Kanji có cách **đọc** tương tự hay gần giống
+- kanji **nhìn** tương tự hay dễ nhầm
+- kanji có cách **đọc** tương tự hay gần giống
 
 ### Về tính năng
 

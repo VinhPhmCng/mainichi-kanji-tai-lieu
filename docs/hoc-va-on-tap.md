@@ -21,8 +21,8 @@
 
 #### Về thẻ học mới
 
-- Các bushu của cấp **n** sẽ được cho vào nhóm thẻ học mới ngay khi bạn đạt cấp **n**.
-- Một kanji/từ vựng của cấp **n** sẽ được cho vào nhóm thẻ học mới khi tất cả các thành phần của kanji/từ vựng đó đã được ôn tập ít nhất **5 lần**.
+- Các bushu của cấp **n** sẽ được cho vào nhóm thẻ học mới khi bạn đạt cấp **n**.
+- Một kanji/từ vựng của cấp **n** sẽ được cho vào nhóm thẻ học mới khi tất cả các thành phần của nó đã được ôn tập **5 lần**.
 
 #### Về thời gian chờ ôn tập
 
@@ -39,7 +39,7 @@
 | 9  | 6 tuần  |
 | 10 | N/A     |
 
-?> Các bushu của cấp 1 là ngoại lệ duy nhất. Cụ thể, sau lần ôn tập đầu tiên và thứ hai (2 tiếng sau), các bushu của cấp 1 được coi là đã ôn tập 5 lần. Điều này giúp bạn học đến những kanji đầu tiên sớm hơn.
+?> Các bushu của cấp 1 và 2 là ngoại lệ. Cụ thể, sau lần ôn tập đầu tiên và thứ hai (1 tiếng sau), các bushu này được coi là đã ôn tập 5 lần. Điều này giúp bạn học những kanji đầu tiên sớm hơn.
 
 ?> Sau lần ôn tập thứ 10, thẻ đã "cháy".
 
@@ -50,4 +50,4 @@
 #### Ghi chú
 
 - Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi ôn tập" và "Bàn phím Hiragana tự động khi ôn tập" được **bật**. ([Chi tiết các cài đặt](cai-dat.md))
-- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, nếu cố hết sức mà vẫn không thể nhớ ra, thì bạn hãy thử những câu trả lời "đoán có cơ sở" (educated guess) xem sao nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.
+- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, nếu cố hết sức mà vẫn không thể nhớ ra, thì đừng sợ sai mà hãy thử đoán có cơ sở (educated guess) xem sao nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.

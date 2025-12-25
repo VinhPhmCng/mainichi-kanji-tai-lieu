@@ -8,7 +8,6 @@
     - Theo từ: nhập tiếng Việt hoặc tiếng Nhật để tra cứu (Nút đổi ngôn ngữ tra cứu ở bên trái của trường văn bản.)
     - Theo cấp: nhập phạm vi "từ cấp" và "đến cấp"
 - Sau khi tra cứu, bạn có thể chọn hiển thị bushu, kanji, hay từ vựng.
-- Cuối cùng, bạn chỉ việc chọn một thẻ và xem nội dung của nó.
 
 #### Ghi chú
 
