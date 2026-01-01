@@ -28,6 +28,10 @@ Phần tham chiếu "Giống kanji" của mỗi kanji có thể chứa:
 - kanji **nhìn** tương tự hay dễ nhầm
 - kanji có cách **đọc** tương tự hay gần giống
 
+### Về bushu
+
+Mainichi Kanji giới thiệu cho bạn học 215 bushu (bộ thủ) trong quá trình học. Nhưng, đây không phải danh sách bushu chính thức nhé. Trong 215 bushu của Mainichi Kanji, có những cái là bushu chính thức (一, 人), có những cái là chữ kana (メ, ナ), và có những cái là chính kanji luôn (凸, 凹).
+
 ### Về tính năng
 
 Các tính năng trong Mainichi Kanji được giữ ở mức đơn giản nhất, vì tôi muốn website này đóng vai trò là một công cụ hỗ trợ học tập, chứ không muốn nó định nghĩa phương pháp học tập của người dùng. Về cơ bản, Mainichi Kanji chỉ là một cuốn workbook online.
