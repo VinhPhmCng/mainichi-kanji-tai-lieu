@@ -2272,7 +2272,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 中途,vocab,55,"中,途",N/A,N/A,N/A,N/A,ちゅうと,ちゅうと,Giữa Chừng,
 串,vocab,16,串,N/A,N/A,N/A,N/A,くし,くし,Xiên,Kushi
 串揚げ,vocab,55,"串,揚",N/A,N/A,N/A,N/A,くしあげ,くしあげ,Kushiage,
-串カツ,vocab,16,串,N/A,N/A,N/A,N/A,くしカツ,くしカツ,Kushikatsu,
+串カツ,vocab,16,串,N/A,N/A,N/A,N/A,くしかつ,くしかつ,Kushikatsu,
 串焼き,vocab,16,"串,焼",N/A,N/A,N/A,N/A,くしやき,くしやき,Kushiyaki,
 丸,vocab,3,丸,N/A,N/A,N/A,N/A,まる,まる,Hình Tròn,Tròn
 丸々,vocab,3,"丸,々",N/A,N/A,N/A,N/A,まるまる,まるまる,Marumaru,
@@ -5265,7 +5265,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 玉,vocab,5,玉,N/A,N/A,N/A,N/A,たま,たま,Bóng,Tama
 王,vocab,2,王,N/A,N/A,N/A,N/A,おう,おう,Vua,
 王女,vocab,2,"王,女",N/A,N/A,N/A,N/A,おうじょ,おうじょ,Công Chúa,
-王子,vocab,2,"王,子",N/A,N/A,N/A,N/A,おうじ,おうじ,Hoảng Tử,
+王子,vocab,2,"王,子",N/A,N/A,N/A,N/A,おうじ,おうじ,Hoàng Tử,
 珍しい,vocab,51,珍,N/A,N/A,N/A,N/A,めずらしい,めずらしい,Hiếm,
 珍しさ,vocab,51,珍,N/A,N/A,N/A,N/A,めずらしさ,めずらしさ,Độ Hiếm,
 班,vocab,38,班,N/A,N/A,N/A,N/A,はん,はん,Nhóm,Đội
@@ -7215,7 +7215,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 等分,vocab,37,"等,分",N/A,N/A,N/A,N/A,とうぶん,とうぶん,Chia Đều,
 二日酔い,vocab,61,"二,日,酔",N/A,N/A,N/A,N/A,ふつかよい,ふつかよい,Futsukayoi,
 煮込む,vocab,64,"煮,込",N/A,N/A,N/A,N/A,にこむ,にこむ,Ninh,
-五円,vocab,2,"五,円",N/A,N/A,N/A,N/A,五えん,五えん,Năm Yên,Goen
+五円,vocab,2,"五,円",N/A,N/A,N/A,N/A,ごえん,ごえん,Năm Yên,Goen
 六千,vocab,1,"六,千",N/A,N/A,N/A,N/A,ろくせん,ろくせん,Sáu Nghìn,
 千円,vocab,1,"千,円",N/A,N/A,N/A,N/A,せんえん,せんえん,Nghìn Yên,Senen
 百万,vocab,3,"百,万",N/A,N/A,N/A,N/A,ひゃくまん,ひゃくまん,Triệu,Hyakuman
