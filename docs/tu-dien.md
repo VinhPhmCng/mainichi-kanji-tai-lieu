@@ -12,6 +12,6 @@
 #### Ghi chú
 
 - Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi tra cứu" và "Bàn phím Hiragana tự động khi tra cứu" được **tắt**. ([Chi tiết các cài đặt](cai-dat.md))
-- Khi xem nội dung thẻ với từ điển, bạn có thể đúp chuột vào một thẻ tham chiếu bất kỳ để chuyển sang xem nội dung của thẻ đó.
+- Bạn có thể nhấn vào một thẻ tham chiếu để xem thông tin cơ bản của thẻ đó.
 
-![tu-dien-02](/_media/tu-dien-02.png)
+![tu-dien-02](/_media/tu-dien-03.png)
