@@ -1,5 +1,9 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 27/01/2026
+
+- Cải thiện mục "Giống Kanji" của các thẻ.
+
 #### 19/01/2026
 
 - Tính năng: Hiển thị thông tin cơ bản của thẻ tham chiếu khi người dùng click chuột vào
