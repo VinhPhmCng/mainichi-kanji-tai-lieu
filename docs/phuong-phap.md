@@ -16,6 +16,8 @@ Có rất nhiều lý do hay động lực cho việc học tiếng Nhật, và 
 
 Mainichi Kanji không quan tâm đến điều này ー nó không biết bạn là ai hay mục đích học tập của bạn là gì. Còn đối với bạn, nó là một công cụ mà nếu biết cách "lợi dụng", thì việc học kanji sẽ trở nên rất đơn giản.
 
+Ngoài ra, đây là Mainichi **Kanji**, chứ không phải Mainichi Nihongo hay Mainichi Bunpou nhé. Để phát triển tiếng Nhật một cách toàn diện, bạn nên sử dụng website này song song với những công cụ học tiếng Nhật khác, tùy vào từng gia đoạn ー ví dụ như một giáo trình tiếng nhật sơ cấp nào đó (Minna no Nihongo, Marugoto, Genki, v.v.) khi mới bắt đầu.
+
 #### Tìm tòi, khám phá
 
 Song song với việc học và ôn tập kanji hằng ngày, Mainichi Kanji khuyến khích việc chủ động tiếp xúc với content và media của người Nhật. Dần dần, nó rèn cho bạn những tư duy học tập tích cực như:
