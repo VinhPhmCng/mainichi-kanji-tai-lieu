@@ -10,6 +10,11 @@
 
 > [Link đến Mainichi Kanji](https://mainichikanji.org/)
 
+### Cách sử dụng
+
+- Tạo thói quen đăng nhập hằng ngày. Học khi có thẻ học. Ôn tập khi có thẻ ôn tập.
+- Học song song với một giáo trình sơ cấp như Minna no Nihongo, Genki, v.v.
+
 ## Mainichi Kanji: Tài Liệu
 
 > Nơi bạn có thể tìm đọc các tài liệu tham khảo, cũng như các thông tin bổ sung về dự án
