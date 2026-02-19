@@ -43,6 +43,7 @@
   - Tin tức
 
     - [NHK](news\tltk-NHK.md)
+    - [朝日新聞](news\tltk-asahishinbun.md)
     - [ANN](news\tltk-ANN.md)
 
   - [Satori Reader](books\satori_reader\tltk-satori_reader.md)
