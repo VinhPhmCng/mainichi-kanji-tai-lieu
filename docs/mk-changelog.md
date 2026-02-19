@@ -1,5 +1,9 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 18/02/2026
+
+- Cập nhật nội dung của một số thẻ.
+
 #### 27/01/2026
 
 - Cải thiện mục "Giống Kanji" của các thẻ.
