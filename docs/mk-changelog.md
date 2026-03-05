@@ -1,5 +1,10 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 06/03/2026
+
+- Cải thiện tính năng tra cứu của từ điển.
+- Cập nhật nội dung của một số thẻ.
+
 #### 18/02/2026
 
 - Cập nhật nội dung của một số thẻ.
