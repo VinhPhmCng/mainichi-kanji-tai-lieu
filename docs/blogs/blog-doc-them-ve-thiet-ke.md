@@ -30,7 +30,7 @@ Phần tham chiếu "Giống kanji" của mỗi kanji có thể chứa:
 
 ### Về bushu
 
-Mainichi Kanji giới thiệu cho bạn học 215 bushu (bộ thủ) trong quá trình học. Nhưng, đây không phải danh sách bushu chính thức nhé. Trong 215 bushu của Mainichi Kanji, có những cái là bushu chính thức (一, 人), có những cái là chữ kana (メ, ナ), và có những cái là chính kanji luôn (凸, 凹).
+Bushu (bộ thủ) trong Mainichi Kanji chỉ đơn giản là các "khối nhỏ hơn giúp cấu thành kanji". Chúng được chọn lọc và đặt tên sao cho dễ học và dễ nhớ nhất có thể. Mainichi Kanji có cả bushu chính thức (như 一, 人) và bushu không chính thức (như メ, ナ, 凸, 凹).
 
 ### Về tính năng
 
