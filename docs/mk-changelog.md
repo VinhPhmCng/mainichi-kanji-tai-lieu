@@ -1,5 +1,9 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 17/03/2026
+
+- Cập nhật nội dung của một số thẻ.
+
 #### 10/03/2026
 
 - Sửa lỗi dữ liệu ở lịch sử (từ điển) và thẻ ôn tập sai (ngoại khóa).
