@@ -1,5 +1,9 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 30/03/2026
+
+- Cập nhật nội dung của một số thẻ.
+
 #### 17/03/2026
 
 - Cập nhật nội dung của một số thẻ.
