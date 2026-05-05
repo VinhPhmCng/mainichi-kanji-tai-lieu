@@ -18,10 +18,6 @@ Dưới đây là một vài tựa đề tôi khuyến khích nếu bạn muốn
 - [くりことびより](https://comic-days.com/episode/316190246926174721?utm_source=comick)
 - [ルリドラゴン](https://shonenjumpplus.com/episode/17106371853091617526)
 
-#### アニメ
-
-[Animelon](https://animelon.com/) là một website giáo dục phi lợi nhuận với nhiều bộ アニメ kèm phụ đề tiếng Nhật. Đây là một công cụ tốt nếu bạn muốn làm quen dần với việc xem アニメ với phụ đề Nhật.
-
 #### Bắt đầu chậm rãi
 
 Khác với sách đọc phân theo cấp độ, 漫画 hay アニメ không được tạo ra dựa trên khả năng tiếng Nhật của người xem. Vì vậy, đừng đặt ra mục tiêu hay kỳ vọng như "mình phải hiểu tất cả các ngữ pháp của tập này", "mình phải đọc được tất cả các kanji trong chương này", v.v.
