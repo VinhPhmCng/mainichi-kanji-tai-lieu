@@ -1,5 +1,10 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 04/06/2026
+
+- Cập nhật nội dung của một số thẻ (hoàn tất cập nhật tổng quát lần một).
+- Cải thiện bàn phím tiếng Việt tự động.
+
 #### 26/04/2026
 
 - Cập nhật nội dung của một số thẻ.
