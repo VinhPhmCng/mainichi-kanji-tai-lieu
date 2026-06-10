@@ -12,6 +12,7 @@
   - [Cài đặt](cai-dat.md)
   - [Bàn phím tự động](ban-phim-tu-dong.md)
   - [Phản hồi](phan-hoi.md)
+  - [Lỗi](loi.md)
 
 - Tài liệu tham khảo
 
