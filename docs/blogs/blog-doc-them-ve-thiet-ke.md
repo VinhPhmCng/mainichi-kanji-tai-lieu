@@ -46,10 +46,10 @@ Những tính năng như
 
 Hai cái đầu thì không có ảnh hưởng xấu nào đối với bạn học. Nếu có nhu cầu, bạn chỉ việc mở một tab mới và tra cứu cách đọc hay cách viết kanji/từ vựng là xong. 
 
-?> P.S. Nếu bạn bảo tôi là "làm vậy tốn thời gian, công sức lắm, sao không tích hợp vào website cho tiện?", thì tốt nhất là bạn đừng dùng website này nhé. Hoặc hơn thế nữa là bạn đừng học tiếng Nhật làm gì, tốn thời gian với công sức lắm.
+?> P.S. Nếu bạn bảo tôi là "làm vậy tốn thời gian, công sức lắm, sao không tích hợp vào website cho tiện?", thì tốt nhất là bạn đừng dùng website này nhé. Hoặc hơn thế nữa, bạn đừng học tiếng Nhật làm gì, tốn thời gian với công sức lắm.
 
-Về cái thứ ba, nếu bạn vào trang cá nhân sau khi ôn tập xong, bạn sẽ thấy thời điểm của thẻ ôn tập gần nhất. Nhưng mà không có thông báo gì đâu. Tự nhớ đi.
+Về cái thứ ba, nếu bạn vào trang cá nhân sau khi ôn tập xong, bạn sẽ thấy thời điểm của thẻ ôn tập gần nhất. Nhưng sẽ không có thông báo gì đâu.
 
 Còn AI hỗ trợ học tập thì tôi... không có comment.
 
-**Mấu chốt** ở đây là các tính năng trên đều được tôi coi là những "tiện lợi có sẵn", không có tác động tốt, hoặc thậm chí có ảnh hưởng xấu, đối với các bạn học. Ngoài ra, việc tích hợp chúng sẽ tăng chi phí sử dụng của người dùng. Vì vậy, tôi sẽ không bao giờ cân nhắc chúng.
+**Mấu chốt** ở đây là các tính năng trên đều được tôi coi là những "tiện lợi có sẵn", không có tác động tốt, hoặc thậm chí có ảnh hưởng xấu, đối với các bạn học. Ngoài ra, việc tích hợp chúng sẽ tăng chi phí sử dụng của người dùng.
