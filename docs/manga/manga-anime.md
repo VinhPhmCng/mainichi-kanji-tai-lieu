@@ -10,6 +10,7 @@ Dưới đây là một vài tựa đề tôi khuyến khích nếu bạn muốn
 - [アオイの部屋にまた春が来た](https://shonenjumpplus.com/episode/17106567264478576004)
 - [ちかちゃんはもっとしりたい](https://shonenjumpplus.com/episode/17107094915405396533)
 - [ハブ・ア・バッドメモリー](https://tonarinoyj.jp/episode/2550689798398454244)
+- [限りある私たちは…](https://shonenjumpplus.com/episode/9253191254350319499)
 - [はつ恋薬局](https://shonenjumpplus.com/episode/17107094911042827814)
 - [Floating mate](https://shonenjumpplus.com/episode/17106567262866021686)
 - [歯](https://shonenjumpplus.com/episode/17106567256216463424)
