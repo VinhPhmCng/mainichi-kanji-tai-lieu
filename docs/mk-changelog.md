@@ -1,5 +1,9 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 04/07/2026
+
+- Cải thiện "Chuẩn bị dữ liệu người dùng"
+
 #### 04/06/2026
 
 - Cập nhật nội dung của một số thẻ (hoàn tất cập nhật tổng quát lần một).
