@@ -4,7 +4,6 @@
 
 #### Cỡ chữ
 
-- Mặc định: Bình thường
 - Thay đổi cỡ chữ trên toàn website
 
 ?> Hoặc bạn có thể sử dụng trực tiếp tính năng thu phóng của trình duyệt.
