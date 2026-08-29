@@ -6,7 +6,7 @@
 
 - Mainichi Kanji chia các thẻ học mới thành các nhóm gồm nhiều nhất là 5 thẻ.
 - Với mỗi nhóm, trước tiên bạn sẽ đọc nội dung của từng thẻ. Sau đó, nội dung thẻ sẽ bị ẩn đi, và bạn sẽ trả lời nghĩa hay cách đọc của thẻ.
-- Sau khi học xong 15 thẻ (3 nhóm), Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
+- Sau khi học xong 4 nhóm, Mainichi Kanji khuyến khích vài phút nghỉ giải lao.
 
 #### Ôn tập
 
