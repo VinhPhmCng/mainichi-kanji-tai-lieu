@@ -20,6 +20,6 @@ Ngoài ra, đây là Mainichi **Kanji**, chứ không phải Mainichi Nihongo ha
 
 #### Tìm tòi, khám phá
 
-Song song với việc học và ôn tập kanji hằng ngày, Mainichi Kanji khuyến khích việc chủ động tiếp xúc với content và media của người Nhật. Dần dần, nó rèn cho bạn những tư duy học tập tích cực như:
+Song song với việc học và ôn tập kanji hằng ngày, Mainichi Kanji khuyến khích việc chủ động tiếp xúc với content và media tiếng Nhật. Dần dần, nó rèn cho bạn những tư duy học tập tích cực như:
 - Việc học (ngôn ngữ) không nên bị gò bó bởi một bộ sách, một ứng dụng điện thoại, hay một website học tập nào đó. Tất cả đều chỉ là những công cụ ー cần được sử dụng đúng thời điểm và đúng mục đích.
 - Hiện nay, các giải pháp hỗ trợ học tập có xu hướng chú trọng quá vào sự tiện lợi. Tuy nhiên, chính sự tiện lợi có sẵn lại làm giảm đi những nỗ lực và khó khăn cá nhân trong quá trình học tập vốn trực tiếp thúc đẩy sự tiếp thu ngôn ngữ (language acquisition).

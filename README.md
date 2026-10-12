@@ -6,7 +6,7 @@
 
 - Học hơn 1800 kanji và 5000 từ vựng
 - Tự mình xây dựng phương pháp học tập hiệu quả
-- Tiếp xúc với media của người Nhật
+- Tiếp xúc với media tiếng Nhật (qua Mainichi Kanji: Tài Liệu)
 
 > [Link đến Mainichi Kanji](https://mainichikanji.org/)
 
@@ -14,6 +14,8 @@
 
 - Tạo thói quen đăng nhập hằng ngày. Học khi có thẻ học. Ôn tập khi có thẻ ôn tập.
 - Học song song với một giáo trình sơ cấp như Minna no Nihongo, Genki, v.v.
+
+> Ngoài ra, Mainichi Kanji và toàn bộ dữ liệu học tập đều được phát triển và soạn thảo thủ công 100% bởi đội ngũ con người, không sử dụng AI.
 
 ## Mainichi Kanji: Tài Liệu
 
