@@ -31,7 +31,7 @@ Thẻ,Loại,Cấp,Thành phần,Giống Kanji,Onyomi,Kunyomi,Nanori,Đọc Chí
 儿,bushu,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chân,
 冫,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Băng,
 力,bushu,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lực,Ka
-勹,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bao Bọc,
+勹,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bao Bọc,"Bao, Bọc"
 匕,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thìa,Hi
 又,bushu,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bàn,
 口,bushu,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Miệng,
@@ -47,17 +47,17 @@ Thẻ,Loại,Cấp,Thành phần,Giống Kanji,Onyomi,Kunyomi,Nanori,Đọc Chí
 白,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trắng,
 目,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mắt,
 車,bushu,6,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Xe,
-𠂉,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bạt Che,
+𠂉,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bạt Che,"Bạt, Che"
 亅,bushu,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 刀,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Kiếm,"Đao, Katana"
-夕,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Buổi Tối,Ta
+夕,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tối,Ta
 宀,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mái,
 ⺌,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cỏ,
 干,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Khô,
 心,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,
 手,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tay,
 文,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Văn,
-方,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Phương Hướng,
+方,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Phương Hướng,"Phương, Hướng"
 毋,bushu,3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mẹ,
 立,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đứng,
 米,bushu,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gạo,
@@ -67,12 +67,12 @@ Thẻ,Loại,Cấp,Thành phần,Giống Kanji,Onyomi,Kunyomi,Nanori,Đọc Chí
 ネ,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Nem,Ne
 ム,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Riêng Tư,Mu
 丷,bushu,5,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chấm,Giọt
-乍,bushu,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chìa Khóa,
+乍,bushu,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chìa Khóa,Chìa
 也,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rồng,
 冋,bushu,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mặt,
 刂,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Dao,
 夂,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đông,
-寸,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thước Đo,Đo
+寸,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thước Đo,"Thước, Đo"
 幺,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mạng Nhện,
 广,bushu,8,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mái,
 弓,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cung,
@@ -124,7 +124,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 疒,bushu,18,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bệnh,
 癶,bushu,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lều,
 竹,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tre,
-糸,bushu,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sợi Chỉ,
+糸,bushu,11,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sợi Chỉ,Chỉ
 罒,bushu,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Túi,
 羊,bushu,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cừu,
 貝,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Vỏ,"Sò, Ngao, Hến, Trai, Động Vật Có Vỏ"
@@ -143,10 +143,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 隹,bushu,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lược,
 馬,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ngựa,
 鳥,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Chim,
-𠃌,bushu,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bao Bọc,
+𠃌,bushu,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bao Bọc,"Bao, Bọc"
 业,bushu,15,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Gai,
 ⺤,bushu,14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cỏ,
-舟,bushu,30,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thuyền,
+舟,bushu,30,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Xuồng,Thuyền Nhỏ
 𦰩,bushu,23,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thuốc Lá,
 戈,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Diều,
 皿,bushu,20,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đĩa,
@@ -160,15 +160,15 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 面,bushu,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mặt,
 其,bushu,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thang,
 豆,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Đậu,
-頁,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trang Giấy,
+頁,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Trang Giấy,"Trang, Giấy"
 忄,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Tim,
 比,bushu,7,N/A,N/A,N/A,N/A,N/A,N/A,N/A,So Sánh,
 犭,bushu,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thú,Động Vật
 飛,bushu,35,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Bay,
-丩,bushu,27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cành Cây,
+丩,bushu,27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cành Cây,Cành
 衣,bushu,16,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Quần Áo,
-辰,bushu,27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Che Chắn,
-矛,bushu,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cây Giáo,
+辰,bushu,27,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Che Chắn,"Che, Chắn"
+矛,bushu,32,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cây Giáo,Giáo
 象,bushu,13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Voi,Tượng
 冊,bushu,26,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sách,
 冓,bushu,21,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sống Lại,Tái Sinh
@@ -183,7 +183,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 豕,bushu,12,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lợn,
 乃,bushu,24,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cầu Thang,
 乙,bushu,10,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Mũi To,
-牙,bushu,31,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Răng Nanh,
+牙,bushu,31,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Răng Nanh,Nanh
 舛,bushu,37,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Múa,
 㐮,bushu,41,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Cô Nương,
 凸,bushu,34,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Lồi,
@@ -224,7 +224,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 丸,kanji,3,"九,丶",,がん,まる,,まる,"まる, がん",Tròn,
 主,kanji,4,"王,丶",,しゅ,"おも, ぬし",,しゅ,"しゅ, おも, ぬし",Chủ,
 丼,kanji,34,"井,丶",,,"どんぶり, どん",,どんぶり,"どんぶり, どん",Donburi,Don
-久,kanji,28,"丿,入",九,きゅう,ひさ,,きゅう,"きゅう, ひさ",Lâu Rồi,Cửu
+久,kanji,28,"丿,入",九,きゅう,ひさ,,きゅう,"きゅう, ひさ",Lâu Rồi,"Cửu, Đã Lâu"
 乏,kanji,33,"丆,マ,𠆢",,ぼう,とぼ,,ぼう,"ぼう, とぼ",Thiếu,Nghèo Nàn
 乗,kanji,27,"禾,田",垂,じょう,の,,の,"の, じょう",Ngồi Lên,"Lên, Cưỡi"
 乙,kanji,10,乙,,おつ,おと,,おと,"おと, おつ",Mũi To,
@@ -238,7 +238,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 争,kanji,20,"勹,ヨ,亅",装,そう,あらそ,,そう,"そう, あらそ",Tranh,
 事,kanji,10,"十,口,ヨ",,じ,こと,,じ,"じ, こと",Việc,Sự
 二,kanji,1,二,,に,ふた,,に,"に, ふた",Hai,"Nhị, Nhì"
-互,kanji,26,"二,口",,ご,たが,,ご,"ご, たが",Cùng Nhau,Lẫn Nhau
+互,kanji,26,"二,口",,ご,たが,,ご,"ご, たが",Lẫn Nhau,Cùng Nhau
 五,kanji,2,五,,ご,いつ,,ご,"ご, いつ",Năm,Ngũ
 井,kanji,5,"丿,丨,二",,しょう,い,,い,"い, しょう",Giếng,
 亡,kanji,8,"亠,L",,ぼう,な,,ぼう,"ぼう, な",Chết,Vong
@@ -247,8 +247,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 京,kanji,10,"亠,口,小",,きょう,,,きょう,きょう,Thủ Đô,Kinh
 人,kanji,1,人,入,"にん, じん",ひと,,にん,"にん, じん, ひと",Người,Nhân
 今,kanji,3,今,,こん,いま,,こん,"こん, いま",Bây Giờ,
-介,kanji,28,介,,かい,,,かい,かい,Giới Thiệu,Giới
-仏,kanji,28,"⺅,ム",,ぶつ,ほとけ,,ぶつ,"ぶつ, ほとけ",Phật,
+介,kanji,28,介,界,かい,,,かい,かい,Giới Thiệu,Giới
+仏,kanji,28,"⺅,ム",物,ぶつ,ほとけ,,ぶつ,"ぶつ, ほとけ",Phật,
 仕,kanji,15,"⺅,士",,し,,,し,し,Làm,
 他,kanji,20,"⺅,也",池,た,ほか,,た,"た, ほか",Khác,Tha
 付,kanji,8,"⺅,寸",,ふ,つ,,つ,"つ, ふ",Gắn,
@@ -268,8 +268,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 会,kanji,7,"𠆢,二,ム","合,回,悔",かい,あ,,かい,"かい, あ",Gặp,Hội
 伝,kanji,22,"⺅,云",,でん,つた,,でん,"でん, つた",Truyền,Truyền Đạt
 伯,kanji,43,"⺅,白",,お,,,お,お,Bác,
-伴,kanji,31,"⺅,半",,はん,ともな,,はん,"はん, ともな",Đi Cùng,Hành
-伸,kanji,27,"⺅,申",,しん,の,,の,"の, しん",Dài Ra,
+伴,kanji,31,"⺅,半",,はん,ともな,,はん,"はん, ともな",Đi Cùng,"Hành, Đồng Hành"
+伸,kanji,27,"⺅,申",,,の,,の,の,Dài Ra,"Duỗi, Căng"
 伺,kanji,41,"⺅,司",,,うかが,,うかが,うかが,Thăm,Hỏi
 似,kanji,36,"⺅,以",,,に,,に,に,Giống,
 位,kanji,27,"⺅,立","囲,為,偉",い,,,い,い,Hạng,Vị
@@ -300,7 +300,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 倉,kanji,21,"𠆢,戸,一,口","蔵,庫",そう,くら,,そう,"そう, くら",Kho,
 個,kanji,55,"⺅,固",,こ,,,こ,こ,Cá Nhân,Cá
 倍,kanji,44,"⺅,咅","培,賠",ばい,,,ばい,ばい,Gấp,Bội
-倒,kanji,28,"⺅,至,刂","到,刀,逃,島,盗",とう,たお,,とう,"とう, たお",Sụp Đổ,Đảo
+倒,kanji,28,"⺅,至,刂","到,刀,逃,島,盗",とう,たお,,とう,"とう, たお",Lật Đổ,"Đảo, Sụp Đổ"
 候,kanji,30,"⺅,丨,ユ,矢",喉,こう,,,こう,こう,Khí Hậu,Hậu
 借,kanji,18,"⺅,昔",釈,しゃく,か,,しゃく,"しゃく, か",Mượn,"Thuê, Vay"
 値,kanji,32,"⺅,直","治,知,置",ち,"ね, あたい",,ち,"ち, ね, あたい",Giá Trị,Trị
@@ -308,7 +308,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 倹,kanji,58,"⺅,㑒","験,検,険,剣,鹸",けん,つま,,けん,"けん, つま",Tiết Kiệm,Kiệm
 偉,kanji,63,"⺅,韋","違,位,囲,為",い,えら,,い,"い, えら",Giỏi,Vĩ
 偏,kanji,61,"⺅,戸,冊","遍,編",へん,かたよ,,へん,"へん, かたよ",Nghiêng,Lệch
-停,kanji,29,"⺅,高,丁",,てい,,,てい,てい,Dừng,Đình
+停,kanji,29,"⺅,高,丁",,てい,,,てい,てい,Dừng,"Đình, Trạm"
 健,kanji,27,"⺅,建",,けん,,,けん,けん,Lành Mạnh,
 側,kanji,58,"⺅,則",測,そく,"がわ, そば",,がわ,"がわ, そば, そく",Bên,"Phía, Bên Cạnh"
 偵,kanji,58,"⺅,ト,貝",,てい,,,てい,てい,Thám Tử,
@@ -333,7 +333,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 儲,kanji,70,"⺅,諸",,,"もう, もうけ",,もう,"もう, もうけ",Có Lãi,
 元,kanji,7,"二,儿","言,原,厳","げん, がん",もと,,げん,"げん, がん, もと",Gốc,"Nguyên, Cựu"
 兄,kanji,1,"口,儿","凶,恐,興",きょう,"あに, にい",,きょう,"きょう, あに, にい",Anh Trai,Huynh
-充,kanji,29,"亠,ム,儿",,じゅう,,,じゅう,じゅう,Bổ Sung,Sung
+充,kanji,29,"亠,ム,儿",,じゅう,,,じゅう,じゅう,Trọn Vẹn,Sung
 兆,kanji,35,"丷,丿,L",潮,ちょう,きざ,,ちょう,"ちょう, きざ",Dấu Hiệu,Triệu
 先,kanji,11,"丿,土,儿",失,せん,"さき, ま",,せん,"せん, さき, ま",Trước,Tiên
 光,kanji,19,"⺌,一,儿",広,こう,"ひかり, ひか",,こう,"こう, ひかり, ひか",Ánh Sáng,Quang
@@ -375,7 +375,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 刈,kanji,33,"メ,刂",,,か,,か,か,Cắt,Tỉa
 刊,kanji,34,"干,刂","刑,肝",かん,,,かん,かん,Phát Hành,
 刑,kanji,37,"开,刂","刊,型,形",けい,,,けい,けい,Hình Phạt,Hình
-列,kanji,24,"歹,刂",劣,れつ,,,れつ,れつ,Hàng,
+列,kanji,24,"歹,刂",劣,れつ,,,れつ,れつ,Hàng,"Cột, Chuỗi"
 初,kanji,9,"ネ,刀","所,署",しょ,"はじ, はつ",,しょ,"しょ, はじ, はつ",Lần Đầu,Sơ
 判,kanji,38,"半,刂","反,犯,範","はん, ばん",,,はん,"はん, ばん",Phán,
 別,kanji,16,"口,刀,刂",蔑,べつ,わか,,べつ,"べつ, わか",Riêng,"Biệt, Khác"
@@ -395,7 +395,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 剤,kanji,30,"斉,刂","済,斎",ざい,,,ざい,ざい,Chất,
 副,kanji,20,"一,口,田,刂",福,ふく,,,ふく,ふく,Phụ,Phó
 剰,kanji,62,"乗,刂",,じょう,,,じょう,じょう,Thừa,Thái Quá
-割,kanji,25,"害,刂",,,"わり, わ",,わり,"わり, わ",Chia,
+割,kanji,25,"害,刂",,,"わり, わ",,わり,"わり, わ",Chia,"Tách, Vỡ"
 創,kanji,21,"倉,刂",爽,そう,,,そう,そう,Sáng Tạo,Sáng
 劇,kanji,38,"虍,豕,刂","撃,激,戯",げき,,,げき,げき,Kịch,
 力,kanji,2,力,九,"りょく, りき",ちから,,りょく,"りょく, りき, ちから",Lực,Sức Mạnh
@@ -448,7 +448,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 厚,kanji,51,"厂,日,子",,こう,あつ,,あつ,"あつ, こう",Dày,
 原,kanji,14,"厂,白,小","元,言,厳",げん,はら,,げん,"げん, はら",Nguyên,
 厳,kanji,55,"𭕄,厂,敢","元,言,原",げん,"きび, おごそ",,げん,"げん, きび, おごそ",Nghiêm,
-去,kanji,15,"土,ム",,"きょ, こ",さ,,きょ,"きょ, こ, さ",Quá Khứ,Khứ
+去,kanji,15,"土,ム",拠,"きょ, こ",さ,,きょ,"きょ, こ, さ",Quá Khứ,Khứ
 参,kanji,30,"ム,大,彡",,さん,まい,,さん,"さん, まい",Tham Gia,Tham
 及,kanji,24,"乃,人",,きゅう,およ,,きゅう,"きゅう, およ",Phổ Cập,Cập
 友,kanji,15,"ナ,又","右,有",ゆう,とも,,ゆう,"ゆう, とも",Bạn,Hữu
@@ -485,7 +485,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 吠,kanji,5,"口,犬",,,ほ,,ほ,ほ,Sủa,Hú
 否,kanji,21,"不,口",,ひ,"いな, いや",,ひ,"ひ, いな, いや",Không,Phủ
 含,kanji,41,"今,口",,がん,ふく,,がん,"がん, ふく",Gồm,
-吸,kanji,27,"口,及","級,扱,汲",きゅう,す,,きゅう,"きゅう, す",Hút,Hấp
+吸,kanji,27,"口,及","級,扱,汲",きゅう,す,,きゅう,"きゅう, す",Hút,"Hấp, Hít"
 吹,kanji,38,"口,欠",,すい,ふ,,ふ,"ふ, すい",Thổi,
 呂,kanji,16,"口,丶","路,炉,賂",ろ,,,ろ,ろ,Bồn Tắm,
 呆,kanji,42,"口,木",,ほう,"あき, ほけ, ぼ",,ほう,"ほう, あき, ほけ, ぼ",Cạn Lời,
@@ -498,7 +498,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 和,kanji,5,"丿,木,口",知,わ,"なご, やわ",より,わ,"わ, なご, やわ, より",Hòa Bình,"Hòa, Kiểu Nhật"
 咲,kanji,51,"口,关",,,さ,,さ,さ,Nở,
 咳,kanji,21,"口,亥",,,せき,,せき,せき,Ho,Cơn Ho
-哀,kanji,30,"亠,口,𧘇",衰,あい,あわ,,あい,"あい, あわ",Đáng Thương,
+哀,kanji,30,"亠,口,𧘇",衰,あい,あわ,,あい,"あい, あわ",Đáng Thương,Thương Cảm
 品,kanji,14,口,,ひん,しな,,ひん,"ひん, しな",Hàng Hóa,"Phẩm, Phẩm Chất"
 員,kanji,16,"口,貝",院,いん,,,いん,いん,Thành Viên,Viên
 哲,kanji,57,"折,口","徹,鉄",てつ,,,てつ,てつ,Triết Lý,Triết
@@ -545,7 +545,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 均,kanji,11,"土,勹,二",,きん,,,きん,きん,Bình Quân,Quân
 坊,kanji,26,"土,方","妨,防,房",ぼう,,,ぼう,ぼう,Sư,
 垂,kanji,35,"工,田",乗,すい,た,,すい,"すい, た",Rủ Xuống,
-型,kanji,25,"开,刂,土",刑,けい,かた,,けい,"けい, かた",Hình,
+型,kanji,25,"开,刂,土",刑,けい,かた,,けい,"けい, かた",Hình,"Kiểu, Dáng"
 垣,kanji,53,"土,一,旦",,,かき,,かき,かき,Hàng Rào,
 埃,kanji,55,"土,ム,矢",,,ほこり,,ほこり,ほこり,Bụi,
 埋,kanji,55,"土,里",理,まい,"う, うず",,う,"う, うず, まい",Chôn,Mai
@@ -646,7 +646,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 定,kanji,10,"宀,正","訂,庭","てい, じょう",さだ,,てい,"てい, じょう, さだ",Xác Định,Định
 宛,kanji,49,"宀,夕,卩",,,あて,,あて,あて,Người Nhận,
 宜,kanji,50,"宀,且",宣,ぎ,よろ,,よろ,"よろ, ぎ",Tốt,
-宝,kanji,25,"宀,王,丶",,ほう,たから,,ほう,"ほう, たから",Kho Báu,Báu
+宝,kanji,25,"宀,王,丶",,ほう,たから,,ほう,"ほう, たから",Kho Báu,"Báu, Bảo"
 実,kanji,10,"宀,𡗗",,じつ,"み, みの",,じつ,"じつ, み, みの",Sự Thật,"Thực, Trái"
 客,kanji,27,"宀,各",格,きゃく,,,きゃく,きゃく,Khách,
 宣,kanji,52,"宀,一,旦","宜,選",せん,,,せん,せん,Tuyên Truyền,Tuyên
@@ -721,8 +721,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 希,kanji,20,"メ,布",,き,,,き,き,Hy Vọng,Hy
 帝,kanji,52,"立,巾",提,てい,みかど,,てい,"てい, みかど",Hoàng Đế,Đế
 師,kanji,24,"丶,㠯,一,巾",,し,,,し,し,Thầy,"Sư, Sĩ"
-席,kanji,27,"广,凵,一,巾",,せき,,,せき,せき,Chỗ Ngồi,
-帯,kanji,28,"山,一,冖,巾","対,待,隊",たい,おび,,たい,"たい, おび",Thắt Lưng,Đới
+席,kanji,27,"广,凵,一,巾",,せき,,,せき,せき,Chỗ Ngồi,Ghế
+帯,kanji,28,"山,一,冖,巾","対,待,隊",たい,おび,,たい,"たい, おび",Đai,Đới
 帰,kanji,18,"刂,ヨ,冖,巾",,き,かえ,,かえ,"かえ, き",Về,
 帳,kanji,57,"巾,長",,ちょう,とばり,,ちょう,"ちょう, とばり",Sổ,Màn Che
 常,kanji,23,"𭕄,冖,吊","上,場",じょう,つね,,じょう,"じょう, つね",Luôn Luôn,Thường
@@ -758,7 +758,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 弁,kanji,19,"ム,廾",,べん,,,べん,べん,Biện Minh,"Biện, Giọng, Cánh Hoa"
 式,kanji,23,"弋,工",,しき,,,しき,しき,Lễ,Thức
 弓,kanji,7,弓,,きゅう,ゆみ,,きゅう,"きゅう, ゆみ",Cung,
-引,kanji,25,"弓,丨",,いん,ひ,,ひ,"ひ, いん",Kéo,
+引,kanji,25,"弓,丨",,いん,ひ,,ひ,"ひ, いん",Kéo,"Rút, Trừ"
 弟,kanji,16,"丷,弓,丨,丿",,"だい, で",おとうと,,だい,"だい, で, おとうと",Em Trai,Đệ
 弧,kanji,42,"弓,瓜","狐,孤",こ,,,こ,こ,Dấu Ngoặc,
 弱,kanji,11,"弓,冫",,じゃく,よわ,,じゃく,"じゃく, よわ",Yếu,Nhược
@@ -807,7 +807,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 怪,kanji,31,"忄,又,土","海,開,階,改","かい, け",あや,,かい,"かい, け, あや",Đáng Nghi,Quái
 恋,kanji,21,"亠,儿,ハ,心",変,れん,こい,,れん,"れん, こい",Yêu,Luyến
 恐,kanji,43,"工,凡,心","兄,凶,興",きょう,"おそ, こわ",,きょう,"きょう, おそ, こわ",Sợ,Khủng
-恥,kanji,54,"耳,心",,,"は, はじ",,は,"は, はじ",Xấu Hổ,
+恥,kanji,54,"耳,心",,,"は, はじ",,は,"は, はじ",Xấu Hổ,Ngại
 恨,kanji,53,"忄,艮",根,こん,うら,,こん,"こん, うら",Hận,
 恩,kanji,56,"口,大,心",,おん,,,おん,おん,Ơn,Ân
 息,kanji,54,"自,心",,そく,いき,,そく,"そく, いき",Thở,
@@ -847,7 +847,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 懸,kanji,46,"県,系,心",,"けん, け",か,,けん,"けん, け, か",Treo,Hết Sức
 成,kanji,7,"戊,勹",,せい,な,,せい,"せい, な",Thành,
 我,kanji,29,"手,戈",,が,"われ, わ",,が,"が, われ, わ",Tôi,
-戒,kanji,31,"戈,廾",,かい,いまし,,かい,"かい, いまし",Cảnh Báo,
+戒,kanji,31,"戈,廾",,かい,いまし,,かい,"かい, いまし",Cảnh Cáo,Răn Đe
 戚,kanji,58,"戊,上,小",,せき,,,せき,せき,Họ Hàng,
 戦,kanji,20,"𭕄,田,十,戈",占,せん,たたか,,せん,"せん, たたか",Chiến,
 戯,kanji,17,"虍,业,戈",劇,ぎ,たわむ,,ぎ,"ぎ, たわむ",Nô Đùa,"Nghịch Ngợm, Chơi Khăm"
@@ -866,8 +866,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 批,kanji,42,"扌,比",,ひ,,,ひ,ひ,Phê,
 承,kanji,48,"子,二,水",,しょう,うけたまわ,,しょう,"しょう, うけたまわ",Chấp Nhận,
 技,kanji,39,"扌,支",伎,ぎ,わざ,,ぎ,"ぎ, わざ",Kỹ Năng,Kỹ
-抑,kanji,31,"扌,匚,卩",仰,よく,おさ,,よく,"よく, おさ",Kiềm Chế,
-投,kanji,26,"扌,殳",,とう,な,,とう,"とう, な",Ném,
+抑,kanji,31,"扌,匚,卩",仰,よく,おさ,,よく,"よく, おさ",Kiềm Chế,Hạn Chế
+投,kanji,26,"扌,殳",,とう,な,,とう,"とう, な",Ném,Đầu
 抗,kanji,41,"扌,亠,几",航,こう,,,こう,こう,Kháng,
 折,kanji,17,"扌,斤",,せつ,"お, おり",,せつ,"せつ, お, おり",Gãy,"Gập, Gấp"
 抜,kanji,38,"扌,友",,ばつ,ぬ,,ぬ,"ぬ, ばつ",Rút,Nhổ
@@ -886,7 +886,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 拘,kanji,33,"扌,句",,こう,,,こう,こう,Giam,
 招,kanji,9,"扌,刀,口","昭,紹,照,沼",しょう,まね,,しょう,"しょう, まね",Mời,
 拝,kanji,48,"扌,干","俳,排",はい,おが,,はい,"はい, おが",Khấn Vái,Bái
-拠,kanji,50,"扌,処","居,挙,距","きょ, こ",よ,,きょ,"きょ, こ, よ",Căn Cứ,Cứ
+拠,kanji,50,"扌,処","居,挙,距,去","きょ, こ",よ,,きょ,"きょ, こ, よ",Căn Cứ,Cứ
 拡,kanji,50,"扌,広",,かく,ひろ,,かく,"かく, ひろ",Khuếch Đại,Khuếch
 括,kanji,42,"扌,舌",活,かつ,くく,,かつ,"かつ, くく",Buộc,Quát
 拭,kanji,51,"扌,式",,,"ふ, ぬぐ",,ふ,"ふ, ぬぐ",Chùi,Lau
@@ -911,7 +911,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 掌,kanji,66,"𭕄,冖,口,手",,しょう,てのひら,,しょう,"しょう, てのひら",Lòng Bàn Tay,
 排,kanji,59,"扌,非","拝,俳",はい,,,はい,はい,Thải,
 掘,kanji,59,"扌,屈",,くつ,ほ,,くつ,"くつ, ほ",Đào,Quật
-掛,kanji,25,"扌,土,ト",,,か,,か,か,Treo,
+掛,kanji,25,"扌,土,ト",,,か,,か,か,Treo,"Dành, Nhân"
 採,kanji,58,"扌,⺤,木",彩,さい,と,,さい,"さい, と",Hái,Lượm
 探,kanji,58,"扌,冖,儿,木","炭,嘆",たん,"さが, さぐ",,たん,"たん, さが, さぐ",Tìm Kiếm,Thám
 接,kanji,52,"扌,立,女","切,説,節,設",せつ,つ,,せつ,"せつ, つ",Tiếp Xúc,Tiếp
@@ -973,7 +973,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 旗,kanji,54,"方,𠂉,其","期,奇,記,紀",き,はた,,き,"き, はた",Cờ,Kỳ
 既,kanji,47,"艮,牙",,き,すで,,き,"き, すで",Đã,
 日,kanji,2,日,,"にち, じつ","ひ, か",,にち,"にち, じつ, ひ, か",Mặt Trời,"Nhật, Ngày"
-旦,kanji,27,"日,一",,"たん, だん",,,たん,"たん, だん",Sáng Sớm,Tạm Thời
+旦,kanji,27,"日,一",,"たん, だん",,,たん,"たん, だん",Tạm Thời,Sáng Sớm
 旧,kanji,34,"丨,日",,きゅう,,,きゅう,きゅう,Kiểu Cũ,Cựu
 旨,kanji,37,"匕,日",指,し,うま,,し,"し, うま",Ngon,
 早,kanji,3,"日,十",,そう,"はや, さ",,はや,"はや, さ, そう",Sớm,Nhanh
@@ -988,12 +988,12 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 春,kanji,17,"𡗗,日",,しゅん,はる,,はる,"はる, しゅん",Xuân,
 昧,kanji,54,"日,未",,,まい,,まい,まい,Mơ Hồ,Muội
 昨,kanji,47,"日,乍","酢,作",さく,,,さく,さく,Trước,
-昭,kanji,34,"日,召","招,紹,照,沼",しょう,,,しょう,しょう,Shouwa,Shou
+昭,kanji,34,"日,召","招,紹,照,沼",しょう,,,しょう,しょう,Shou,
 是,kanji,23,"日,正",,ぜ,,,ぜ,ぜ,Ze,
 昼,kanji,14,"尸,丶,日,一",,ちゅう,ひる,,ひる,"ひる, ちゅう",Trưa,
 時,kanji,9,"日,土,寸","寺,持,詩,侍",じ,とき,,じ,"じ, とき",Thời Gian,"Thời, Giờ, Lúc, Khi"
 晩,kanji,23,"日,免",,ばん,,,ばん,ばん,Tối,
-普,kanji,24,"丷,一,业,日",,ふ,,,ふ,ふ,Phổ Biến,Phổ
+普,kanji,24,"丷,一,业,日",,ふ,,,ふ,ふ,Thường,Phổ
 景,kanji,63,"日,京","影,警,競",けい,,,けい,けい,Cảnh,
 晴,kanji,63,"日,青",,せい,は,,は,"は, せい",Trời Đẹp,"Quang Đãng, Sáng Tỏ"
 晶,kanji,66,日,,しょう,,,しょう,しょう,Pha Lê,Tinh
@@ -1027,8 +1027,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 本,kanji,3,"木,一",,ほん,もと,,ほん,"ほん, もと",Sách,Bản
 札,kanji,33,"木,乚","冊,刷",さつ,ふだ,,さつ,"さつ, ふだ",Thẻ,"Bảng, Lá Bài, Tờ Tiền"
 机,kanji,36,"木,几",,き,つくえ,,つくえ,"つくえ, き",Bàn,
-材,kanji,20,"木,才",財,ざい,,,ざい,ざい,Gỗ,Tài
-村,kanji,27,"木,寸",,そん,むら,,むら,"むら, そん",Làng,Thôn
+材,kanji,20,"木,才","財,村",ざい,,,ざい,ざい,Gỗ,Tài
+村,kanji,27,"木,寸",材,そん,むら,,むら,"むら, そん",Làng,Thôn
 束,kanji,24,"木,口",,そく,たば,,そく,"そく, たば",Bó,
 条,kanji,23,"夂,木",,じょう,,,じょう,じょう,Điều Khoản,Điều
 来,kanji,9,"一,米",,らい,"く, き",,らい,"らい, く, き",Đến,Lai
@@ -1046,7 +1046,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 枯,kanji,29,"木,古",,,か,,か,か,Héo,
 架,kanji,53,"力,口,木",,か,か,,か,"か, か",Giá,
 柄,kanji,53,"木,丙",,え,がら,,がら,"がら, え",Cán,"Chuôi, Hoa Văn, Nhân Cách"
-染,kanji,29,"氵,九,木",,せん,そ,,せん,"せん, そ",Nhiễm,
+染,kanji,29,"氵,九,木",,せん,そ,,せん,"せん, そ",Nhuộm,Nhiễm
 柔,kanji,51,"矛,木",,じゅう,やわ,,じゅう,"じゅう, やわ",Mềm,Dẻo
 柱,kanji,29,"木,主","注,駐",ちゅう,はしら,,ちゅう,"ちゅう, はしら",Cột,Trụ
 柴,kanji,36,"止,匕,木",紫,さい,しば,,しば,"しば, さい",Củi,
@@ -1112,7 +1112,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 殻,kanji,40,"士,冖,几,殳",確,かく,"から, がら",,かく,"かく, から, がら",Vỏ,Xác
 殿,kanji,57,"尸,共,殳",電,でん,どの,,でん,"でん, どの",Điện Hạ,Điện
 母,kanji,3,毋,,ぼ,"はは, かあ",,ぼ,"ぼ, はは, かあ",Mẹ,Mẫu
-毎,kanji,3,"𠂉,毋",,まい,ごと,,まい,"まい, ごと",Mỗi,Hằng
+毎,kanji,3,"𠂉,毋",,まい,ごと,,まい,"まい, ごと",Hằng,Mỗi
 毒,kanji,36,"生,毋","読,独",どく,,,どく,どく,Độc,
 比,kanji,7,比,,ひ,くら,,ひ,"ひ, くら",So Sánh,Tỷ
 毛,kanji,11,毛,,もう,け,,もう,"もう, け",Lông,
@@ -1132,7 +1132,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 決,kanji,10,"氵,ユ,人","欠,結,潔,傑",けつ,き,,けつ,"けつ, き",Quyết Định,Quyết
 汽,kanji,42,"氵,气",,き,,,き,き,Hơi Nước,Khí
 沈,kanji,40,"氵,冖,丿,L",,ちん,しず,,ちん,"ちん, しず",Chìm,
-沖,kanji,27,"氵,中",,,おき,,おき,おき,Okinawa,Oki
+沖,kanji,27,"氵,中",,,おき,,おき,おき,Oki,
 没,kanji,40,"氵,殳",役,ぼつ,,,ぼつ,ぼつ,Đắm,Chìm
 沢,kanji,42,"氵,尸,丶",択,たく,さわ,,たく,"たく, さわ",Khe Nước,
 河,kanji,25,"氵,可",川,か,かわ,,か,"か, かわ",Sông,Hà
@@ -1168,7 +1168,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 海,kanji,7,"氵,毎","悔,開,階,怪,改",かい,うみ,,かい,"かい, うみ",Biển,Hải
 浸,kanji,56,"氵,ヨ,冖,又","寝,侵",しん,"ひた, つ",,しん,"しん, ひた, つ",Ngâm,Thẩm
 消,kanji,13,"氵,⺌,月",,しょう,"き, け",,しょう,"しょう, き, け",Xóa,Tiêu
-涙,kanji,24,"氵,戸,大",,,なみだ,,なみだ,なみだ,Nước Mắt,
+涙,kanji,24,"氵,戸,大",,るい,なみだ,,なみだ,"なみだ, るい",Nước Mắt,Lệ
 液,kanji,25,"氵,夜","役,疫",えき,,,えき,えき,Thể Lỏng,Dịch
 涼,kanji,59,"氵,京",,りょう,すず,,すず,"すず, りょう",Mát,
 淡,kanji,62,"氵,火",,たん,あわ,,たん,"たん, あわ",Nước Ngọt,
@@ -1179,7 +1179,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 渇,kanji,35,"氵,日,勹,匕",,かつ,かわ,,かわ,"かわ, かつ",Khát,
 済,kanji,14,"氵,斉","剤,斎",さい,す,,さい,"さい, す",Kết Thúc,Tế
 渉,kanji,62,"氵,歩",,しょう,わた,,しょう,"しょう, わた",Can Thiệp,Thiệp
-渋,kanji,25,"氵,止,丷,ハ",,じゅう,しぶ,,じゅう,"じゅう, しぶ",Chát,
+渋,kanji,25,"氵,止,丷,ハ",,じゅう,しぶ,,じゅう,"じゅう, しぶ",Chát,Nhã Nhặn
 減,kanji,24,"氵,戊,一,口",,げん,へ,,げん,"げん, へ",Giảm,
 渡,kanji,46,"氵,度",,と,わた,,わた,"わた, と",Đưa,Băng Qua
 温,kanji,28,"氵,日,皿",,おん,あたた,,おん,"おん, あたた",Ấm,Ôn
@@ -1244,7 +1244,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 煽,kanji,45,"火,尸,羽",,,"おだ, あお",,おだ,"おだ, あお",Khiêu Khích,Nịnh
 熊,kanji,68,"能,灬",,,くま,,くま,くま,Gấu,
 熟,kanji,69,"享,丸,灬",塾,じゅく,う,,じゅく,"じゅく, う",Chín,
-熱,kanji,28,"坴,丸,灬",,ねつ,あつ,,ねつ,"ねつ, あつ",Nóng,Nhiệt
+熱,kanji,28,"坴,丸,灬",,ねつ,あつ,,ねつ,"ねつ, あつ",Nóng,"Nhiệt, Sốt"
 燃,kanji,58,"火,然",,ねん,も,,ねん,"ねん, も",Đốt,Nhiên
 燥,kanji,70,"火,品,木","操,繰,藻",そう,はしゃ,,そう,"そう, はしゃ",Khô,
 爆,kanji,44,"火,暴",,ばく,は,,ばく,"ばく, は",Nổ,Bộc
@@ -1255,7 +1255,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 版,kanji,48,"片,反","半,販,班",はん,,,はん,はん,Xuất Bản,Bản
 牛,kanji,5,牛,午,ぎゅう,うし,,ぎゅう,"ぎゅう, うし",Bò,Ngưu
 牧,kanji,49,"牛,夂",,ぼく,まき,,ぼく,"ぼく, まき",Chăn Nuôi,Mục
-物,kanji,10,"牛,勿",,"ぶつ, もつ",もの,,ぶつ,"ぶつ, もつ, もの",Vật,
+物,kanji,10,"牛,勿",仏,"ぶつ, もつ",もの,,ぶつ,"ぶつ, もつ, もの",Vật,
 牲,kanji,54,"牛,生",,せい,,,せい,せい,Hy Sinh,Sinh
 特,kanji,17,"牛,土,寸","督,得,徳",とく,,,とく,とく,Đặc Biệt,Đặc
 犠,kanji,54,"牛,義","儀,議",ぎ,,,ぎ,ぎ,Hy Sinh,Hy
@@ -1301,7 +1301,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 男,kanji,6,"田,力",,だん,おとこ,,だん,"だん, おとこ",Nam,"Trai, Đàn Ông"
 町,kanji,10,"田,丁",,,まち,,まち,まち,Thị Trấn,
 画,kanji,11,"一,丨,田,凵","両,穫","が, かく",,,が,"が, かく",Hình Ảnh,"Họa, Hoạch"
-界,kanji,10,"田,介",,かい,,,かい,かい,Thế Giới,Giới
+界,kanji,10,"田,介",介,かい,,,かい,かい,Thế Giới,Giới
 畑,kanji,43,"火,田",,,はたけ,,はたけ,はたけ,Ruộng,Cánh Đồng
 留,kanji,23,"ム,刀,田","流,竜","りゅう, る",と,,りゅう,"りゅう, る, と",Cài,Lưu
 畜,kanji,55,"玄,田",,ちく,,,ちく,ちく,Gia Súc,Súc
@@ -1367,7 +1367,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 研,kanji,12,"石,开",,けん,と,,けん,"けん, と",Mài,Nghiên
 砕,kanji,53,"石,九,十",,さい,くだ,,くだ,"くだ, さい",Đập Tan,
 砲,kanji,56,"石,包",,ほう,,,ほう,ほう,Pháo,
-破,kanji,26,"石,皮","波,派",は,やぶ,,は,"は, やぶ",Rách,Phá
+破,kanji,26,"石,皮","波,派",は,やぶ,,は,"は, やぶ",Xé,"Phá, Rách"
 硬,kanji,59,"石,更","堅,固",こう,かた,,こう,"こう, かた",Cứng,
 碁,kanji,49,"其,石",,ご,,,ご,ご,Go,Cờ Vây
 確,kanji,32,"石,冖,隹",殻,かく,たし,,かく,"かく, たし",Xác Nhận,Xác
@@ -1387,9 +1387,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 禁,kanji,33,"木,示","近,勤",きん,,,きん,きん,Cấm,
 禅,kanji,33,"ネ,単","前,然,善",ぜん,,,ぜん,ぜん,Thiền,
 福,kanji,49,"ネ,一,口,田","副,服,伏,復",ふく,,,ふく,ふく,Phúc,
-秀,kanji,24,"禾,乃",,しゅう,,,しゅう,しゅう,Ưu Tú,Tú
+秀,kanji,24,"禾,乃",秋,しゅう,,,しゅう,しゅう,Ưu Tú,Tú
 私,kanji,16,"禾,ム","払,四,子,自,死,思,司",し,"わたし, わたくし",,し,"し, わたし, わたくし",Tôi,Tư
-秋,kanji,14,"禾,火",,しゅう,あき,,あき,"あき, しゅう",Thu,
+秋,kanji,14,"禾,火",秀,しゅう,あき,,あき,"あき, しゅう",Thu,
 科,kanji,6,"丿,木,斗",課,か,,,か,か,Khoa Học,Khoa
 秒,kanji,51,"禾,少",,びょう,,,びょう,びょう,Giây,
 秘,kanji,40,"禾,必","悲,被",ひ,ひ,,ひ,"ひ, ひ",Giấu,Bí
@@ -1453,7 +1453,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 糸,kanji,20,糸,,し,いと,,いと,"いと, し",Sợi Chỉ,Chỉ
 系,kanji,23,"一,糸",係,けい,,,けい,けい,Hệ Thống,Hệ
 紀,kanji,52,"糸,己","記,起,期,奇,旗",き,,,き,き,Thế Kỷ,Kỷ
-約,kanji,24,"糸,勹,丶",薬,やく,,,やく,やく,Ước,
+約,kanji,24,"糸,勹,丶",薬,やく,,,やく,やく,Ước,Khoảng
 紅,kanji,51,"工,糸",虹,こう,べに,,こう,"こう, べに",Đỏ Thẫm,
 紋,kanji,57,"糸,文",,もん,,,もん,もん,Vân Tay,
 納,kanji,47,"糸,内","能,農","のう, な",おさ,,のう,"のう, な, おさ",Nộp,
@@ -1469,7 +1469,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 紳,kanji,62,"糸,申",神,しん,,,しん,しん,Quý Ông,
 紹,kanji,28,"糸,刀,口","招,昭,照,沼",しょう,,,しょう,しょう,Giới Thiệu,Thiệu
 終,kanji,11,"糸,夂,二","衆,周",しゅう,"おわ, お",,しゅう,"しゅう, おわ, お",Kết Thúc,Chung
-組,kanji,31,"糸,且","粗,祖,狙",そ,"くみ, く",,くみ,"くみ, く, そ",Nhóm,Tổ
+組,kanji,31,"糸,且","粗,祖,狙",そ,"くみ, く",,くみ,"くみ, く, そ",Nhóm,"Tổ, Lớp"
 経,kanji,14,"糸,又,土","径,軽",けい,"た, へ",,けい,"けい, た, へ",Trôi Qua,Kinh
 結,kanji,22,"糸,吉","決,潔,傑",けつ,むす,,けつ,"けつ, むす",Buộc,Kết
 絞,kanji,65,"糸,交",,こう,しぼ,,こう,"こう, しぼ",Vắt,
@@ -1477,7 +1477,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 給,kanji,25,"糸,合",,きゅう,,,きゅう,きゅう,Cung Cấp,Cấp
 統,kanji,22,"糸,亠,ム,儿",流,とう,,,とう,とう,Thống Trị,Thống
 絵,kanji,11,"糸,会",,え,,,え,え,Tranh,Hội
-絶,kanji,29,"糸,色",,ぜつ,た,,ぜつ,"ぜつ, た",Tuyệt Chủng,Tuyệt
+絶,kanji,29,"糸,色",,ぜつ,た,,ぜつ,"ぜつ, た",Tuyệt Chủng,"Tuyệt, Ngưng, Hết"
 絹,kanji,67,"糸,口,月",,けん,きぬ,,きぬ,"きぬ, けん",Vải Lụa,Lụa
 継,kanji,46,"糸,L,米",,けい,つ,,けい,"けい, つ",Kế Thừa,
 続,kanji,32,"糸,売","族,賊,俗,属",ぞく,つづ,,ぞく,"ぞく, つづ",Tiếp Tục,Tục
@@ -1509,7 +1509,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 繰,kanji,68,"糸,品,木","操,燥,藻",そう,く,,く,"く, そう",Lặp Lại,
 缶,kanji,28,"午,凵",,かん,,,かん,かん,Lon,Can
 罪,kanji,25,"罒,非","在,財",ざい,つみ,,ざい,"ざい, つみ",Tội,
-置,kanji,28,"罒,直","治,知,値",ち,お,,ち,"ち, お",Đặt,Trí
+置,kanji,28,"罒,直","治,知,値",ち,お,,ち,"ち, お",Đặt,"Trí, Để"
 罰,kanji,33,"罒,言,刂",,ばつ,,,ばつ,ばつ,Phạt,
 署,kanji,12,"罒,者","暑,所,初",しょ,,,しょ,しょ,Sở,
 羊,kanji,15,羊,,よう,ひつじ,,よう,"よう, ひつじ",Cừu,
@@ -1519,10 +1519,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 義,kanji,29,"丷,王,我",,ぎ,,,ぎ,ぎ,Nghĩa,
 羽,kanji,26,羽,,,"はね, は, わ",,はね,"はね, は, わ",Lông,Cánh
 翌,kanji,26,"羽,立",翼,よく,,,よく,よく,Tiếp Theo,
-習,kanji,26,"羽,白","集,襲",しゅう,なら,,しゅう,"しゅう, なら",Học Tập,Tập
+習,kanji,26,"羽,白","集,襲",しゅう,なら,,しゅう,"しゅう, なら",Học,Tập
 翻,kanji,60,"番,羽",,ほん,ひるがえ,,ほん,"ほん, ひるがえ",Lật,Phiên
 翼,kanji,70,"羽,田,共",翌,よく,つばさ,,よく,"よく, つばさ",Cánh,
-老,kanji,24,"耂,匕",労,ろう,,,ろう,ろう,Cao Tuổi,Lão
+老,kanji,24,"耂,匕",労,ろう,,,ろう,ろう,Già,Lão
 考,kanji,15,"耂,𠂉,𠃌",孝,こう,かんが,,こう,"こう, かんが",Suy Nghĩ,Khảo
 者,kanji,11,"耂,日",,しゃ,もの,,しゃ,"しゃ, もの",Người,Giả
 耐,kanji,30,"而,寸",,たい,た,,たい,"たい, た",Chịu Đựng,Nại
@@ -1577,10 +1577,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 舎,kanji,50,"𠆢,土,口",,しゃ,,,しゃ,しゃ,Tòa Nhà,Xá
 舗,kanji,69,"舎,十,丶,用","補,捕",ほ,,,ほ,ほ,Cửa Hàng,"Lát, Trải"
 舞,kanji,37,"無,舛",武,ぶ,"まい, ま",,ぶ,"ぶ, まい, ま",Múa,Vũ
-舟,kanji,30,舟,,,"ふね, ふな",,ふね,"ふね, ふな",Thuyền,
+舟,kanji,30,舟,,,"ふね, ふな",,ふね,"ふね, ふな",Xuồng,Thuyền Nhỏ
 航,kanji,44,"舟,亠,几",抗,こう,,,こう,こう,Định Vị,Hàng
 般,kanji,55,"舟,殳",盤,はん,,,はん,はん,Thông Thường,
-船,kanji,42,"舟,ハ,口",,せん,ふね,,せん,"せん, ふね",Tàu,Thuyền
+船,kanji,42,"舟,ハ,口",,せん,ふね,,せん,"せん, ふね",Thuyền,Tàu
 艦,kanji,47,"舟,監",鑑,かん,,,かん,かん,Hạm,
 良,kanji,12,"丶,艮",量,りょう,"よ, い",,りょう,"りょう, よ, い",Tốt,Lương
 色,kanji,7,色,,"しき, しょく",いろ,,いろ,"いろ, しき, しょく",Màu,Sắc
@@ -1656,7 +1656,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 装,kanji,17,"冫,丨,士,衣",争,"そう, しょう",よそお,,そう,"そう, しょう, よそお",Trang Phục,Trang
 裏,kanji,47,"亠,里,𧘇",,り,うら,,うら,"うら, り",Mặt Sau,
 裕,kanji,49,"ネ,谷",,ゆう,,,ゆう,ゆう,Giàu,
-補,kanji,29,"ネ,十,丶,用","捕,舗",ほ,おぎな,,ほ,"ほ, おぎな",Bổ Sung,Bổ
+補,kanji,29,"ネ,十,丶,用","捕,舗",ほ,おぎな,,ほ,"ほ, おぎな",Bổ Sung,"Bổ, Bù"
 裸,kanji,67,"ネ,果",,ら,はだか,,ら,"ら, はだか",Trần Truồng,Khỏa
 製,kanji,68,"制,衣",,せい,,,せい,せい,Sản Xuất,
 複,kanji,45,"ネ,复",復,ふく,,,ふく,ふく,Số Nhiều,Phức
@@ -1692,7 +1692,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 訳,kanji,60,"言,尸,丶","役,疫",やく,わけ,,やく,"やく, わけ",Dịch,"Lý Do, Nghĩa"
 訴,kanji,62,"言,斤,丶",素,そ,うった,,そ,"そ, うった",Kiện,Tố
 診,kanji,65,"言,𠆢,彡",珍,しん,み,,しん,"しん, み",Khám Bệnh,Chẩn
-証,kanji,29,"言,正",,しょう,あかし,,しょう,"しょう, あかし",Chứng Cứ,Cứ
+証,kanji,29,"言,正",,しょう,あかし,,しょう,"しょう, あかし",Chứng Cứ,Chứng
 詐,kanji,66,"言,乍",,さ,,,さ,さ,Lừa Đảo,
 評,kanji,42,"言,平",,ひょう,,,ひょう,ひょう,Phê Bình,Bình
 詞,kanji,20,"言,司",,し,,,し,し,Từ,
@@ -1711,7 +1711,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 語,kanji,12,"言,五,口",,ご,かた,,ご,"ご, かた",Ngôn Ngữ,"Ngữ, Kể"
 誠,kanji,10,"言,成",,せい,まこと,,せい,"せい, まこと",Thành Thật,Thành
 誤,kanji,46,"言,口,丨,ユ,ハ",,ご,あやま,,ご,"ご, あやま",Nhầm,
-説,kanji,22,"言,兄,丷","切,節,設,接",せつ,と,,せつ,"せつ, と",Thuyết,
+説,kanji,22,"言,兄,丷","切,節,設,接,雪",せつ,と,,せつ,"せつ, と",Thuyết,
 読,kanji,13,"言,売","独,毒","どく, とう",よ,,よ,"よ, どく, とう",Đọc,Độc
 誰,kanji,9,"言,隹",,,だれ,,だれ,だれ,Ai,
 課,kanji,21,"言,田,木",科,か,,,か,か,Bài Học,Khóa
@@ -1752,9 +1752,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 貰,kanji,22,"世,貝",,,もら,,もら,もら,Nhận,
 貴,kanji,64,"中,一,貝","規,季,鬼,軌",き,とうと,,き,"き, とうと",Quý Giá,Quý
 買,kanji,23,"罒,貝",売,ばい,か,,か,"か, ばい",Mua,Mãi
-貸,kanji,24,"代,貝",,たい,か,,か,"か, たい",Cho Mượn,Cho Vay
+貸,kanji,24,"代,貝",,たい,か,,か,"か, たい",Cho Mượn,"Cho Vay, Cho Thuê"
 費,kanji,58,"弓,丿,丨,貝","非,飛",ひ,つい,,ひ,"ひ, つい",Chi Phí,Phí
-貼,kanji,24,"貝,占",粘,,は,,は,は,Dán,
+貼,kanji,24,"貝,占",粘,,は,,は,は,Dán,Gắn
 貿,kanji,64,"ム,刀,貝",,ぼう,,,ぼう,ぼう,Thương Mại,
 賀,kanji,50,"力,口,貝",貨,が,,,が,が,Mừng,
 賂,kanji,67,"貝,各","呂,路,炉",ろ,,,ろ,ろ,Hối Lộ,Lộ
@@ -1764,7 +1764,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 賊,kanji,32,"貝,戈,十","族,続,俗,属",ぞく,,,ぞく,ぞく,Tặc,
 賑,kanji,30,"貝,辰",,しん,にぎ,,にぎ,"しん, にぎ",Nhộn Nhịp,Náo Nhiệt
 賛,kanji,69,"夫,貝",,さん,,,さん,さん,Tán Thành,Tán
-賞,kanji,30,"𭕄,冖,口,貝",,しょう,,,しょう,しょう,Thưởng,
+賞,kanji,30,"𭕄,冖,口,貝",,しょう,,,しょう,しょう,Giải Thưởng,Thưởng
 賠,kanji,60,"貝,咅","倍,培",ばい,,,ばい,ばい,Bồi Thường,Bồi
 賢,kanji,53,"臣,又,貝",,けん,かしこ,,けん,"けん, かしこ",Khôn,"Hiền, Thông Minh"
 質,kanji,20,"斤,貝","失,執","しつ, しち",たち,,しつ,"しつ, しち, たち",Chất Lượng,"Chất, Phẩm Chất"
@@ -1810,14 +1810,14 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 辿,kanji,39,"丶,⻌,山",,,たど,,たど,たど,Theo Dấu,
 迎,kanji,39,"⻌,匚,卩",芸,げい,むか,,げい,"げい, むか",Đón,Nghênh
 近,kanji,6,"⻌,斤","勤,禁",きん,ちか,,きん,"きん, ちか",Gần,Cận
-返,kanji,29,"⻌,反",,へん,かえ,,へん,"へん, かえ",Trả,
+返,kanji,29,"⻌,反",,へん,かえ,,へん,"へん, かえ",Trả,Trở Lại
 迫,kanji,32,"⻌,白","拍,泊",はく,せま,,はく,"はく, せま",Đến Sát,Bách
 述,kanji,41,"⻌,ホ,丶",術,じゅつ,の,,じゅつ,"じゅつ, の",Bày Tỏ,Thuật
 迷,kanji,21,"⻌,米","明,命",めい,まよ,,めい,"めい, まよ",Lạc,Mê
 追,kanji,47,"⻌,㠯,丶",墜,つい,お,,お,"お, つい",Truy Đuổi,Truy
-退,kanji,27,"⻌,艮",,たい,しりぞ,,たい,"たい, しりぞ",Nghỉ Việc,
+退,kanji,27,"⻌,艮",,たい,しりぞ,,たい,"たい, しりぞ",Nghỉ Việc,Rút Lui
 送,kanji,17,"⻌,关",,そう,おく,,そう,"そう, おく",Gửi,Tiễn
-逃,kanji,27,"⻌,丷,丿,L","刀,島,倒,盗",とう,"に, のが",,とう,"とう, に, のが",Đào Tẩu,Đào
+逃,kanji,27,"⻌,丷,丿,L","刀,島,倒,盗",とう,"に, のが",,とう,"とう, に, のが",Bỏ Chạy,Đào
 逆,kanji,38,"⻌,丷,一,凵,丿",虐,ぎゃく,さか,,ぎゃく,"ぎゃく, さか",Ngược,Nghịch
 透,kanji,56,"⻌,秀",,とう,す,,とう,"とう, す",Trong Suốt,Thấu
 途,kanji,55,"⻌,余",,と,,,と,と,Đường,
@@ -1852,7 +1852,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 邦,kanji,43,"三,丿,阝",,ほう,くに,,ほう,"ほう, くに",Bang,
 邪,kanji,31,"牙,阝",,じゃ,よこしま,,じゃ,"じゃ, よこしま",Cảm Lạnh,
 郊,kanji,51,"交,阝",,こう,,,こう,こう,Ngoại Thành,
-郎,kanji,30,"良,阝","朗,浪",ろう,,,ろう,ろう,Yarou,Rou
+郎,kanji,30,"良,阝","朗,浪",ろう,,,ろう,ろう,Rou,
 部,kanji,6,"咅,阝",,ぶ,へ,,ぶ,"ぶ, へ",Bộ Phận,Bộ
 郵,kanji,22,"工,田,阝",,ゆう,,,ゆう,ゆう,Bưu Điện,
 郷,kanji,52,"幺,郎","響,享",きょう,さと,,きょう,"きょう, さと",Quê Hương,Hương
@@ -1935,7 +1935,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 離,kanji,47,"亠,凵,メ,隹",理,り,はな,,り,"り, はな",Rời Xa,Ly
 難,kanji,23,"𦰩,隹",,なん,"むずか, にく",,なん,"なん, むずか, にく",Khó,Nạn
 雨,kanji,5,雨,宇,う,"あめ, あま",,あめ,"あめ, あま, う",Mưa,Vũ
-雪,kanji,38,"雨,ヨ",,,ゆき,,ゆき,ゆき,Tuyết,
+雪,kanji,38,"雨,ヨ",説,せつ,ゆき,,ゆき,"ゆき, せつ",Tuyết,
 雰,kanji,34,"雨,分",,ふん,,,ふん,ふん,Bầu Không Khí,
 雲,kanji,41,"雨,云",運,うん,くも,,くも,"くも, うん",Mây,Vân
 零,kanji,66,"雨,令","齢,冷,霊",れい,こぼ,,れい,"れい, こぼ",Không,
@@ -2023,7 +2023,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 鹿,kanji,62,"广,覀,比",,,"か, しか",,か,"か, しか",Hươu,Lộc
 麗,kanji,49,"一,凵,丶,广,覀,比",,れい,,,れい,れい,Đẹp,Lệ
 麦,kanji,28,"生,夂",,,むぎ,,むぎ,むぎ,Lúa Mì,Mạch
-麺,kanji,50,"麦,面",,めん,,,めん,めん,Mỳ,
+麺,kanji,50,"麦,面",,めん,,,めん,めん,Mì,
 麻,kanji,62,"广,木",,ま,,,ま,ま,Cần Sa,Ma
 黄,kanji,9,"艹,一,田,丶",,おう,き,,き,"き, おう",Vàng,
 黒,kanji,15,"里,灬",国,こく,くろ,,くろ,"こく, くろ",Đen,Hắc
@@ -2077,7 +2077,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 ～柄,vocab,53,柄,N/A,N/A,N/A,N/A,がら,がら,Gara,Hoa Văn
 ～次第,vocab,25,"次,第",N/A,N/A,N/A,N/A,しだい,しだい,Shidai,"Phụ Thuộc Vào, Ngay Sau Khi"
 ～歳,vocab,23,歳,N/A,N/A,N/A,N/A,さい,さい,Sai,Tuổi
-～段,vocab,23,段,N/A,N/A,N/A,N/A,だん,だん,Dan,"Đếm Bậc, Đếm Ngăn"
+～段,vocab,23,段,N/A,N/A,N/A,N/A,だん,だん,Dan,"Đếm Bậc, Đếm Ngăn, Đếm Giai Đoạn"
 ～殿,vocab,57,殿,N/A,N/A,N/A,N/A,どの,どの,Dono,
 ～氏,vocab,15,氏,N/A,N/A,N/A,N/A,し,し,Shi,
 ～気味,vocab,32,"気,味",N/A,N/A,N/A,N/A,ぎみ,ぎみ,Gimi,"Hơi, Cảm Giác"
@@ -2104,7 +2104,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 ～頭,vocab,35,頭,N/A,N/A,N/A,N/A,とう,とう,Tou,Đếm Con Vật To
 あだ名,vocab,3,名,N/A,N/A,N/A,N/A,あだな,あだな,Biệt Danh,
 うつ伏せ,vocab,30,伏,N/A,N/A,N/A,N/A,うつぶせ,うつぶせ,Nằm Sấp,
-お互い,vocab,26,互,N/A,N/A,N/A,N/A,おたがい,おたがい,Cùng Nhau,Lẫn Nhau
+お互い,vocab,26,互,N/A,N/A,N/A,N/A,おたがい,おたがい,Lẫn Nhau,Cùng Nhau
 お会計,vocab,11,"会,計",N/A,N/A,N/A,N/A,おかいけい,おかいけい,Hóa Đơn,
 お兄さん,vocab,1,兄,N/A,N/A,N/A,N/A,おにいさん,おにいさん,Anh Trai,
 お凸,vocab,34,凸,N/A,N/A,N/A,N/A,おでこ,おでこ,Trán,
@@ -2117,7 +2117,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 お婆さん,vocab,62,婆,N/A,N/A,N/A,N/A,おばあさん,おばあさん,Bà,
 お嬢さん,vocab,41,嬢,N/A,N/A,N/A,N/A,おじょうさん,おじょうさん,Cô Nương,
 お守り,vocab,23,守,N/A,N/A,N/A,N/A,おまもり,おまもり,Bùa,Bùa Hộ Mệnh
-お客さん,vocab,27,客,N/A,N/A,N/A,N/A,おきゃくさん,おきゃくさん,Quý Khách,Khách
+お客さん,vocab,27,客,N/A,N/A,N/A,N/A,おきゃくさん,おきゃくさん,Quý Khách,
 お寺,vocab,18,寺,N/A,N/A,N/A,N/A,おてら,おてら,Chùa,
 お尻,vocab,33,尻,N/A,N/A,N/A,N/A,おしり,おしり,Mông,
 お巡りさん,vocab,37,巡,N/A,N/A,N/A,N/A,おまわりさん,おまわりさん,Chú Cảnh Sát,Cô Cảnh Sát
@@ -2246,6 +2246,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 下心,vocab,55,"下,心",N/A,N/A,N/A,N/A,したごころ,したごころ,Ý Đồ,Ý Đồ Riêng
 下手,vocab,3,"下,手",N/A,N/A,N/A,N/A,へた,へた,Kém,Tệ
 下旬,vocab,37,"下,旬",N/A,N/A,N/A,N/A,げじゅん,げじゅん,Gejun,Mười Ngày Cuối Tháng
+下水,vocab,53,"下,水",N/A,N/A,N/A,N/A,げすい,げすい,Nước Cống,Cống
 下町,vocab,10,"下,町",N/A,N/A,N/A,N/A,したまち,したまち,Shitamachi,
 下痢,vocab,67,"下,痢",N/A,N/A,N/A,N/A,げり,げり,Tiêu Chảy,
 下着,vocab,18,"下,着",N/A,N/A,N/A,N/A,したぎ,したぎ,Đồ Lót,
@@ -2262,7 +2263,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 不平等,vocab,37,"不,平,等",N/A,N/A,N/A,N/A,ふびょうどう,ふびょうどう,Bất Bình Đẳng,
 不幸,vocab,15,"不,幸",N/A,N/A,N/A,N/A,ふこう,ふこう,Bất Hạnh,
 不思議,vocab,39,"不,思,議",N/A,N/A,N/A,N/A,ふしぎ,ふしぎ,Kỳ Lạ,
-不慣れ,vocab,26,"不,慣",N/A,N/A,N/A,N/A,ふなれ,ふなれ,Chưa Quen,
+不慣れ,vocab,26,"不,慣",N/A,N/A,N/A,N/A,ふなれ,ふなれ,Chưa Quen,Không Quen
 不振,vocab,56,"不,振",N/A,N/A,N/A,N/A,ふしん,ふしん,Không Tốt,"Không Trôi Chảy, Trì Trệ"
 不明,vocab,16,"不,明",N/A,N/A,N/A,N/A,ふめい,ふめい,Không Rõ,"Bất Minh, Không Xác Định"
 不正,vocab,8,"不,正",N/A,N/A,N/A,N/A,ふせい,ふせい,Bất Chính,
@@ -2331,9 +2332,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 乏しい,vocab,33,乏,N/A,N/A,N/A,N/A,とぼしい,とぼしい,Thiếu,Nghèo Nàn
 乗せる,vocab,27,乗,N/A,N/A,N/A,N/A,のせる,のせる,Đặt Lên,"Cho Lên, Chở"
 乗り口,vocab,27,"乗,口",N/A,N/A,N/A,N/A,のりぐち,のりぐち,Cửa Lên,
-乗り場,vocab,27,"乗,場",N/A,N/A,N/A,N/A,のりば,のりば,Bến Xe,
+乗り場,vocab,27,"乗,場",N/A,N/A,N/A,N/A,のりば,のりば,Trạm Xe,"Trạm, Bến"
 乗り換える,vocab,49,"乗,換",N/A,N/A,N/A,N/A,のりかえる,のりかえる,Đổi Tuyến,
-乗り物,vocab,27,"乗,物",N/A,N/A,N/A,N/A,のりもの,のりもの,Phương Tiện,Phương Tiện Đi Lại
+乗り物,vocab,27,"乗,物",N/A,N/A,N/A,N/A,のりもの,のりもの,Phương Tiện,
 乗る,vocab,27,乗,N/A,N/A,N/A,N/A,のる,のる,Ngồi Lên,"Lên, Cưỡi"
 乗客,vocab,27,"乗,客",N/A,N/A,N/A,N/A,じょうきゃく,じょうきゃく,Hành Khách,
 乙女,vocab,10,"乙,女",N/A,N/A,N/A,N/A,おとめ,おとめ,Cô Gái,
@@ -2368,7 +2369,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 予想,vocab,30,"予,想",N/A,N/A,N/A,N/A,よそう,よそう,Dự Đoán,
 予測,vocab,60,"予,測",N/A,N/A,N/A,N/A,よそく,よそく,Dự Đoán,Ước Lượng
 予算,vocab,25,"予,算",N/A,N/A,N/A,N/A,よさん,よさん,Dự Toán,Ngân Sách
-予約,vocab,24,"予,約",N/A,N/A,N/A,N/A,よやく,よやく,Đặt Trước,
+予約,vocab,24,"予,約",N/A,N/A,N/A,N/A,よやく,よやく,Đặt Trước,Hẹn Trước
 予言,vocab,10,"予,言",N/A,N/A,N/A,N/A,よげん,よげん,Tiên Đoán,Tiên Tri
 予防,vocab,13,"予,防",N/A,N/A,N/A,N/A,よぼう,よぼう,Phòng Tránh,
 争う,vocab,20,争,N/A,N/A,N/A,N/A,あらそう,あらそう,Tranh,Tranh Giành
@@ -2418,7 +2419,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 人口,vocab,1,"人,口",N/A,N/A,N/A,N/A,じんこう,じんこう,Dân Số,Nhân Khẩu
 人工,vocab,10,"人,工",N/A,N/A,N/A,N/A,じんこう,じんこう,Nhân Tạo,
 人差し指,vocab,54,"人,差,指",N/A,N/A,N/A,N/A,ひとさしゆび,ひとさしゆび,Ngón Trỏ,
-人形,vocab,23,"人,形",N/A,N/A,N/A,N/A,にんぎょう,にんぎょう,Búp Bê,
+人形,vocab,23,"人,形",N/A,N/A,N/A,N/A,にんぎょう,にんぎょう,Búp Bê,Rối
 人情,vocab,20,"人,情",N/A,N/A,N/A,N/A,にんじょう,にんじょう,Tình Người,
 人数,vocab,30,"人,数",N/A,N/A,N/A,N/A,にんずう,にんずう,Số Người,
 人柄,vocab,53,"人,柄",N/A,N/A,N/A,N/A,ひとがら,ひとがら,Nhân Cách,
@@ -2477,7 +2478,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 以上,vocab,15,"以,上",N/A,N/A,N/A,N/A,いじょう,いじょう,Trở Lên,Hết
 以下,vocab,15,"以,下",N/A,N/A,N/A,N/A,いか,いか,Trở Xuống,
 以外,vocab,15,"以,外",N/A,N/A,N/A,N/A,いがい,いがい,Ngoại Trừ,Ngoài
-以後,vocab,15,"以,後",N/A,N/A,N/A,N/A,いご,いご,Từ Giờ,
+以後,vocab,15,"以,後",N/A,N/A,N/A,N/A,いご,いご,Từ Giờ,"Từ Nay, Từ Sau"
 以降,vocab,30,"以,降",N/A,N/A,N/A,N/A,いこう,いこう,Từ Sau,
 仮に,vocab,13,仮,N/A,N/A,N/A,N/A,かりに,かりに,Giả Sử,
 仮免,vocab,19,"仮,免",N/A,N/A,N/A,N/A,かりめん,かりめん,GPTT,Giấy Phép Tạm Thời
@@ -2564,10 +2565,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 作品,vocab,14,"作,品",N/A,N/A,N/A,N/A,さくひん,さくひん,Tác Phẩm,
 作家,vocab,12,"作,家",N/A,N/A,N/A,N/A,さっか,さっか,Tác Giả,
 作戦,vocab,20,"作,戦",N/A,N/A,N/A,N/A,さくせん,さくせん,Chiến Lược,Tác Chiến
-作文,vocab,11,"作,文",N/A,N/A,N/A,N/A,さくぶん,さくぶん,Bài Văn,
+作文,vocab,11,"作,文",N/A,N/A,N/A,N/A,さくぶん,さくぶん,Bài Văn,Viết Văn
 作曲,vocab,17,"作,曲",N/A,N/A,N/A,N/A,さっきょく,さっきょく,Soạn Nhạc,Sáng Tác Nhạc
 作業,vocab,15,"作,業",N/A,N/A,N/A,N/A,さぎょう,さぎょう,Công Việc,Việc
-作法,vocab,28,"作,法",N/A,N/A,N/A,N/A,さほう,さほう,Lễ Nghi,Quy Tắc Ứng Xử
+作法,vocab,28,"作,法",N/A,N/A,N/A,N/A,さほう,"さほう, さくほう",Lễ Nghi,"Quy Tắc Ứng Xử, Cách Làm"
 作用,vocab,11,"作,用",N/A,N/A,N/A,N/A,さよう,さよう,Tác Dụng,
 作者,vocab,11,"作,者",N/A,N/A,N/A,N/A,さくしゃ,さくしゃ,Tác Giả,
 使い捨て,vocab,48,"使,捨",N/A,N/A,N/A,N/A,つかいすて,つかいすて,Dùng Một Lần,
@@ -2598,7 +2599,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 保つ,vocab,27,保,N/A,N/A,N/A,N/A,たもつ,たもつ,Duy Trì,
 保健,vocab,27,"保,健",N/A,N/A,N/A,N/A,ほけん,ほけん,Y Tế,
 保存,vocab,27,"保,存",N/A,N/A,N/A,N/A,ほぞん,ほぞん,Bảo Quản,Lưu
-保証,vocab,29,"保,証",N/A,N/A,N/A,N/A,ほしょう,ほしょう,Bảo Hành,
+保証,vocab,29,"保,証",N/A,N/A,N/A,N/A,ほしょう,ほしょう,Bảo Hành,Đảm Bảo
 保護,vocab,45,"保,護",N/A,N/A,N/A,N/A,ほご,ほご,Bảo Hộ,
 保険,vocab,32,"保,険",N/A,N/A,N/A,N/A,ほけん,ほけん,Bảo Hiểm,
 保障,vocab,52,"保,障",N/A,N/A,N/A,N/A,ほしょう,ほしょう,Bảo Hiểm,Bảo Đảm
@@ -2608,8 +2609,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 信用,vocab,21,"信,用",N/A,N/A,N/A,N/A,しんよう,しんよう,Tin Tưởng,
 信頼,vocab,48,"信,頼",N/A,N/A,N/A,N/A,しんらい,しんらい,Tin Cậy,
 修士,vocab,30,"修,士",N/A,N/A,N/A,N/A,しゅうし,しゅうし,Thạc Sĩ,
-修理,vocab,30,"修,理",N/A,N/A,N/A,N/A,しゅうり,しゅうり,Sửa,
-修繕,vocab,67,"修,繕",N/A,N/A,N/A,N/A,しゅうぜん,しゅうぜん,Sửa,Sửa Chữa
+修理,vocab,30,"修,理",N/A,N/A,N/A,N/A,しゅうり,しゅうり,Sửa Chữa,Sửa
+修繕,vocab,67,"修,繕",N/A,N/A,N/A,N/A,しゅうぜん,しゅうぜん,Sửa Chữa,Sửa
 俳優,vocab,56,"俳,優",N/A,N/A,N/A,N/A,はいゆう,はいゆう,Diễn Viên,
 俳句,vocab,56,"俳,句",N/A,N/A,N/A,N/A,はいく,はいく,Haiku,
 俵,vocab,56,俵,N/A,N/A,N/A,N/A,たわら,たわら,Bao,
@@ -2625,7 +2626,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 倒す,vocab,28,倒,N/A,N/A,N/A,N/A,たおす,たおす,Lật Đổ,Đánh Bại
 倒れる,vocab,28,倒,N/A,N/A,N/A,N/A,たおれる,たおれる,Sụp Đổ,Ngã
 倒産,vocab,28,"倒,産",N/A,N/A,N/A,N/A,とうさん,とうさん,Phá Sản,
-候補,vocab,30,"候,補",N/A,N/A,N/A,N/A,こうほ,こうほ,Đề Xuất,
+候補,vocab,30,"候,補",N/A,N/A,N/A,N/A,こうほ,こうほ,Ứng Cử Viên,"Ứng Cử, Đề Xuất"
 借りる,vocab,18,借,N/A,N/A,N/A,N/A,かりる,かりる,Mượn,"Thuê, Vay"
 借金,vocab,18,"借,金",N/A,N/A,N/A,N/A,しゃっきん,しゃっきん,Vay,"Nợ, Khoản Nợ"
 値,vocab,32,値,N/A,N/A,N/A,N/A,あたい,あたい,Giá Trị,
@@ -2681,10 +2682,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 儀式,vocab,55,"儀,式",N/A,N/A,N/A,N/A,ぎしき,ぎしき,Nghi Thức,Nghi Lễ
 億,vocab,57,億,N/A,N/A,N/A,N/A,おく,おく,Trăm Triệu,
 償う,vocab,60,償,N/A,N/A,N/A,N/A,つぐなう,つぐなう,Bồi Thường,Chuộc
-優しい,vocab,24,優,N/A,N/A,N/A,N/A,やさしい,やさしい,Tốt Bụng,Nhẹ Nhàng
-優れる,vocab,25,優,N/A,N/A,N/A,N/A,すぐれる,すぐれる,Xuất Sắc,
+優しい,vocab,24,優,N/A,N/A,N/A,N/A,やさしい,やさしい,Tốt Bụng,"Nhẹ Nhàng, Dịu Dàng"
+優れる,vocab,24,優,N/A,N/A,N/A,N/A,すぐれる,すぐれる,Xuất Sắc,
 優先,vocab,24,"優,先",N/A,N/A,N/A,N/A,ゆうせん,ゆうせん,Ưu Tiên,
-優勝,vocab,24,"優,勝",N/A,N/A,N/A,N/A,ゆうしょう,ゆうしょう,Chiến Thắng,
+優勝,vocab,24,"優,勝",N/A,N/A,N/A,N/A,ゆうしょう,ゆうしょう,Vô Địch,Chiến Thắng
 優秀,vocab,24,"優,秀",N/A,N/A,N/A,N/A,ゆうしゅう,ゆうしゅう,Ưu Tú,
 儲かる,vocab,70,儲,N/A,N/A,N/A,N/A,もうかる,もうかる,Có Lãi,
 儲ける,vocab,70,儲,N/A,N/A,N/A,N/A,もうける,もうける,Kiếm Lãi,
@@ -2708,14 +2709,15 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 先祖,vocab,24,"先,祖",N/A,N/A,N/A,N/A,せんぞ,せんぞ,Tổ Tiên,
 先程,vocab,24,"先,程",N/A,N/A,N/A,N/A,さきほど,さきほど,Vừa Rồi,Lúc Nãy
 先端,vocab,63,"先,端",N/A,N/A,N/A,N/A,せんたん,せんたん,Mũi Nhọn,"Tiên Tiến, Tiên Phong"
-先輩,vocab,24,"先,輩",N/A,N/A,N/A,N/A,せんぱい,せんぱい,Tiền Bối,
+先輩,vocab,24,"先,輩",N/A,N/A,N/A,N/A,せんぱい,せんぱい,Senpai,Tiền Bối
 先週,vocab,11,"先,週",N/A,N/A,N/A,N/A,せんしゅう,せんしゅう,Tuần Trước,
+先進国,vocab,59,"先,進,国",N/A,N/A,N/A,N/A,せんしんこく,せんしんこく,Nước Phát Triển,
 先頃,vocab,58,"先,頃",N/A,N/A,N/A,N/A,さきごろ,さきごろ,Gần Đây,Hôm Trước
 先駆け,vocab,68,"先,駆",N/A,N/A,N/A,N/A,さきがけ,さきがけ,Tiên Phong,
 光,vocab,19,光,N/A,N/A,N/A,N/A,ひかり,ひかり,Ánh Sáng,
 光る,vocab,19,光,N/A,N/A,N/A,N/A,ひかる,ひかる,Phát Sáng,Tỏa Sáng
 光景,vocab,63,"光,景",N/A,N/A,N/A,N/A,こうけい,こうけい,Quang Cảnh,
-光栄,vocab,46,"光,栄",N/A,N/A,N/A,N/A,こうえい,こうえい,Vinh Dự,
+光栄,vocab,46,"光,栄",N/A,N/A,N/A,N/A,こうえい,こうえい,Vinh Dự,Vinh Hạnh
 克服,vocab,43,"克,服",N/A,N/A,N/A,N/A,こくふく,こくふく,Khắc Phục,Vượt Qua
 免れる,vocab,19,免,N/A,N/A,N/A,N/A,まぬがれる,まぬがれる,Được Miễn,Thoát Khỏi
 免疫,vocab,53,"免,疫",N/A,N/A,N/A,N/A,めんえき,めんえき,Miễn Dịch,
@@ -2749,7 +2751,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 八百屋,vocab,16,"八,百,屋",N/A,N/A,N/A,N/A,やおや,やおや,Yaoya,Cửa Hàng Bán Rau
 公園,vocab,23,"公,園",N/A,N/A,N/A,N/A,こうえん,こうえん,Công Viên,
 公害,vocab,24,"公,害",N/A,N/A,N/A,N/A,こうがい,こうがい,Ô Nhiễm,
-公式,vocab,23,"公,式",N/A,N/A,N/A,N/A,こうしき,こうしき,Công Thức,Chính Thức
+公式,vocab,23,"公,式",N/A,N/A,N/A,N/A,こうしき,こうしき,Chính Thức,Công Thức
 公立,vocab,5,"公,立",N/A,N/A,N/A,N/A,こうりつ,こうりつ,Công Lập,
 公衆,vocab,65,"公,衆",N/A,N/A,N/A,N/A,こうしゅう,こうしゅう,Công Cộng,
 公開,vocab,7,"公,開",N/A,N/A,N/A,N/A,こうかい,こうかい,Công Khai,
@@ -2770,7 +2772,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 典型,vocab,25,"典,型",N/A,N/A,N/A,N/A,てんけい,てんけい,Điển Hình,
 内,vocab,6,内,N/A,N/A,N/A,N/A,うち,うち,Trong,
 内側,vocab,58,"内,側",N/A,N/A,N/A,N/A,うちがわ,うちがわ,Bên Trong,
-内容,vocab,25,"内,容",N/A,N/A,N/A,N/A,ないよう,ないよう,Nội Dung,
+内容,vocab,25,"内,容",N/A,N/A,N/A,N/A,ないよう,ないよう,Nội Dung,Đồ Bên Trong
 内緒,vocab,45,"内,緒",N/A,N/A,N/A,N/A,ないしょ,ないしょ,Bí Mật,
 内臓,vocab,43,"内,臓",N/A,N/A,N/A,N/A,ないぞう,ないぞう,Nội Tạng,
 円い,vocab,1,円,N/A,N/A,N/A,N/A,まるい,まるい,Tròn,
@@ -2843,7 +2845,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 出身,vocab,9,"出,身",N/A,N/A,N/A,N/A,しゅっしん,しゅっしん,Xuất Thân,
 刀,vocab,4,刀,N/A,N/A,N/A,N/A,かたな,かたな,Kiếm,"Đao, Katana"
 刃,vocab,10,刃,N/A,N/A,N/A,N/A,は,"は, やいば",Lưỡi Dao,
-刃物,vocab,10,"刃,物",N/A,N/A,N/A,N/A,はもの,はもの,Dao,
+刃物,vocab,10,"刃,物",N/A,N/A,N/A,N/A,はもの,はもの,Dao,Dụng Cụ Cắt
 分,vocab,4,分,N/A,N/A,N/A,N/A,ぶん,ぶん,Phần,
 分かる,vocab,5,分,N/A,N/A,N/A,N/A,わかる,わかる,Hiểu,
 分ける,vocab,4,分,N/A,N/A,N/A,N/A,わける,わける,Chia Ra,Phân Ra
@@ -2865,7 +2867,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 刊行,vocab,34,"刊,行",N/A,N/A,N/A,N/A,かんこう,かんこう,Phát Hành,
 刑事,vocab,37,"刑,事",N/A,N/A,N/A,N/A,けいじ,けいじ,Hình Sự,Cảnh Sát Điều Tra
 刑務所,vocab,37,"刑,務,所",N/A,N/A,N/A,N/A,けいむしょ,けいむしょ,Nhà Tù,
-列,vocab,24,列,N/A,N/A,N/A,N/A,れつ,れつ,Hàng,Cột
+列,vocab,24,列,N/A,N/A,N/A,N/A,れつ,れつ,Hàng,"Cột, Chuỗi"
 列島,vocab,24,"列,島",N/A,N/A,N/A,N/A,れっとう,れっとう,Quần Đảo,
 列車,vocab,24,"列,車",N/A,N/A,N/A,N/A,れっしゃ,れっしゃ,Đoàn Tàu,Tàu
 初っ端,vocab,63,"初,端",N/A,N/A,N/A,N/A,しょっぱな,しょっぱな,Khởi Đầu,Ngay Từ Đầu
@@ -2880,7 +2882,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 判断,vocab,38,"判,断",N/A,N/A,N/A,N/A,はんだん,はんだん,Phán Xét,Quyết Định
 判決,vocab,38,"判,決",N/A,N/A,N/A,N/A,はんけつ,はんけつ,Phán Quyết,
 別,vocab,16,別,N/A,N/A,N/A,N/A,べつ,べつ,Riêng,Khác
-別々,vocab,16,"別,々",N/A,N/A,N/A,N/A,べつべつ,べつべつ,Riêng,
+別々,vocab,16,"別,々",N/A,N/A,N/A,N/A,べつべつ,べつべつ,Riêng Biệt,
 別れる,vocab,16,別,N/A,N/A,N/A,N/A,わかれる,わかれる,Chia Tay,
 利く,vocab,18,利,N/A,N/A,N/A,N/A,きく,きく,Có Tác Dụng,
 利潤,vocab,69,"利,潤",N/A,N/A,N/A,N/A,りじゅん,りじゅん,Lợi Nhuận,
@@ -2918,7 +2920,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 割り箸,vocab,33,"割,箸",N/A,N/A,N/A,N/A,わりばし,わりばし,Đũa Tách,Đũa Dùng Một Lần
 割り込む,vocab,56,"割,込",N/A,N/A,N/A,N/A,わりこむ,わりこむ,Chen Ngang,
 割る,vocab,25,割,N/A,N/A,N/A,N/A,わる,わる,Chia,"Tách, Làm Vỡ"
-割れる,vocab,26,割,N/A,N/A,N/A,N/A,われる,われる,Vỡ,
+割れる,vocab,25,割,N/A,N/A,N/A,N/A,われる,われる,Vỡ,
 割合,vocab,25,"割,合",N/A,N/A,N/A,N/A,わりあい,わりあい,Tỷ Lệ,
 割引,vocab,25,"割,引",N/A,N/A,N/A,N/A,わりびき,わりびき,Giảm Giá,
 創作,vocab,21,"創,作",N/A,N/A,N/A,N/A,そうさく,そうさく,Sáng Tác,Sáng Tạo
@@ -2935,7 +2937,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 加速,vocab,30,"加,速",N/A,N/A,N/A,N/A,かそく,かそく,Gia Tốc,
 劣る,vocab,37,劣,N/A,N/A,N/A,N/A,おとる,おとる,Kém Hơn,
 劣化,vocab,37,"劣,化",N/A,N/A,N/A,N/A,れっか,れっか,Xuống Cấp,
-劣等感,vocab,37,"劣,等,感",N/A,N/A,N/A,N/A,れっとうかん,れっとうかん,Chứng Tự Ti,
+劣等感,vocab,37,"劣,等,感",N/A,N/A,N/A,N/A,れっとうかん,れっとうかん,Chứng Tự Ti,Sự Tự Ti
 助かる,vocab,17,助,N/A,N/A,N/A,N/A,たすかる,たすかる,Được Cứu,Được Giúp
 助ける,vocab,17,助,N/A,N/A,N/A,N/A,たすける,たすける,Cứu,Giúp
 助け舟,vocab,30,"助,舟",N/A,N/A,N/A,N/A,たすけぶね,たすけぶね,Xuồng Cứu Sinh,
@@ -2971,7 +2973,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 勝つ,vocab,18,勝,N/A,N/A,N/A,N/A,かつ,かつ,Thắng,
 勝利,vocab,18,"勝,利",N/A,N/A,N/A,N/A,しょうり,しょうり,Thắng Lợi,
 勝手,vocab,19,"勝,手",N/A,N/A,N/A,N/A,かって,かって,Tự Ý,Tự Tiện
-勝敗,vocab,18,"勝,敗",N/A,N/A,N/A,N/A,しょうはい,しょうはい,Thắng Bại,
+勝敗,vocab,18,"勝,敗",N/A,N/A,N/A,N/A,しょうはい,しょうはい,Thắng Bại,Thắng Thua
 勝負,vocab,19,"勝,負",N/A,N/A,N/A,N/A,しょうぶ,しょうぶ,Thắng Thua,"Cuộc Đấu, So Tài"
 募る,vocab,49,募,N/A,N/A,N/A,N/A,つのる,つのる,Chiêu Mộ,
 募金,vocab,49,"募,金",N/A,N/A,N/A,N/A,ぼきん,ぼきん,Quyên Góp,
@@ -2982,8 +2984,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 勧める,vocab,42,勧,N/A,N/A,N/A,N/A,すすめる,すすめる,Đề Xuất,Giới Thiệu
 勧告,vocab,42,"勧,告",N/A,N/A,N/A,N/A,かんこく,かんこく,Khuyến Cáo,
 勧誘,vocab,42,"勧,誘",N/A,N/A,N/A,N/A,かんゆう,かんゆう,Chào Mời,Dụ Dỗ
-勿体ない,vocab,26,"勿,体",N/A,N/A,N/A,N/A,もったいない,もったいない,Phí,Không Đáng
-勿論,vocab,26,"勿,論",N/A,N/A,N/A,N/A,もちろん,もちろん,Đương Nhiên,
+勿体ない,vocab,26,"勿,体",N/A,N/A,N/A,N/A,もったいない,もったいない,Lãng Phí,Không Đáng
+勿論,vocab,26,"勿,論",N/A,N/A,N/A,N/A,もちろん,もちろん,Tất Nhiên,Đương Nhiên
 匂い,vocab,26,匂,N/A,N/A,N/A,N/A,におい,におい,Mùi,
 匂う,vocab,26,匂,N/A,N/A,N/A,N/A,におう,におう,Có Mùi,
 包む,vocab,12,包,N/A,N/A,N/A,N/A,つつむ,"つつむ, くるむ",Bọc,
@@ -3040,6 +3042,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 南瓜,vocab,37,"南,瓜",N/A,N/A,N/A,N/A,かぼちゃ,かぼちゃ,Bí Ngô,
 単に,vocab,28,単,N/A,N/A,N/A,N/A,たんに,たんに,Chỉ Là,Đơn Giản Là
 単位,vocab,28,"単,位",N/A,N/A,N/A,N/A,たんい,たんい,Đơn Vị,
+単独,vocab,58,"単,独",N/A,N/A,N/A,N/A,たんどく,たんどく,Đơn Độc,Một Mình
 単純,vocab,55,"単,純",N/A,N/A,N/A,N/A,たんじゅん,たんじゅん,Đơn Giản,
 単語,vocab,28,"単,語",N/A,N/A,N/A,N/A,たんご,たんご,Từ,Từ Vựng
 博士,vocab,41,"博,士",N/A,N/A,N/A,N/A,はかせ,"はかせ, はくし",Tiến Sĩ,
@@ -3052,7 +3055,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 印刷,vocab,43,"印,刷",N/A,N/A,N/A,N/A,いんさつ,いんさつ,In Ấn,
 印象,vocab,14,"印,象",N/A,N/A,N/A,N/A,いんしょう,いんしょう,Ấn Tượng,
 印鑑,vocab,47,"印,鑑",N/A,N/A,N/A,N/A,いんかん,いんかん,Con Dấu,
-危うい,vocab,44,危,N/A,N/A,N/A,N/A,あやうい,あやうい,Nguy Kịch,
+危うい,vocab,32,危,N/A,N/A,N/A,N/A,あやうい,あやうい,Nguy Hiểm,"Nguy Kịch, Hiểm Nghèo"
 危ない,vocab,32,危,N/A,N/A,N/A,N/A,あぶない,あぶない,Nguy Hiểm,
 危機,vocab,32,"危,機",N/A,N/A,N/A,N/A,きき,きき,Khủng Hoảng,Nguy Cơ
 危険,vocab,32,"危,険",N/A,N/A,N/A,N/A,きけん,きけん,Nguy Hiểm,
@@ -3082,7 +3085,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 参加,vocab,30,"参,加",N/A,N/A,N/A,N/A,さんか,さんか,Tham Gia,
 参考,vocab,30,"参,考",N/A,N/A,N/A,N/A,さんこう,さんこう,Tham Khảo,
 及び,vocab,24,及,N/A,N/A,N/A,N/A,および,および,Và,
-及ぶ,vocab,25,及,N/A,N/A,N/A,N/A,およぶ,およぶ,Lan Ra,Kéo Dài
+及ぶ,vocab,24,及,N/A,N/A,N/A,N/A,およぶ,およぶ,Kéo Dài,"Lên Đến, Ngang Tầm"
 及ぼす,vocab,24,及,N/A,N/A,N/A,N/A,およぼす,およぼす,Gây,
 友人,vocab,15,"友,人",N/A,N/A,N/A,N/A,ゆうじん,ゆうじん,Người Bạn,Bạn
 友好的,vocab,15,"友,好,的",N/A,N/A,N/A,N/A,ゆうこうてき,ゆうこうてき,Thân Thiện,
@@ -3098,9 +3101,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 反応,vocab,41,"反,応",N/A,N/A,N/A,N/A,はんのう,はんのう,Phản Ứng,
 反抗,vocab,41,"反,抗",N/A,N/A,N/A,N/A,はんこう,はんこう,Phản Kháng,Chống Đối
 反映,vocab,8,"反,映",N/A,N/A,N/A,N/A,はんえい,はんえい,Phản Ánh,
+反発,vocab,51,"反,発",N/A,N/A,N/A,N/A,はんぱつ,はんぱつ,Phản Bác,"Phản Đối, Chống Đối"
 反省,vocab,51,"反,省",N/A,N/A,N/A,N/A,はんせい,はんせい,Hối Lỗi,Rút Kinh Nghiệm
 反響,vocab,31,"反,響",N/A,N/A,N/A,N/A,はんきょう,はんきょう,Vang,"Vọng, Hưởng Ứng"
-収まる,vocab,27,収,N/A,N/A,N/A,N/A,おさまる,おさまる,Lắng Dịu,Vừa Vặn
+収まる,vocab,27,収,N/A,N/A,N/A,N/A,おさまる,おさまる,Vừa Vặn,Lắng Dịu
 収める,vocab,27,収,N/A,N/A,N/A,N/A,おさめる,おさめる,Thu Được,
 収入,vocab,27,"収,入",N/A,N/A,N/A,N/A,しゅうにゅう,しゅうにゅう,Thu Nhập,
 収益,vocab,47,"収,益",N/A,N/A,N/A,N/A,しゅうえき,しゅうえき,Doanh Thu,
@@ -3120,8 +3124,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 取れる,vocab,6,取,N/A,N/A,N/A,N/A,とれる,とれる,Tuột,Bung
 取引,vocab,25,"取,引",N/A,N/A,N/A,N/A,とりひき,とりひき,Thỏa Thuận,Giao Dịch
 取材,vocab,20,"取,材",N/A,N/A,N/A,N/A,しゅざい,しゅざい,Phỏng Vấn,Thu Thập Thông Tin
-受かる,vocab,14,受,N/A,N/A,N/A,N/A,うかる,うかる,Đỗ,
-受ける,vocab,14,受,N/A,N/A,N/A,N/A,うける,うける,Nhận,
+受かる,vocab,14,受,N/A,N/A,N/A,N/A,うかる,うかる,Được Nhận,"Đỗ, Trúng Tuyển"
+受ける,vocab,14,受,N/A,N/A,N/A,N/A,うける,うける,Nhận,"Thi, Bị"
 受け取る,vocab,15,"受,取",N/A,N/A,N/A,N/A,うけとる,うけとる,Nhận,Nhận Lấy
 受け皿,vocab,20,"受,皿",N/A,N/A,N/A,N/A,うけざら,うけざら,Đĩa Lót Tách,
 受付,vocab,14,"受,付",N/A,N/A,N/A,N/A,うけつけ,うけつけ,Lễ Tân,
@@ -3135,7 +3139,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 口癖,vocab,70,"口,癖",N/A,N/A,N/A,N/A,くちぐせ,くちぐせ,Quen Miệng,Câu Cửa Miệng
 口笛を吹く,vocab,38,"口,笛,吹",N/A,N/A,N/A,N/A,くちぶえをふく,くちぶえをふく,Huýt Sáo,
 口紅,vocab,51,"口,紅",N/A,N/A,N/A,N/A,くちべに,くちべに,Son Môi,
-口説く,vocab,23,"口,説",N/A,N/A,N/A,N/A,くどく,くどく,Tán Tỉnh,Thả Thính
+口説く,vocab,23,"口,説",N/A,N/A,N/A,N/A,くどく,くどく,Tán Tỉnh,"Gạ Gẫm, Thuyết Phục"
 古い,vocab,1,古,N/A,N/A,N/A,N/A,ふるい,ふるい,Cũ,Cổ
 古代,vocab,8,"古,代",N/A,N/A,N/A,N/A,こだい,こだい,Cổ Đại,
 古典,vocab,17,"古,典",N/A,N/A,N/A,N/A,こてん,こてん,Cổ Điển,
@@ -3170,7 +3174,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 叶える,vocab,6,叶,N/A,N/A,N/A,N/A,かなえる,かなえる,Ban Ước,
 号泣,vocab,27,"号,泣",N/A,N/A,N/A,N/A,ごうきゅう,ごうきゅう,Khóc,Khóc Nức Nở
 司令部,vocab,19,"司,令,部",N/A,N/A,N/A,N/A,しれいぶ,しれいぶ,Bộ Tư Lệnh,
-司会,vocab,19,"司,会",N/A,N/A,N/A,N/A,しかい,しかい,MC,Người Chủ Trì
+司会,vocab,19,"司,会",N/A,N/A,N/A,N/A,しかい,しかい,Chủ Trì,"Người Chủ Trì, MC"
 各地,vocab,20,"各,地",N/A,N/A,N/A,N/A,かくち,かくち,Các Vùng,Mọi Vùng
 各自,vocab,20,"各,自",N/A,N/A,N/A,N/A,かくじ,かくじ,Mỗi Người,
 合う,vocab,8,合,N/A,N/A,N/A,N/A,あう,あう,Hợp,Đúng
@@ -3215,7 +3219,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 吐き出す,vocab,25,"吐,出",N/A,N/A,N/A,N/A,はきだす,はきだす,Nhổ,Nôn
 吐き気,vocab,25,"吐,気",N/A,N/A,N/A,N/A,はきけ,はきけ,Buồn Nôn,
 吐息,vocab,54,"吐,息",N/A,N/A,N/A,N/A,といき,といき,Thở Dài,
-吐血,vocab,25,"吐,血",N/A,N/A,N/A,N/A,とけつ,とけつ,Thổ Huyết,Nôn Ra Máu
+吐血,vocab,25,"吐,血",N/A,N/A,N/A,N/A,とけつ,とけつ,Nôn Ra Máu,Thổ Huyết
 向かう,vocab,25,向,N/A,N/A,N/A,N/A,むかう,むかう,Hướng,Hướng Đến
 向く,vocab,24,向,N/A,N/A,N/A,N/A,むく,むく,Hướng,
 向ける,vocab,24,向,N/A,N/A,N/A,N/A,むける,むける,Hướng,
@@ -3231,7 +3235,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 含む,vocab,41,含,N/A,N/A,N/A,N/A,ふくむ,ふくむ,Gồm,Chứa
 含める,vocab,41,含,N/A,N/A,N/A,N/A,ふくめる,ふくめる,Gộp,
 含有,vocab,41,"含,有",N/A,N/A,N/A,N/A,がんゆう,がんゆう,Gồm,Chứa
-吸う,vocab,27,吸,N/A,N/A,N/A,N/A,すう,すう,Hút,
+吸う,vocab,27,吸,N/A,N/A,N/A,N/A,すう,すう,Hút,"Hít, Hấp Thụ"
 吸収,vocab,27,"吸,収",N/A,N/A,N/A,N/A,きゅうしゅう,きゅうしゅう,Hấp Thụ,
 吸血鬼,vocab,28,"吸,血,鬼",N/A,N/A,N/A,N/A,きゅうけつき,きゅうけつき,Ma Cà Rồng,Quỷ Hút Máu
 吹き替え,vocab,39,"吹,替",N/A,N/A,N/A,N/A,ふきかえ,ふきかえ,Lồng Tiếng,
@@ -3319,7 +3323,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 噛み付く,vocab,69,"噛,付",N/A,N/A,N/A,N/A,かみつく,かみつく,Cắn,Nổi Cáu
 噛む,vocab,69,噛,N/A,N/A,N/A,N/A,かむ,かむ,Cắn,
 器,vocab,25,器,N/A,N/A,N/A,N/A,うつわ,うつわ,Đồ Đựng,
-器官,vocab,15,"器,官",N/A,N/A,N/A,N/A,きかん,きかん,Cơ Quan,Cơ Quan Nội Tạng
+器官,vocab,15,"器,官",N/A,N/A,N/A,N/A,きかん,きかん,Cơ Quan,
 器用,vocab,15,"器,用",N/A,N/A,N/A,N/A,きよう,きよう,Khéo Léo,
 噴出,vocab,69,"噴,出",N/A,N/A,N/A,N/A,ふんしゅつ,ふんしゅつ,Phun Trào,
 噴水,vocab,69,"噴,水",N/A,N/A,N/A,N/A,ふんすい,ふんすい,Đài Phun Nước,
@@ -3346,7 +3350,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 回転寿司,vocab,19,"回,転,寿,司",N/A,N/A,N/A,N/A,かいてんずし,かいてんずし,Kaitenzushi,Sushi Băng Chuyền
 回避,vocab,35,"回,避",N/A,N/A,N/A,N/A,かいひ,かいひ,Tránh,
 回顧,vocab,68,"回,顧",N/A,N/A,N/A,N/A,かいこ,かいこ,Hồi Tưởng,
-団体,vocab,12,"団,体",N/A,N/A,N/A,N/A,だんたい,だんたい,Đoàn Thể,
+団体,vocab,12,"団,体",N/A,N/A,N/A,N/A,だんたい,だんたい,Đoàn Thể,"Tập Thể, Nhóm"
 団子,vocab,12,"団,子",N/A,N/A,N/A,N/A,だんご,だんご,Dango,
 団扇,vocab,56,"団,扇",N/A,N/A,N/A,N/A,うちわ,うちわ,Uchiwa,
 団結,vocab,56,"団,結",N/A,N/A,N/A,N/A,だんけつ,だんけつ,Đoàn kết,
@@ -3384,10 +3388,11 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 圧迫,vocab,32,"圧,迫",N/A,N/A,N/A,N/A,あっぱく,あっぱく,Áp Lực,Áp Bức
 地下,vocab,4,"地,下",N/A,N/A,N/A,N/A,ちか,ちか,Dưới Đất,
 地下鉄,vocab,44,"地,下,鉄",N/A,N/A,N/A,N/A,ちかてつ,ちかてつ,Tàu Điện Ngầm,
+地元,vocab,56,"地,元",N/A,N/A,N/A,N/A,じもと,じもと,Địa Phương,Nguyên Quán
 地区,vocab,4,"地,区",N/A,N/A,N/A,N/A,ちく,ちく,Khu Vực,
 地味,vocab,51,"地,味",N/A,N/A,N/A,N/A,じみ,じみ,Giản Dị,
 地図,vocab,16,"地,図",N/A,N/A,N/A,N/A,ちず,ちず,Bản Đồ,
-地域,vocab,24,"地,域",N/A,N/A,N/A,N/A,ちいき,ちいき,Khu Vực,
+地域,vocab,24,"地,域",N/A,N/A,N/A,N/A,ちいき,ちいき,Khu Vực,Địa Phương
 地帯,vocab,28,"地,帯",N/A,N/A,N/A,N/A,ちたい,ちたい,Khu Vực,
 地形,vocab,23,"地,形",N/A,N/A,N/A,N/A,ちけい,ちけい,Địa Hình,
 地方,vocab,4,"地,方",N/A,N/A,N/A,N/A,ちほう,ちほう,Địa Phương,Vùng
@@ -3406,7 +3411,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 垂れる,vocab,35,垂,N/A,N/A,N/A,N/A,たれる,たれる,Rủ Xuống,Nhỏ Giọt
 垂れ幕,vocab,36,"垂,幕",N/A,N/A,N/A,N/A,たれまく,たれまく,Taremaku,Băng Rôn Dọc
 垂直,vocab,35,"垂,直",N/A,N/A,N/A,N/A,すいちょく,すいちょく,Thẳng Đứng,
-型,vocab,25,型,N/A,N/A,N/A,N/A,かた,かた,Hình,
+型,vocab,25,型,N/A,N/A,N/A,N/A,かた,かた,Hình,"Kiểu, Dáng"
 垣,vocab,53,垣,N/A,N/A,N/A,N/A,かき,かき,Hàng Rào,
 垣根,vocab,53,"垣,根",N/A,N/A,N/A,N/A,かきね,かきね,Hàng Rào,
 垣間見る,vocab,53,"垣,間,見",N/A,N/A,N/A,N/A,かいまみる,かいまみる,Hình Dung,Thấy Được Phần Nào
@@ -3417,7 +3422,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 埋葬,vocab,55,"埋,葬",N/A,N/A,N/A,N/A,まいそう,まいそう,Chôn Cất,Mai Táng
 城,vocab,29,城,N/A,N/A,N/A,N/A,しろ,しろ,Lâu Đài,Thành
 城壁,vocab,35,"城,壁",N/A,N/A,N/A,N/A,じょうへき,じょうへき,Tường Thành,
-執念,vocab,61,"執,念",N/A,N/A,N/A,N/A,しゅうねん,しゅうねん,Cố Chấp,
+執念,vocab,61,"執,念",N/A,N/A,N/A,N/A,しゅうねん,しゅうねん,Kiên Định,Cố Chấp
 執着,vocab,61,"執,着",N/A,N/A,N/A,N/A,しゅうちゃく,しゅうちゃく,Tham Lam,"Bận Tâm, Lưu Luyến"
 執筆,vocab,61,"執,筆",N/A,N/A,N/A,N/A,しっぴつ,しっぴつ,Viết,
 培養,vocab,58,"培,養",N/A,N/A,N/A,N/A,ばいよう,ばいよう,Nuôi Cấy,
@@ -3477,10 +3482,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 売却,vocab,42,"売,却",N/A,N/A,N/A,N/A,ばいきゃく,ばいきゃく,Thanh Lý,Bán Lại
 売買,vocab,23,"売,買",N/A,N/A,N/A,N/A,ばいばい,ばいばい,Mua Bán,
 変,vocab,25,変,N/A,N/A,N/A,N/A,へん,へん,Lạ,
-変える,vocab,25,変,N/A,N/A,N/A,N/A,かえる,かえる,Đổi,Biến Đổi
-変わる,vocab,25,変,N/A,N/A,N/A,N/A,かわる,かわる,Đổi,"Biến Đổi, Lạ"
+変える,vocab,25,変,N/A,N/A,N/A,N/A,かえる,かえる,Biến Đổi,
+変わる,vocab,25,変,N/A,N/A,N/A,N/A,かわる,かわる,Biến Đổi,"Lạ, Không Bình Thường"
 変化,vocab,25,"変,化",N/A,N/A,N/A,N/A,へんか,へんか,Biến Hóa,
-変更,vocab,38,"変,更",N/A,N/A,N/A,N/A,へんこう,へんこう,Thay Đổi,
+変更,vocab,38,"変,更",N/A,N/A,N/A,N/A,へんこう,へんこう,Thay Đổi,Sửa Đổi
 変身,vocab,25,"変,身",N/A,N/A,N/A,N/A,へんしん,へんしん,Biến Hình,
 夏,vocab,18,夏,N/A,N/A,N/A,N/A,なつ,なつ,Hè,
 夏休み,vocab,18,"夏,休",N/A,N/A,N/A,N/A,なつやすみ,なつやすみ,Kỳ Nghỉ Hè,
@@ -3505,6 +3510,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 多忙,vocab,34,"多,忙",N/A,N/A,N/A,N/A,たぼう,たぼう,Bận,
 夜,vocab,15,夜,N/A,N/A,N/A,N/A,よる,よる,Đêm,
 夜中,vocab,15,"夜,中",N/A,N/A,N/A,N/A,よなか,よなか,Đêm,
+夜勤,vocab,59,"夜,勤",N/A,N/A,N/A,N/A,やきん,やきん,Ca Đêm,
 夜更かし,vocab,39,"夜,更",N/A,N/A,N/A,N/A,よふかし,よふかし,Thức Đêm,
 夜空,vocab,15,"夜,空",N/A,N/A,N/A,N/A,よぞら,よぞら,Trời Đêm,
 夢,vocab,23,夢,N/A,N/A,N/A,N/A,ゆめ,ゆめ,Giấc Mơ,Ước Mơ
@@ -3569,7 +3575,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 天才,vocab,2,"天,才",N/A,N/A,N/A,N/A,てんさい,てんさい,Thiên Tài,
 天気,vocab,7,"天,気",N/A,N/A,N/A,N/A,てんき,てんき,Thời Tiết,
 天災,vocab,23,"天,災",N/A,N/A,N/A,N/A,てんさい,てんさい,Thiên Tai,
-天然,vocab,26,"天,然",N/A,N/A,N/A,N/A,てんねん,てんねん,Thiên Nhiên,Tự Nhiên
+天然,vocab,26,"天,然",N/A,N/A,N/A,N/A,てんねん,てんねん,Tự Nhiên,
 天皇,vocab,52,"天,皇",N/A,N/A,N/A,N/A,てんのう,てんのう,Thiên Hoàng,
 太い,vocab,3,太,N/A,N/A,N/A,N/A,ふとい,ふとい,Béo,Dày
 太もも,vocab,3,太,N/A,N/A,N/A,N/A,ふともも,ふともも,Đùi,
@@ -3622,7 +3628,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 妥協,vocab,42,"妥,協",N/A,N/A,N/A,N/A,だきょう,だきょう,Thỏa Hiệp,
 妥当,vocab,42,"妥,当",N/A,N/A,N/A,N/A,だとう,だとう,Thỏa Đáng,
 妨げる,vocab,24,妨,N/A,N/A,N/A,N/A,さまたげる,さまたげる,Cản Trở,
-妨害,vocab,24,"妨,害",N/A,N/A,N/A,N/A,ぼうがい,ぼうがい,Cản Trở,
+妨害,vocab,24,"妨,害",N/A,N/A,N/A,N/A,ぼうがい,ぼうがい,Cản Trở,Trở Ngại
 妹,vocab,16,妹,N/A,N/A,N/A,N/A,いもうと,いもうと,Em Gái,
 妻,vocab,18,妻,N/A,N/A,N/A,N/A,つま,つま,Vợ,
 妻子,vocab,18,"妻,子",N/A,N/A,N/A,N/A,さいし,さいし,Vợ Con,
@@ -3731,6 +3737,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 宮古島,vocab,57,"宮,古,島",N/A,N/A,N/A,N/A,みやこじま,みやこじま,Miyakojima,Đảo Miyako
 宮城県,vocab,63,"宮,城,県",N/A,N/A,N/A,N/A,みやぎけん,みやぎけん,Miyagiken,Tỉnh Miyagi
 宮殿,vocab,57,"宮,殿",N/A,N/A,N/A,N/A,きゅうでん,きゅうでん,Cung Điện,
+害,vocab,24,害,N/A,N/A,N/A,N/A,がい,がい,Hại,
 宴,vocab,60,宴,N/A,N/A,N/A,N/A,うたげ,うたげ,Tiệc,
 宴会,vocab,60,"宴,会",N/A,N/A,N/A,N/A,えんかい,えんかい,Tiệc,
 家,vocab,12,家,N/A,N/A,N/A,N/A,いえ,"いえ, うち",Nhà,
@@ -3743,7 +3750,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 家紋,vocab,57,"家,紋",N/A,N/A,N/A,N/A,かもん,かもん,Gia Huy,Dấu Ấn Của Gia Tộc
 家賃,vocab,24,"家,賃",N/A,N/A,N/A,N/A,やちん,やちん,Tiền Nhà,
 容器,vocab,25,"容,器",N/A,N/A,N/A,N/A,ようき,ようき,Đồ Đựng,
-容易,vocab,25,"容,易",N/A,N/A,N/A,N/A,ようい,ようい,Dễ,
+容易,vocab,25,"容,易",N/A,N/A,N/A,N/A,ようい,ようい,Dễ Dàng,Dễ
 容疑者,vocab,42,"容,疑,者",N/A,N/A,N/A,N/A,ようぎしゃ,ようぎしゃ,Nghi Phạm,
 容量,vocab,60,"容,量",N/A,N/A,N/A,N/A,ようりょう,ようりょう,Dung Lượng,
 宿,vocab,48,宿,N/A,N/A,N/A,N/A,やど,やど,Nhà Trọ,
@@ -3760,17 +3767,18 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 寄付,vocab,54,"寄,付",N/A,N/A,N/A,N/A,きふ,きふ,Quyên Góp,
 寄贈,vocab,54,"寄,贈",N/A,N/A,N/A,N/A,きぞう,"きぞう, きそう",Quà Tặng,
 密か,vocab,40,密,N/A,N/A,N/A,N/A,ひそか,ひそか,Bí Mật,Thầm Kín
+密度,vocab,57,"密,度",N/A,N/A,N/A,N/A,みつど,みつど,Mật Độ,
 密猟,vocab,52,"密,猟",N/A,N/A,N/A,N/A,みつりょう,みつりょう,Săn Trộm,
 密輸,vocab,40,"密,輸",N/A,N/A,N/A,N/A,みつゆ,みつゆ,Buôn Lậu,
 富む,vocab,46,富,N/A,N/A,N/A,N/A,とむ,とむ,Giàu,
 富士山,vocab,46,"富,士,山",N/A,N/A,N/A,N/A,ふじさん,ふじさん,Fujisan,"Núi Fuji, Núi Phú Sĩ"
 寒い,vocab,28,寒,N/A,N/A,N/A,N/A,さむい,さむい,Lạnh,
 寒帯,vocab,28,"寒,帯",N/A,N/A,N/A,N/A,かんたい,かんたい,Hàn Đới,
-寒気,vocab,28,"寒,気",N/A,N/A,N/A,N/A,さむけ,さむけ,Ớn Lạnh,
+寒気,vocab,28,"寒,気",N/A,N/A,N/A,N/A,さむけ,"さむけ, かんき",Ớn Lạnh,Không Khí Lạnh
 寒波,vocab,34,"寒,波",N/A,N/A,N/A,N/A,かんぱ,かんぱ,Đợt Lạnh,
-寝る,vocab,19,寝,N/A,N/A,N/A,N/A,ねる,ねる,Ngủ,"Lên Giường, Ngả Lưng"
+寝る,vocab,19,寝,N/A,N/A,N/A,N/A,ねる,ねる,Ngủ,"Lên Giường, Ngả Lưng, Nằm"
 寝不足,vocab,19,"寝,不,足",N/A,N/A,N/A,N/A,ねぶそく,ねぶそく,Thiếu Ngủ,
-寝坊,vocab,26,"寝,坊",N/A,N/A,N/A,N/A,ねぼう,ねぼう,Ngủ Quên,
+寝坊,vocab,26,"寝,坊",N/A,N/A,N/A,N/A,ねぼう,ねぼう,Ngủ Quên,Ngủ Nướng
 寝室,vocab,21,"寝,室",N/A,N/A,N/A,N/A,しんしつ,しんしつ,Phòng Ngủ,
 寝床,vocab,19,"寝,床",N/A,N/A,N/A,N/A,ねどこ,ねどこ,Giường,
 寝相,vocab,25,"寝,相",N/A,N/A,N/A,N/A,ねぞう,ねぞう,Tư Thế Ngủ,
@@ -3878,7 +3886,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 峠,vocab,55,峠,N/A,N/A,N/A,N/A,とうげ,とうげ,Đèo,Cao Trào
 島,vocab,21,島,N/A,N/A,N/A,N/A,しま,しま,Đảo,
 崇拝,vocab,62,"崇,拝",N/A,N/A,N/A,N/A,すうはい,すうはい,Sùng Bái,
-崩す,vocab,30,崩,N/A,N/A,N/A,N/A,くずす,くずす,Phá Hủy,
+崩す,vocab,30,崩,N/A,N/A,N/A,N/A,くずす,くずす,Phá Hủy,San Bằng
 崩れる,vocab,30,崩,N/A,N/A,N/A,N/A,くずれる,くずれる,Sụp Đổ,
 崩壊,vocab,30,"崩,壊",N/A,N/A,N/A,N/A,ほうかい,ほうかい,Sụp Đổ,
 嵐,vocab,47,嵐,N/A,N/A,N/A,N/A,あらし,あらし,Dông Tố,Bão
@@ -3889,7 +3897,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 巡る,vocab,37,巡,N/A,N/A,N/A,N/A,めぐる,めぐる,Vòng Quanh,Dạo Quanh
 巡査,vocab,37,"巡,査",N/A,N/A,N/A,N/A,じゅんさ,じゅんさ,Tuần Cảnh,Cảnh Sát Tuần Tra
 巣,vocab,45,巣,N/A,N/A,N/A,N/A,す,す,Tổ,Ổ
-工場,vocab,10,"工,場",N/A,N/A,N/A,N/A,こうじょう,こうじょう,Nhà Máy,Xưởng
+工場,vocab,10,"工,場",N/A,N/A,N/A,N/A,こうじょう,"こうじょう, こうば",Nhà Máy,Xưởng
 工業,vocab,15,"工,業",N/A,N/A,N/A,N/A,こうぎょう,こうぎょう,Công Nghiệp,
 左,vocab,4,左,N/A,N/A,N/A,N/A,ひだり,ひだり,Trái,
 左利き,vocab,18,"左,利",N/A,N/A,N/A,N/A,ひだりきき,ひだりきき,Thuận Tay Trái,
@@ -3913,7 +3921,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 市役所,vocab,38,"市,役,所",N/A,N/A,N/A,N/A,しやくしょ,しやくしょ,Tòa Thị Chính,
 市民,vocab,13,"市,民",N/A,N/A,N/A,N/A,しみん,しみん,Thị Dân,
 布,vocab,11,布,N/A,N/A,N/A,N/A,ぬの,ぬの,Vải,
-布団,vocab,12,"布,団",N/A,N/A,N/A,N/A,ふとん,ふとん,Futon,
+布団,vocab,12,"布,団",N/A,N/A,N/A,N/A,ふとん,ふとん,Futon,Đệm Kiểu Nhật
 布巾,vocab,11,"布,巾",N/A,N/A,N/A,N/A,ふきん,ふきん,Khăn Lau,
 希望,vocab,20,"希,望",N/A,N/A,N/A,N/A,きぼう,きぼう,Hy Vọng,"Kỳ Vọng, Triển Vọng"
 希望者,vocab,20,"希,望,者",N/A,N/A,N/A,N/A,きぼうしゃ,きぼうしゃ,Ứng Viên,
@@ -3922,7 +3930,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 帝政,vocab,52,"帝,政",N/A,N/A,N/A,N/A,ていせい,ていせい,Đế Chế,
 師匠,vocab,29,"師,匠",N/A,N/A,N/A,N/A,ししょう,ししょう,Sư Phụ,
 席,vocab,27,席,N/A,N/A,N/A,N/A,せき,せき,Chỗ Ngồi,
-帯,vocab,28,帯,N/A,N/A,N/A,N/A,おび,おび,Obi,Thắt Lưng Kimono
+帯,vocab,28,帯,N/A,N/A,N/A,N/A,おび,おび,Đai,Thắt Lưng Kimono
 帰り道,vocab,18,"帰,道",N/A,N/A,N/A,N/A,かえりみち,かえりみち,Đường Về,
 帰る,vocab,18,帰,N/A,N/A,N/A,N/A,かえる,かえる,Về,
 帰化,vocab,18,"帰,化",N/A,N/A,N/A,N/A,きか,きか,Nhập Tịch,
@@ -4010,8 +4018,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 延長,vocab,44,"延,長",N/A,N/A,N/A,N/A,えんちょう,えんちょう,Kéo Dài,
 建つ,vocab,17,建,N/A,N/A,N/A,N/A,たつ,たつ,Được Xây,
 建てる,vocab,17,建,N/A,N/A,N/A,N/A,たてる,たてる,Xây,
-建前,vocab,17,"建,前",N/A,N/A,N/A,N/A,たてまえ,たてまえ,Tatemae,"Thảo Mai, Vỏ Bọc Lịch Sự Khi Xã Giao"
-建物,vocab,17,"建,物",N/A,N/A,N/A,N/A,たてもの,たてもの,Tòa Nhà,
+建前,vocab,17,"建,前",N/A,N/A,N/A,N/A,たてまえ,たてまえ,Thảo Mai,Vỏ Bọc Lịch Sự Khi Xã Giao
+建物,vocab,17,"建,物",N/A,N/A,N/A,N/A,たてもの,たてもの,Tòa Nhà,Công Trình Kiến Trúc
 建築,vocab,21,"建,築",N/A,N/A,N/A,N/A,けんちく,けんちく,Kiến Trúc,
 建築家,vocab,21,"建,築,家",N/A,N/A,N/A,N/A,けんちくか,けんちくか,Kiến Trúc Sư,
 建設,vocab,36,"建,設",N/A,N/A,N/A,N/A,けんせつ,けんせつ,Kiến Thiết,Xây Dựng
@@ -4054,11 +4062,11 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 弾丸,vocab,43,"弾,丸",N/A,N/A,N/A,N/A,だんがん,だんがん,Viên Đạn,
 弾力,vocab,43,"弾,力",N/A,N/A,N/A,N/A,だんりょく,だんりょく,Độ Dẻo,Độ Đàn Hồi
 当たり前,vocab,19,"当,前",N/A,N/A,N/A,N/A,あたりまえ,あたりまえ,Đương Nhiên,
-当たる,vocab,19,当,N/A,N/A,N/A,N/A,あたる,あたる,Trúng,Đúng
+当たる,vocab,19,当,N/A,N/A,N/A,N/A,あたる,あたる,Đúng,Trúng
 当てはまる,vocab,20,当,N/A,N/A,N/A,N/A,あてはまる,あてはまる,Phù Hợp,"Được Áp Dụng, Có Thể Áp Dụng"
 当てはめる,vocab,20,当,N/A,N/A,N/A,N/A,あてはめる,あてはめる,Áp Dụng,
-当てる,vocab,19,当,N/A,N/A,N/A,N/A,あてる,あてる,Đoán,
-当て逃げ,vocab,27,"当,逃",N/A,N/A,N/A,N/A,あてにげ,あてにげ,Atenige,Gây Tai Nạn Rồi Chạy
+当てる,vocab,19,当,N/A,N/A,N/A,N/A,あてる,あてる,Đoán,Trúng
+当て逃げ,vocab,27,"当,逃",N/A,N/A,N/A,N/A,あてにげ,あてにげ,Atenige,Gây Tai Nạn Rồi Bỏ Chạy
 当時,vocab,19,"当,時",N/A,N/A,N/A,N/A,とうじ,とうじ,Ngày Ấy,Hồi Ấy
 当然,vocab,26,"当,然",N/A,N/A,N/A,N/A,とうぜん,とうぜん,Đương Nhiên,
 当番,vocab,37,"当,番",N/A,N/A,N/A,N/A,とうばん,とうばん,Lượt,Phiên
@@ -4081,7 +4089,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 往復,vocab,49,"往,復",N/A,N/A,N/A,N/A,おうふく,おうふく,Khứ Hồi,
 往来,vocab,49,"往,来",N/A,N/A,N/A,N/A,おうらい,おうらい,Đi Lại,
 待たす,vocab,9,待,N/A,N/A,N/A,N/A,またす,またす,Làm Đợi,Làm Chờ
-待ち伏せる,vocab,30,"待,伏",N/A,N/A,N/A,N/A,まちぶせる,まちぶせる,Mai Phục,
+待ち伏せる,vocab,30,"待,伏",N/A,N/A,N/A,N/A,まちぶせる,まちぶせる,Mai Phục,Phục Kích
 待つ,vocab,9,待,N/A,N/A,N/A,N/A,まつ,まつ,Đợi,Chờ
 待合室,vocab,17,"待,合,室",N/A,N/A,N/A,N/A,まちあいしつ,まちあいしつ,Phòng Chờ,
 待機,vocab,32,"待,機",N/A,N/A,N/A,N/A,たいき,たいき,Đợi,Chờ
@@ -4090,7 +4098,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 後ろ,vocab,8,後,N/A,N/A,N/A,N/A,うしろ,うしろ,Đằng Sau,Sau
 後ろ盾,vocab,35,"後,盾",N/A,N/A,N/A,N/A,うしろだて,うしろだて,Hậu Thuẫn,
 後悔,vocab,36,"後,悔",N/A,N/A,N/A,N/A,こうかい,こうかい,Hối Hận,
-後輩,vocab,24,"後,輩",N/A,N/A,N/A,N/A,こうはい,こうはい,Hậu Bối,
+後輩,vocab,24,"後,輩",N/A,N/A,N/A,N/A,こうはい,こうはい,Kouhai,Hậu Bối
 徐々に,vocab,57,"徐,々",N/A,N/A,N/A,N/A,じょじょに,じょじょに,Từ Từ,Dần Dần
 徐行,vocab,57,"徐,行",N/A,N/A,N/A,N/A,じょこう,じょこう,Đi Chậm,
 徒歩,vocab,54,"徒,歩",N/A,N/A,N/A,N/A,とほ,とほ,Đi Bộ,
@@ -4139,7 +4147,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 志す,vocab,40,志,N/A,N/A,N/A,N/A,こころざす,こころざす,Quyết Chí,
 志望,vocab,40,"志,望",N/A,N/A,N/A,N/A,しぼう,しぼう,Khát Vọng,
 忘れる,vocab,28,忘,N/A,N/A,N/A,N/A,わすれる,わすれる,Quên,
-忘れ物,vocab,28,"忘,物",N/A,N/A,N/A,N/A,わすれもの,わすれもの,Đồ Bỏ Quên,Quên Đồ
+忘れ物,vocab,28,"忘,物",N/A,N/A,N/A,N/A,わすれもの,わすれもの,Đồ Để Quên,Quên Đồ
 忘却,vocab,42,"忘,却",N/A,N/A,N/A,N/A,ぼうきゃく,ぼうきゃく,Lãng Quên,
 忘年会,vocab,28,"忘,年,会",N/A,N/A,N/A,N/A,ぼうねんかい,ぼうねんかい,Bounenkai,Tiệc Cuối Năm
 忙しい,vocab,34,忙,N/A,N/A,N/A,N/A,いそがしい,いそがしい,Bận,
@@ -4154,7 +4162,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 快適,vocab,40,"快,適",N/A,N/A,N/A,N/A,かいてき,かいてき,Dễ Chịu,
 怒り,vocab,28,怒,N/A,N/A,N/A,N/A,いかり,いかり,Sự Tức Giận,Cơn Giận
 怒る,vocab,28,怒,N/A,N/A,N/A,N/A,おこる,おこる,Tức Giận,Giận
-怒鳴る,vocab,28,"怒,鳴",N/A,N/A,N/A,N/A,どなる,どなる,Quát,
+怒鳴る,vocab,28,"怒,鳴",N/A,N/A,N/A,N/A,どなる,どなる,Quát,La Hét
 怖い,vocab,43,怖,N/A,N/A,N/A,N/A,こわい,こわい,Đáng Sợ,
 怖がる,vocab,43,怖,N/A,N/A,N/A,N/A,こわがる,こわがる,Sợ,
 思い付く,vocab,17,"思,付",N/A,N/A,N/A,N/A,おもいつく,おもいつく,Nghĩ Ra,
@@ -4192,7 +4200,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 恐慌,vocab,44,"恐,慌",N/A,N/A,N/A,N/A,きょうこう,きょうこう,Khủng Hoảng,
 恐竜,vocab,44,"恐,竜",N/A,N/A,N/A,N/A,きょうりゅう,きょうりゅう,Khủng Long,
 恥,vocab,54,恥,N/A,N/A,N/A,N/A,はじ,はじ,Sự Xấu Hổ,
-恥ずかしい,vocab,54,恥,N/A,N/A,N/A,N/A,はずかしい,はずかしい,Xấu Hổ,
+恥ずかしい,vocab,54,恥,N/A,N/A,N/A,N/A,はずかしい,はずかしい,Xấu Hổ,Ngại
 恨む,vocab,53,恨,N/A,N/A,N/A,N/A,うらむ,うらむ,Hận,
 恩,vocab,56,恩,N/A,N/A,N/A,N/A,おん,おん,Ơn,
 恩人,vocab,56,"恩,人",N/A,N/A,N/A,N/A,おんじん,おんじん,Ân Nhân,
@@ -4210,7 +4218,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 患者,vocab,60,"患,者",N/A,N/A,N/A,N/A,かんじゃ,かんじゃ,Bệnh Nhân,
 患部,vocab,60,"患,部",N/A,N/A,N/A,N/A,かんぶ,かんぶ,Vết Thương,Bộ Phận Nhiễm Bệnh
 悩む,vocab,36,悩,N/A,N/A,N/A,N/A,なやむ,なやむ,Trăn Trở,
-悪い,vocab,12,悪,N/A,N/A,N/A,N/A,わるい,わるい,Tệ,
+悪い,vocab,12,悪,N/A,N/A,N/A,N/A,わるい,わるい,Tệ,Xấu
 悪化,vocab,12,"悪,化",N/A,N/A,N/A,N/A,あっか,あっか,Tệ Đi,
 悪口,vocab,12,"悪,口",N/A,N/A,N/A,N/A,わるぐち,わるぐち,Nói Xấu,
 悪夢,vocab,23,"悪,夢",N/A,N/A,N/A,N/A,あくむ,あくむ,Ác Mộng,
@@ -4242,8 +4250,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 意図的,vocab,16,"意,図,的",N/A,N/A,N/A,N/A,いとてき,いとてき,Cố Ý,
 意地悪,vocab,16,"意,地,悪",N/A,N/A,N/A,N/A,いじわる,いじわる,Xấu Tính,
 意外,vocab,16,"意,外",N/A,N/A,N/A,N/A,いがい,いがい,Không Ngờ,
-意志,vocab,40,"意,志",N/A,N/A,N/A,N/A,いし,いし,Ý Chí,
-意思,vocab,17,"意,思",N/A,N/A,N/A,N/A,いし,いし,Ý Định,Ý Nghĩ
+意志,vocab,40,"意,志",N/A,N/A,N/A,N/A,いし,いし,Ý Chí,Mong Muốn
+意思,vocab,17,"意,思",N/A,N/A,N/A,N/A,いし,いし,Ý Định,"Mong Muốn, Ý Nghĩ"
 意見,vocab,16,"意,見",N/A,N/A,N/A,N/A,いけん,いけん,Ý Kiến,
 意識,vocab,32,"意,識",N/A,N/A,N/A,N/A,いしき,いしき,Ý Thức,
 愚か,vocab,67,愚,N/A,N/A,N/A,N/A,おろか,おろか,Ngu Ngốc,
@@ -4296,9 +4304,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 成績,vocab,35,"成,績",N/A,N/A,N/A,N/A,せいせき,せいせき,Thành Tích,
 成長,vocab,7,"成,長",N/A,N/A,N/A,N/A,せいちょう,せいちょう,Trưởng Thành,
 我々,vocab,29,"我,々",N/A,N/A,N/A,N/A,われわれ,われわれ,Chúng Tôi,Chúng Ta
-我が,vocab,29,我,N/A,N/A,N/A,N/A,わが,わが,Của Tôi,Của Chúng Tôi
+我が～,vocab,29,我,N/A,N/A,N/A,N/A,わが,わが,Của Tôi,Của Chúng Tôi
 我慢,vocab,31,"我,慢",N/A,N/A,N/A,N/A,がまん,がまん,Chịu Đựng,
-戒める,vocab,31,戒,N/A,N/A,N/A,N/A,いましめる,いましめる,Cảnh Báo,Răn Đe
+戒める,vocab,31,戒,N/A,N/A,N/A,N/A,いましめる,いましめる,Cảnh Cáo,Răn Đe
 戦う,vocab,20,戦,N/A,N/A,N/A,N/A,たたかう,たたかう,Chiến,Chiến Đấu
 戦争,vocab,20,"戦,争",N/A,N/A,N/A,N/A,せんそう,せんそう,Chiến Tranh,
 戦場,vocab,20,"戦,場",N/A,N/A,N/A,N/A,せんじょう,せんじょう,Chiến Trường,
@@ -4326,16 +4334,17 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 手の甲,vocab,35,"手,甲",N/A,N/A,N/A,N/A,てのこう,てのこう,Mu Bàn Tay,
 手を叩く,vocab,5,"手,叩",N/A,N/A,N/A,N/A,てをたたく,てをたたく,Vỗ Tay,
 手伝う,vocab,22,"手,伝",N/A,N/A,N/A,N/A,てつだう,てつだう,Giúp,
+手前,vocab,55,"手,前",N/A,N/A,N/A,N/A,てまえ,てまえ,Trước Mặt,"Phía Trước, Trước"
 手堅い,vocab,65,"手,堅",N/A,N/A,N/A,N/A,てがたい,てがたい,Ổn Định,
 手帳,vocab,57,"手,帳",N/A,N/A,N/A,N/A,てちょう,てちょう,Sổ Tay,
 手掛かり,vocab,30,"手,掛",N/A,N/A,N/A,N/A,てがかり,てがかり,Manh Mối,
-手段,vocab,23,"手,段",N/A,N/A,N/A,N/A,しゅだん,しゅだん,Thủ Đoạn,Phương Pháp
+手段,vocab,23,"手,段",N/A,N/A,N/A,N/A,しゅだん,しゅだん,Phương Pháp,"Phương Tiện, Thủ Đoạn"
 手紙,vocab,17,"手,紙",N/A,N/A,N/A,N/A,てがみ,てがみ,Thư,
 手続き,vocab,32,"手,続",N/A,N/A,N/A,N/A,てつづき,てつづき,Thủ Tục,
 手術,vocab,39,"手,術",N/A,N/A,N/A,N/A,しゅじゅつ,しゅじゅつ,Phẫu Thuật,
 手袋,vocab,60,"手,袋",N/A,N/A,N/A,N/A,てぶくろ,てぶくろ,Găng Tay,
 手裏剣,vocab,47,"手,裏,剣",N/A,N/A,N/A,N/A,しゅりけん,しゅりけん,Shuriken,
-手軽,vocab,36,"手,軽",N/A,N/A,N/A,N/A,てがる,てがる,Dễ,Đơn Giản
+手軽,vocab,36,"手,軽",N/A,N/A,N/A,N/A,てがる,てがる,Dễ,"Tiện, Đơn Giản"
 手錠,vocab,70,"手,錠",N/A,N/A,N/A,N/A,てじょう,てじょう,Còng Tay,
 手際,vocab,58,"手,際",N/A,N/A,N/A,N/A,てぎわ,てぎわ,Tay Nghề,Khả Năng Xử Lý
 手頃,vocab,58,"手,頃",N/A,N/A,N/A,N/A,てごろ,てごろ,Vừa Phải,Phải Chăng
@@ -4375,7 +4384,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 抜刀,vocab,54,"抜,刀",N/A,N/A,N/A,N/A,ばっとう,ばっとう,Rút Kiếm,
 披露,vocab,60,"披,露",N/A,N/A,N/A,N/A,ひろう,ひろう,Công Khai,
 披露宴,vocab,60,"披,露,宴",N/A,N/A,N/A,N/A,ひろうえん,ひろうえん,Tiệc Chiêu Đãi,
-抱える,vocab,28,抱,N/A,N/A,N/A,N/A,かかえる,かかえる,Ôm,
+抱える,vocab,28,抱,N/A,N/A,N/A,N/A,かかえる,かかえる,Ôm,"Vướng, Mắc"
 抱き枕,vocab,28,"抱,枕",N/A,N/A,N/A,N/A,だきまくら,だきまくら,Gối Ôm,
 抱き締める,vocab,69,"抱,締",N/A,N/A,N/A,N/A,だきしめる,だきしめる,Ôm Chặt,
 抱く,vocab,28,抱,N/A,N/A,N/A,N/A,だく,"だく, いだく",Ôm,
@@ -4594,7 +4603,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 数,vocab,30,数,N/A,N/A,N/A,N/A,かず,かず,Số,
 数える,vocab,30,数,N/A,N/A,N/A,N/A,かぞえる,かぞえる,Đếm,
 数字,vocab,30,"数,字",N/A,N/A,N/A,N/A,すうじ,すうじ,Chữ Số,
-数学,vocab,30,"数,学",N/A,N/A,N/A,N/A,すうがく,すうがく,Toán Học,
+数学,vocab,30,"数,学",N/A,N/A,N/A,N/A,すうがく,すうがく,Toán Học,Toán
 整う,vocab,70,整,N/A,N/A,N/A,N/A,ととのう,ととのう,Chỉnh Chu,Được Chuẩn Bị
 整える,vocab,70,整,N/A,N/A,N/A,N/A,ととのえる,ととのえる,Chuẩn Bị,Chỉnh Đốn
 整備,vocab,70,"整,備",N/A,N/A,N/A,N/A,せいび,せいび,Bảo Dưỡng,
@@ -4608,6 +4617,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 文句,vocab,13,"文,句",N/A,N/A,N/A,N/A,もんく,もんく,Lời Phàn Nàn,
 文字,vocab,5,"文,字",N/A,N/A,N/A,N/A,もじ,もじ,Chữ,Chữ Cái
 文学,vocab,6,"文,学",N/A,N/A,N/A,N/A,ぶんがく,ぶんがく,Văn Học,
+文庫本,vocab,61,"文,庫,本",N/A,N/A,N/A,N/A,ぶんこぼん,ぶんこぼん,Bunkobon,Sách Bìa Mềm Khổ Nhỏ
 文法,vocab,28,"文,法",N/A,N/A,N/A,N/A,ぶんぽう,ぶんぽう,Ngữ Pháp,
 文章,vocab,57,"文,章",N/A,N/A,N/A,N/A,ぶんしょう,ぶんしょう,Văn Chương,Đoạn Văn
 文脈,vocab,56,"文,脈",N/A,N/A,N/A,N/A,ぶんみゃく,ぶんみゃく,Văn Cảnh,
@@ -4716,7 +4726,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 昨晩,vocab,47,"昨,晩",N/A,N/A,N/A,N/A,さくばん,さくばん,Tối Qua,
 昭和時代,vocab,34,"昭,和,時,代",N/A,N/A,N/A,N/A,しょうわじだい,しょうわじだい,Shouwajidai,Thời Đại Shouwa
 是非,vocab,23,"是,非",N/A,N/A,N/A,N/A,ぜひ,ぜひ,Zehi,
-昼,vocab,14,昼,N/A,N/A,N/A,N/A,ひる,ひる,Trưa,
+昼,vocab,14,昼,N/A,N/A,N/A,N/A,ひる,ひる,Trưa,Ban Ngày
 昼休み,vocab,14,"昼,休",N/A,N/A,N/A,N/A,ひるやすみ,ひるやすみ,Nghỉ Trưa,
 昼寝,vocab,19,"昼,寝",N/A,N/A,N/A,N/A,ひるね,ひるね,Ngủ Trưa,
 昼間,vocab,14,"昼,間",N/A,N/A,N/A,N/A,ひるま,ひるま,Ban Ngày,
@@ -4729,7 +4739,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 時間,vocab,10,"時,間",N/A,N/A,N/A,N/A,じかん,じかん,Thời Gian,
 時間割,vocab,25,"時,間,割",N/A,N/A,N/A,N/A,じかんわり,じかんわり,Thời Gian Biểu,
 晩,vocab,23,晩,N/A,N/A,N/A,N/A,ばん,ばん,Tối,
-普及,vocab,24,"普,及",N/A,N/A,N/A,N/A,ふきゅう,ふきゅう,Phổ Cập,
+普及,vocab,24,"普,及",N/A,N/A,N/A,N/A,ふきゅう,ふきゅう,Phổ Cập,Phổ Biến
 普段,vocab,24,"普,段",N/A,N/A,N/A,N/A,ふだん,ふだん,Thường,Thường Ngày
 普通,vocab,24,"普,通",N/A,N/A,N/A,N/A,ふつう,ふつう,Thường,Thông Thường
 普遍,vocab,66,"普,遍",N/A,N/A,N/A,N/A,ふへん,ふへん,Không Đổi,Phổ Biến
@@ -4777,7 +4787,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 最低,vocab,39,"最,低",N/A,N/A,N/A,N/A,さいてい,さいてい,Tệ Nhất,Thấp Nhất
 最初,vocab,9,"最,初",N/A,N/A,N/A,N/A,さいしょ,さいしょ,Đầu Tiên,Ban Đầu
 最後,vocab,9,"最,後",N/A,N/A,N/A,N/A,さいご,さいご,Cuối Cùng,
-最悪,vocab,12,"最,悪",N/A,N/A,N/A,N/A,さいあく,さいあく,Tệ Nhất,
+最悪,vocab,12,"最,悪",N/A,N/A,N/A,N/A,さいあく,さいあく,Tệ Nhất,Xấu Nhất
 最終,vocab,11,"最,終",N/A,N/A,N/A,N/A,さいしゅう,さいしゅう,Cuối Cùng,
 最近,vocab,9,"最,近",N/A,N/A,N/A,N/A,さいきん,さいきん,Gần Đây,
 最適,vocab,40,"最,適",N/A,N/A,N/A,N/A,さいてき,さいてき,Tối Ưu,Thích Hợp Nhất
@@ -4888,7 +4898,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 柵,vocab,53,柵,N/A,N/A,N/A,N/A,さく,さく,Hàng Rào,
 栄える,vocab,46,栄,N/A,N/A,N/A,N/A,さかえる,さかえる,Phồn Vinh,
 栄光,vocab,46,"栄,光",N/A,N/A,N/A,N/A,えいこう,えいこう,Vinh Quang,
-栄誉,vocab,46,"栄,誉",N/A,N/A,N/A,N/A,えいよ,えいよ,Vinh Dự,
+栄誉,vocab,46,"栄,誉",N/A,N/A,N/A,N/A,えいよ,えいよ,Vinh Dự,Vinh Hạnh
 栄養,vocab,47,"栄,養",N/A,N/A,N/A,N/A,えいよう,えいよう,Dinh Dưỡng,
 栄養素,vocab,47,"栄,養,素",N/A,N/A,N/A,N/A,えいようそ,えいようそ,Chất Dinh Dưỡng,
 栓,vocab,38,栓,N/A,N/A,N/A,N/A,せん,せん,Nắp Chai,
@@ -4912,7 +4922,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 案内,vocab,56,"案,内",N/A,N/A,N/A,N/A,あんない,あんない,Chỉ Dẫn,
 案外,vocab,56,"案,外",N/A,N/A,N/A,N/A,あんがい,あんがい,Không Ngờ,
 桜,vocab,26,桜,N/A,N/A,N/A,N/A,さくら,さくら,Anh Đào,Hoa Anh Đào
-桜ん坊,vocab,26,"桜,坊",N/A,N/A,N/A,N/A,さくらんぼ,さくらんぼ,Quả Anh Đào,
+桜ん坊,vocab,26,"桜,坊",N/A,N/A,N/A,N/A,さくらんぼう,"さくらんぼう, さくらんぼ",Quả Anh Đào,
 梅,vocab,4,梅,N/A,N/A,N/A,N/A,うめ,うめ,Quả Mơ,Mơ
 梅干し,vocab,4,"梅,干",N/A,N/A,N/A,N/A,うめぼし,うめぼし,Mơ Ngâm Muối,
 梅雨,vocab,5,"梅,雨",N/A,N/A,N/A,N/A,つゆ,つゆ,Mùa Mưa,
@@ -4930,6 +4940,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 検疫,vocab,53,"検,疫",N/A,N/A,N/A,N/A,けんえき,けんえき,Kiểm Dịch,
 検索,vocab,38,"検,索",N/A,N/A,N/A,N/A,けんさく,けんさく,Tra Cứu,
 検討,vocab,57,"検,討",N/A,N/A,N/A,N/A,けんとう,けんとう,Xem Xét,
+検証,vocab,50,"検,証",N/A,N/A,N/A,N/A,けんしょう,けんしょう,Kiểm Chứng,Xác Minh
 極める,vocab,63,極,N/A,N/A,N/A,N/A,きわめる,きわめる,Cực Kỳ,"Chinh Phục, Làm Đến Cùng"
 極端,vocab,63,"極,端",N/A,N/A,N/A,N/A,きょくたん,きょくたん,Cực Đoan,Cực Độ
 楽,vocab,15,楽,N/A,N/A,N/A,N/A,らく,らく,Thoải Mái,
@@ -4939,7 +4950,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 概念,vocab,46,"概,念",N/A,N/A,N/A,N/A,がいねん,がいねん,Khái Niệm,
 概要,vocab,46,"概,要",N/A,N/A,N/A,N/A,がいよう,がいよう,Tổng Quan,"Sơ Lược, Tóm Tắt"
 構う,vocab,21,構,N/A,N/A,N/A,N/A,かまう,かまう,Để Tâm,"Quan Tâm, Chăm Sóc"
-構える,vocab,21,構,N/A,N/A,N/A,N/A,かまえる,かまえる,Trang Bị,Vào Vị Trí
+構える,vocab,21,構,N/A,N/A,N/A,N/A,かまえる,かまえる,Vào Vị Trí,"Vào Tư Thế, Trang Bị"
 構成,vocab,21,"構,成",N/A,N/A,N/A,N/A,こうせい,こうせい,Cấu Thành,
 構造,vocab,21,"構,造",N/A,N/A,N/A,N/A,こうぞう,こうぞう,Cấu Tạo,Cấu Trúc
 様々,vocab,21,"様,々",N/A,N/A,N/A,N/A,さまざま,さまざま,Đa Dạng,
@@ -4976,8 +4987,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 欠席,vocab,27,"欠,席",N/A,N/A,N/A,N/A,けっせき,けっせき,Vắng Mặt,
 欠点,vocab,10,"欠,点",N/A,N/A,N/A,N/A,けってん,けってん,Khuyết Điểm,
 欠陥,vocab,58,"欠,陥",N/A,N/A,N/A,N/A,けっかん,けっかん,Lỗi,Sai Sót
-次,vocab,24,次,N/A,N/A,N/A,N/A,つぎ,つぎ,Tiếp,
-次ぐ,vocab,24,次,N/A,N/A,N/A,N/A,つぐ,つぐ,Tiếp,
+次,vocab,24,次,N/A,N/A,N/A,N/A,つぎ,つぎ,Tiếp,Tiếp Theo
+次ぐ,vocab,24,次,N/A,N/A,N/A,N/A,つぐ,つぐ,Tiếp,"Tiếp Theo, Sau"
 次回,vocab,24,"次,回",N/A,N/A,N/A,N/A,じかい,じかい,Lần Sau,
 欧州,vocab,35,"欧,州",N/A,N/A,N/A,N/A,おうしゅう,おうしゅう,Châu Âu,
 欧米,vocab,35,"欧,米",N/A,N/A,N/A,N/A,おうべい,おうべい,Âu Mỹ,
@@ -5048,6 +5059,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 殺し屋,vocab,26,"殺,屋",N/A,N/A,N/A,N/A,ころしや,ころしや,Sát Thủ,
 殺す,vocab,26,殺,N/A,N/A,N/A,N/A,ころす,ころす,Giết,
 殺人,vocab,26,"殺,人",N/A,N/A,N/A,N/A,さつじん,さつじん,Giết Người,
+殺害,vocab,26,"殺,害",N/A,N/A,N/A,N/A,さつがい,さつがい,Sát Hại,
 殺菌,vocab,53,"殺,菌",N/A,N/A,N/A,N/A,さっきん,さっきん,Sát Khuẩn,
 殺虫剤,vocab,30,"殺,虫,剤",N/A,N/A,N/A,N/A,さっちゅうざい,さっちゅうざい,Thuốc Trừ Sâu,Thuốc Diệt Côn Trùng
 殻,vocab,40,殻,N/A,N/A,N/A,N/A,から,から,Vỏ,
@@ -5080,6 +5092,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 気にする,vocab,7,気,N/A,N/A,N/A,N/A,きにする,きにする,Quan Tâm,Bận Tâm
 気になる,vocab,7,気,N/A,N/A,N/A,N/A,きになる,きになる,Tò Mò,Bận Tâm
 気の毒,vocab,36,"気,毒",N/A,N/A,N/A,N/A,きのどく,きのどく,Tội Nghiệp,
+気を付ける,vocab,9,"気,付",N/A,N/A,N/A,N/A,きをつける,きをつける,Cẩn Thận,Chú Ý
 気付く,vocab,8,"気,付",N/A,N/A,N/A,N/A,きづく,きづく,Nhận Ra,
 気体,vocab,8,"気,体",N/A,N/A,N/A,N/A,きたい,きたい,Thể Khí,
 気候,vocab,30,"気,候",N/A,N/A,N/A,N/A,きこう,きこう,Khí Hậu,
@@ -5109,13 +5122,13 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 永久,vocab,28,"永,久",N/A,N/A,N/A,N/A,えいきゅう,えいきゅう,Vĩnh Cửu,
 永遠,vocab,28,"永,遠",N/A,N/A,N/A,N/A,えいえん,えいえん,Vĩnh Viễn,
 汁,vocab,35,汁,N/A,N/A,N/A,N/A,しる,しる,Nước Cốt,
-求める,vocab,13,求,N/A,N/A,N/A,N/A,もとめる,もとめる,Yêu Cầu,Muốn
+求める,vocab,13,求,N/A,N/A,N/A,N/A,もとめる,もとめる,Yêu Cầu,"Muốn, Mong"
 求人,vocab,13,"求,人",N/A,N/A,N/A,N/A,きゅうじん,きゅうじん,Tuyển Dụng,
 汗,vocab,20,汗,N/A,N/A,N/A,N/A,あせ,あせ,Mồ Hôi,
 汗をかく,vocab,20,汗,N/A,N/A,N/A,N/A,あせをかく,あせをかく,Đổ Mồ Hôi,
 汚い,vocab,29,汚,N/A,N/A,N/A,N/A,きたない,きたない,Bẩn,
-汚す,vocab,29,汚,N/A,N/A,N/A,N/A,よごす,"よごす, けがす",Làm Bẩn,
-汚れる,vocab,29,汚,N/A,N/A,N/A,N/A,よごれる,"よごれる, けがれる",Bị Bẩn,
+汚す,vocab,29,汚,N/A,N/A,N/A,N/A,よごす,"よごす, けがす",Làm Bẩn,Vấy Bẩn
+汚れる,vocab,29,汚,N/A,N/A,N/A,N/A,よごれる,"よごれる, けがれる",Bị Bẩn,Bị Vấy Bẩn
 汚染,vocab,29,"汚,染",N/A,N/A,N/A,N/A,おせん,おせん,Ô Nhiễm,
 汚部屋,vocab,58,"汚,部,屋",N/A,N/A,N/A,N/A,おべや,おべや,Phòng Bẩn,
 江戸川,vocab,37,"江,戸,川",N/A,N/A,N/A,N/A,えどがわ,えどがわ,Edogawa,
@@ -5131,8 +5144,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 決心,vocab,10,"決,心",N/A,N/A,N/A,N/A,けっしん,けっしん,Quyết Tâm,
 決断,vocab,38,"決,断",N/A,N/A,N/A,N/A,けつだん,けつだん,Quyết Đoán,
 決裂,vocab,64,"決,裂",N/A,N/A,N/A,N/A,けつれつ,けつれつ,Quyết Liệt,
-汽船,vocab,42,"汽,船",N/A,N/A,N/A,N/A,きせん,きせん,Tàu Hơi Nước,Tàu Thủy Hơi Nước
-汽車,vocab,42,"汽,車",N/A,N/A,N/A,N/A,きしゃ,きしゃ,Tàu Hơi Nước,Tàu Hỏa Hơi Nước
+汽船,vocab,42,"汽,船",N/A,N/A,N/A,N/A,きせん,きせん,TTHN,Tàu Thủy Hơi Nước
+汽車,vocab,42,"汽,車",N/A,N/A,N/A,N/A,きしゃ,きしゃ,THHN,Tàu Hỏa Hơi Nước
 沈む,vocab,40,沈,N/A,N/A,N/A,N/A,しずむ,しずむ,Chìm,Đắm
 沈める,vocab,40,沈,N/A,N/A,N/A,N/A,しずめる,しずめる,Làm Chìm,Nhấn Chìm
 沈没,vocab,40,"沈,没",N/A,N/A,N/A,N/A,ちんぼつ,ちんぼつ,Chìm,Đắm
@@ -5172,6 +5185,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 泥沼,vocab,48,"泥,沼",N/A,N/A,N/A,N/A,どろぬま,どろぬま,Đầm Lầy,Bùn Lầy
 注ぐ,vocab,16,注,N/A,N/A,N/A,N/A,そそぐ,"そそぐ, つぐ",Rót,
 注射,vocab,56,"注,射",N/A,N/A,N/A,N/A,ちゅうしゃ,ちゅうしゃ,Tiêm,
+注射針,vocab,61,"注,射,針",N/A,N/A,N/A,N/A,ちゅうしゃばり,ちゅうしゃばり,Kim Tiêm,
 注意,vocab,16,"注,意",N/A,N/A,N/A,N/A,ちゅうい,ちゅうい,Chú Ý,Nhắc Nhở
 注文,vocab,16,"注,文",N/A,N/A,N/A,N/A,ちゅうもん,ちゅうもん,Gọi Món,Đặt Hàng
 泳ぐ,vocab,20,泳,N/A,N/A,N/A,N/A,およぐ,およぐ,Bơi,
@@ -5190,7 +5204,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 洪水,vocab,54,"洪,水",N/A,N/A,N/A,N/A,こうずい,こうずい,Lũ Lụt,
 活かす,vocab,47,活,N/A,N/A,N/A,N/A,いかす,いかす,Vận Dụng,
 活動,vocab,18,"活,動",N/A,N/A,N/A,N/A,かつどう,かつどう,Hoạt Động,
-活気,vocab,18,"活,気",N/A,N/A,N/A,N/A,かっき,かっき,Sôi Động,
+活気,vocab,18,"活,気",N/A,N/A,N/A,N/A,かっき,かっき,Sự Sinh Động,Sinh Động
 活用,vocab,18,"活,用",N/A,N/A,N/A,N/A,かつよう,かつよう,Tận Dụng,
 活躍,vocab,47,"活,躍",N/A,N/A,N/A,N/A,かつやく,かつやく,Hoạt Động,"Hoạt Động Tích Cực, Thành Tích Tốt"
 派手,vocab,51,"派,手",N/A,N/A,N/A,N/A,はで,はで,Lòe Loẹt,
@@ -5269,7 +5283,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 添加物,vocab,61,"添,加,物",N/A,N/A,N/A,N/A,てんかぶつ,てんかぶつ,Chất Phụ Gia,
 清い,vocab,27,清,N/A,N/A,N/A,N/A,きよい,きよい,Trong Sạch,Trong Trắng
 清掃,vocab,59,"清,掃",N/A,N/A,N/A,N/A,せいそう,せいそう,Dọn Sạch,Dọn Vệ Sinh
-清書,vocab,27,"清,書",N/A,N/A,N/A,N/A,せいしょ,せいしょ,Seisho,Bản Viết Chính Thức
+清書,vocab,27,"清,書",N/A,N/A,N/A,N/A,せいしょ,せいしょ,BVCT,Bản Viết Chính Thức
 清浄,vocab,27,"清,浄",N/A,N/A,N/A,N/A,せいじょう,"せいじょう, しょうじょう",Thanh Tịnh,Sạch
 清涼飲料,vocab,59,"清,涼,飲,料",N/A,N/A,N/A,N/A,せいりょういんりょう,せいりょういんりょう,Nước Giải Khát,
 清潔,vocab,59,"清,潔",N/A,N/A,N/A,N/A,せいけつ,せいけつ,Sạch Sẽ,Thanh Khiết
@@ -5278,12 +5292,12 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 済ませる,vocab,15,済,N/A,N/A,N/A,N/A,すませる,すませる,Kết Thúc,
 済まない,vocab,14,済,N/A,N/A,N/A,N/A,すまない,すまない,Xin Lỗi,
 済む,vocab,14,済,N/A,N/A,N/A,N/A,すむ,すむ,Kết Thúc,
-渋い,vocab,25,渋,N/A,N/A,N/A,N/A,しぶい,しぶい,Chát,
+渋い,vocab,25,渋,N/A,N/A,N/A,N/A,しぶい,しぶい,Chát,Nhã Nhặn
 渋滞,vocab,67,"渋,滞",N/A,N/A,N/A,N/A,じゅうたい,じゅうたい,Tắc Đường,
 渋谷,vocab,25,"渋,谷",N/A,N/A,N/A,N/A,しぶや,しぶや,Shibuya,
 減らす,vocab,24,減,N/A,N/A,N/A,N/A,へらす,へらす,Giảm,
 減る,vocab,24,減,N/A,N/A,N/A,N/A,へる,へる,Giảm,
-減少,vocab,24,"減,少",N/A,N/A,N/A,N/A,げんしょう,げんしょう,Giảm Thiểu,
+減少,vocab,24,"減,少",N/A,N/A,N/A,N/A,げんしょう,げんしょう,Giảm,
 減速,vocab,24,"減,速",N/A,N/A,N/A,N/A,げんそく,げんそく,Giảm Tốc,
 渡す,vocab,46,渡,N/A,N/A,N/A,N/A,わたす,わたす,Đưa,
 渡る,vocab,46,渡,N/A,N/A,N/A,N/A,わたる,わたる,Băng Qua,
@@ -5341,7 +5355,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 漁る,vocab,43,漁,N/A,N/A,N/A,N/A,あさる,あさる,Bới,"Lục, Đánh Bắt Cá"
 漁師,vocab,43,"漁,師",N/A,N/A,N/A,N/A,りょうし,りょうし,Ngư Dân,
 漁業,vocab,43,"漁,業",N/A,N/A,N/A,N/A,ぎょぎょう,ぎょぎょう,Ngư Nghiệp,
-漁船,vocab,43,"漁,船",N/A,N/A,N/A,N/A,ぎょせん,ぎょせん,Tàu Đánh Cá,
+漁船,vocab,43,"漁,船",N/A,N/A,N/A,N/A,ぎょせん,ぎょせん,Thuyền Đánh Cá,Tàu Đánh Cá
 漂う,vocab,68,漂,N/A,N/A,N/A,N/A,ただよう,ただよう,Trôi Dạt,Trôi Nổi
 漂流,vocab,68,"漂,流",N/A,N/A,N/A,N/A,ひょうりゅう,ひょうりゅう,Trôi Dạt,
 漏らす,vocab,68,漏,N/A,N/A,N/A,N/A,もらす,もらす,Làm Lộ,"Làm Rò Rỉ, Tè Dầm"
@@ -5370,8 +5384,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 潮,vocab,69,潮,N/A,N/A,N/A,N/A,しお,しお,Thủy Triều,
 潮干狩り,vocab,69,"潮,干,狩",N/A,N/A,N/A,N/A,しおひがり,しおひがり,Cào Sò,
 潮流,vocab,69,"潮,流",N/A,N/A,N/A,N/A,ちょうりゅう,ちょうりゅう,Xu Hướng,Trào Lưu
-潰す,vocab,69,潰,N/A,N/A,N/A,N/A,つぶす,つぶす,Nghiền Nát,
-潰れる,vocab,69,潰,N/A,N/A,N/A,N/A,つぶれる,つぶれる,Bị Nghiền Nát,
+潰す,vocab,69,潰,N/A,N/A,N/A,N/A,つぶす,つぶす,Nghiền Nát,"Buộc Đóng Cửa, Giết"
+潰れる,vocab,69,潰,N/A,N/A,N/A,N/A,つぶれる,つぶれる,Bị Nghiền Nát,"Bị Phá Sản, Mất"
 澄ます,vocab,69,澄,N/A,N/A,N/A,N/A,すます,すます,Làm Trong Trẻo,
 澄む,vocab,69,澄,N/A,N/A,N/A,N/A,すむ,すむ,Trong Trẻo,Trong
 激しい,vocab,42,激,N/A,N/A,N/A,N/A,はげしい,はげしい,Khốc Liệt,Gắt
@@ -5393,7 +5407,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 灰,vocab,20,灰,N/A,N/A,N/A,N/A,はい,はい,Tro,Tàn
 灰皿,vocab,20,"灰,皿",N/A,N/A,N/A,N/A,はいざら,はいざら,Gạt Tàn,
 灰色,vocab,20,"灰,色",N/A,N/A,N/A,N/A,はいいろ,はいいろ,Màu Xám,
-災害,vocab,24,"災,害",N/A,N/A,N/A,N/A,さいがい,さいがい,Thiên Tai,
+災害,vocab,24,"災,害",N/A,N/A,N/A,N/A,さいがい,さいがい,Thảm Họa,"Tai Nạn, Thiên Tai"
 災難,vocab,23,"災,難",N/A,N/A,N/A,N/A,さいなん,さいなん,Hoạn Nạn,
 炊く,vocab,22,炊,N/A,N/A,N/A,N/A,たく,たく,Nấu,
 炊事,vocab,22,"炊,事",N/A,N/A,N/A,N/A,すいじ,すいじ,Nấu Ăn,Việc Bếp Núc
@@ -5490,8 +5504,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 爆竹,vocab,44,"爆,竹",N/A,N/A,N/A,N/A,ばくちく,ばくちく,Pháo,
 爆笑,vocab,44,"爆,笑",N/A,N/A,N/A,N/A,ばくしょう,ばくしょう,Cười Lớn,
 爪,vocab,29,爪,N/A,N/A,N/A,N/A,つめ,つめ,Móng,
-爪先,vocab,29,"爪,先",N/A,N/A,N/A,N/A,つまさき,つまさき,Mũi Chân,Đầu Ngón Chân
-爪切り,vocab,29,"爪,切",N/A,N/A,N/A,N/A,つめきり,つめきり,Bấm Móng,
+爪先,vocab,29,"爪,先",N/A,N/A,N/A,N/A,つまさき,つまさき,Đầu Ngón Chân,Mũi Chân
+爪切り,vocab,29,"爪,切",N/A,N/A,N/A,N/A,つめきり,つめきり,Cái Bấm Móng,Bấm Móng
 父,vocab,3,父,N/A,N/A,N/A,N/A,ちち,ちち,Bố,
 父母,vocab,3,"父,母",N/A,N/A,N/A,N/A,ふぼ,"ふぼ, ちちはは",Bố Mẹ,Phụ Mẫu
 父親,vocab,15,"父,親",N/A,N/A,N/A,N/A,ちちおや,ちちおや,Bố,
@@ -5519,7 +5533,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 物語,vocab,13,"物,語",N/A,N/A,N/A,N/A,ものがたり,ものがたり,Truyện,
 物騒,vocab,65,"物,騒",N/A,N/A,N/A,N/A,ぶっそう,ぶっそう,Nguy Hiểm,Loạn Lạc
 特に,vocab,17,特,N/A,N/A,N/A,N/A,とくに,とくに,Đặc Biệt Là,Nhất Là
-特典,vocab,17,"特,典",N/A,N/A,N/A,N/A,とくてん,とくてん,Đặc Quyền,
+特典,vocab,17,"特,典",N/A,N/A,N/A,N/A,とくてん,とくてん,Đặc Quyền,Ưu Đãi
 特別,vocab,17,"特,別",N/A,N/A,N/A,N/A,とくべつ,とくべつ,Đặc Biệt,
 特定,vocab,17,"特,定",N/A,N/A,N/A,N/A,とくてい,とくてい,Cụ Thể,Định Rõ
 特徴,vocab,50,"特,徴",N/A,N/A,N/A,N/A,とくちょう,とくちょう,Đặc Trưng,
@@ -5529,7 +5543,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 犠牲,vocab,54,"犠,牲",N/A,N/A,N/A,N/A,ぎせい,ぎせい,Hy Sinh,
 犬,vocab,2,犬,N/A,N/A,N/A,N/A,いぬ,いぬ,Chó,
 犯す,vocab,25,犯,N/A,N/A,N/A,N/A,おかす,おかす,Phạm Tội,
-犯人,vocab,25,"犯,人",N/A,N/A,N/A,N/A,はんにん,はんにん,Hung Thủ,
+犯人,vocab,25,"犯,人",N/A,N/A,N/A,N/A,はんにん,はんにん,Thủ Phạm,Hung Thủ
 犯罪,vocab,25,"犯,罪",N/A,N/A,N/A,N/A,はんざい,はんざい,Tội,
 犯罪者,vocab,25,"犯,罪,者",N/A,N/A,N/A,N/A,はんざいしゃ,はんざいしゃ,Tội Phạm,
 状態,vocab,38,"状,態",N/A,N/A,N/A,N/A,じょうたい,じょうたい,Trạng Thái,
@@ -5543,7 +5557,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 狩る,vocab,52,狩,N/A,N/A,N/A,N/A,かる,かる,Săn,Hái
 狩猟,vocab,52,"狩,猟",N/A,N/A,N/A,N/A,しゅりょう,しゅりょう,Săn Bắn,Săn
 独り,vocab,24,独,N/A,N/A,N/A,N/A,ひとり,ひとり,Một Mình,
-独り言,vocab,24,"独,言",N/A,N/A,N/A,N/A,ひとりごと,ひとりごと,Độc Thoại,
+独り言,vocab,24,"独,言",N/A,N/A,N/A,N/A,ひとりごと,ひとりごと,Độc Thoại,Nói Một Mình
 独占,vocab,24,"独,占",N/A,N/A,N/A,N/A,どくせん,どくせん,Độc Chiếm,
 独奏,vocab,52,"独,奏",N/A,N/A,N/A,N/A,どくそう,どくそう,Độc Tấu,
 独立,vocab,24,"独,立",N/A,N/A,N/A,N/A,どくりつ,どくりつ,Độc Lập,
@@ -5679,8 +5693,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 疲れる,vocab,23,疲,N/A,N/A,N/A,N/A,つかれる,つかれる,Mệt,
 疲れ果てる,vocab,23,"疲,果",N/A,N/A,N/A,N/A,つかれはてる,つかれはてる,Kiệt Sức,
 疲労,vocab,23,"疲,労",N/A,N/A,N/A,N/A,ひろう,ひろう,Mệt Mỏi,
-病む,vocab,18,病,N/A,N/A,N/A,N/A,やむ,やむ,Bị Bệnh,
-病人,vocab,18,"病,人",N/A,N/A,N/A,N/A,びょうにん,びょうにん,Bệnh Nhân,
+病む,vocab,18,病,N/A,N/A,N/A,N/A,やむ,やむ,Bị Bệnh,"Ngã Bệnh, Trầm Cảm"
+病人,vocab,18,"病,人",N/A,N/A,N/A,N/A,びょうにん,びょうにん,Người Bệnh,Người Ốm
 病気,vocab,18,"病,気",N/A,N/A,N/A,N/A,びょうき,びょうき,Bệnh,
 病院,vocab,18,"病,院",N/A,N/A,N/A,N/A,びょういん,びょういん,Bệnh Viện,
 症状,vocab,38,"症,状",N/A,N/A,N/A,N/A,しょうじょう,しょうじょう,Triệu Chứng Bệnh,Tình Trạng Bệnh
@@ -5696,8 +5710,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 痴漢,vocab,67,"痴,漢",N/A,N/A,N/A,N/A,ちかん,ちかん,Kẻ Biến Thái,
 痺れる,vocab,62,痺,N/A,N/A,N/A,N/A,しびれる,しびれる,Tê,Tê Liệt
 癖,vocab,70,癖,N/A,N/A,N/A,N/A,くせ,くせ,Tật,Thói Quen
-発売,vocab,14,"発,売",N/A,N/A,N/A,N/A,はつばい,はつばい,Phát Hành,
+発売,vocab,14,"発,売",N/A,N/A,N/A,N/A,はつばい,はつばい,Phát Hành,Mở Bán
 発展,vocab,19,"発,展",N/A,N/A,N/A,N/A,はってん,はってん,Phát Triển,
+発展途上国,vocab,59,"発,展,途,上,国",N/A,N/A,N/A,N/A,はってんとじょうこく,はってんとじょうこく,NDPT,Nước Đang Phát Triển
 発掘,vocab,59,"発,掘",N/A,N/A,N/A,N/A,はっくつ,はっくつ,Khai Quật,
 発揮,vocab,41,"発,揮",N/A,N/A,N/A,N/A,はっき,はっき,Phát Huy,
 発砲,vocab,56,"発,砲",N/A,N/A,N/A,N/A,はっぽう,はっぽう,Bắn Súng,Bắn
@@ -5746,7 +5761,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 監視,vocab,32,"監,視",N/A,N/A,N/A,N/A,かんし,かんし,Giám Sát,Theo Dõi
 目,vocab,5,目,N/A,N/A,N/A,N/A,め,め,Mắt,
 目を通す,vocab,17,"目,通",N/A,N/A,N/A,N/A,めをとおす,めをとおす,Xem Qua,
-目指す,vocab,19,"目,指",N/A,N/A,N/A,N/A,めざす,めざす,Nhắm,
+目指す,vocab,19,"目,指",N/A,N/A,N/A,N/A,めざす,めざす,Nhắm Vào,Hướng Tới
 目標,vocab,37,"目,標",N/A,N/A,N/A,N/A,もくひょう,もくひょう,Mục Tiêu,
 目次,vocab,24,"目,次",N/A,N/A,N/A,N/A,もくじ,もくじ,Mục Lục,
 目玉,vocab,5,"目,玉",N/A,N/A,N/A,N/A,めだま,めだま,Nhãn Cầu,Cầu Mắt
@@ -5849,7 +5864,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 破れる,vocab,26,破,N/A,N/A,N/A,N/A,やぶれる,やぶれる,Rách,
 破壊,vocab,27,"破,壊",N/A,N/A,N/A,N/A,はかい,はかい,Phá Hoại,
 破棄,vocab,66,"破,棄",N/A,N/A,N/A,N/A,はき,はき,Hủy Bỏ,
-破片,vocab,26,"破,片",N/A,N/A,N/A,N/A,はへん,はへん,Mảnh Vỡ,
+破片,vocab,26,"破,片",N/A,N/A,N/A,N/A,はへん,はへん,Mảnh Vỡ,Mảnh
 破産,vocab,26,"破,産",N/A,N/A,N/A,N/A,はさん,はさん,Phá Sản,
 破裂,vocab,64,"破,裂",N/A,N/A,N/A,N/A,はれつ,はれつ,Vỡ Tung,Bể
 硬い,vocab,59,硬,N/A,N/A,N/A,N/A,かたい,かたい,Cứng,
@@ -5922,7 +5937,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 程,vocab,24,程,N/A,N/A,N/A,N/A,ほど,ほど,Khoảng,
 程度,vocab,24,"程,度",N/A,N/A,N/A,N/A,ていど,ていど,Mức Độ,Khoảng
 税込み,vocab,27,"税,込",N/A,N/A,N/A,N/A,ぜいこみ,ぜいこみ,Bao Gồm Thuế,
-税金,vocab,27,"税,金",N/A,N/A,N/A,N/A,ぜいきん,ぜいきん,Thuế,
+税金,vocab,27,"税,金",N/A,N/A,N/A,N/A,ぜいきん,ぜいきん,Tiền Thuế,Thuế
 税関,vocab,27,"税,関",N/A,N/A,N/A,N/A,ぜいかん,ぜいかん,Hải Quan,
 種,vocab,40,種,N/A,N/A,N/A,N/A,たね,たね,Hạt,
 種類,vocab,40,"種,類",N/A,N/A,N/A,N/A,しゅるい,しゅるい,Chủng Loại,
@@ -5966,7 +5981,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 立つ,vocab,5,立,N/A,N/A,N/A,N/A,たつ,たつ,Đứng,
 立てる,vocab,6,立,N/A,N/A,N/A,N/A,たてる,たてる,Dựng,Lập
 立入禁止,vocab,33,"立,入,禁,止",N/A,N/A,N/A,N/A,たちいりきんし,たちいりきんし,Cấm Vào,
-立場,vocab,10,"立,場",N/A,N/A,N/A,N/A,たちば,たちば,Cương Vị,
+立場,vocab,10,"立,場",N/A,N/A,N/A,N/A,たちば,たちば,Vị Trí,"Tình Huống, Lập Trường"
 立派,vocab,51,"立,派",N/A,N/A,N/A,N/A,りっぱ,りっぱ,Tuyệt Vời,
 竜,vocab,44,竜,N/A,N/A,N/A,N/A,りゅう,りゅう,Rồng,
 竜巻,vocab,44,"竜,巻",N/A,N/A,N/A,N/A,たつまき,たつまき,Lốc Xoáy,Vòi Rồng
@@ -6026,11 +6041,12 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 粘る,vocab,61,粘,N/A,N/A,N/A,N/A,ねばる,ねばる,Dính,"Gắng, Kiên Trì"
 粘土,vocab,61,"粘,土",N/A,N/A,N/A,N/A,ねんど,ねんど,Đất Nặn,
 精々,vocab,31,"精,々",N/A,N/A,N/A,N/A,せいぜい,せいぜい,Tối Đa,
-精一杯,vocab,31,"精,一,杯",N/A,N/A,N/A,N/A,せいいっぱい,せいいっぱい,Hết Sức,Cố Hết Sức
+精一杯,vocab,31,"精,一,杯",N/A,N/A,N/A,N/A,せいいっぱい,せいいっぱい,Cố Hết Sức,
 精巧,vocab,31,"精,巧",N/A,N/A,N/A,N/A,せいこう,せいこう,Tinh Xảo,
 精神,vocab,31,"精,神",N/A,N/A,N/A,N/A,せいしん,せいしん,Tinh Thần,
 精鋭,vocab,63,"精,鋭",N/A,N/A,N/A,N/A,せいえい,せいえい,Tinh Nhuệ,
 糸,vocab,20,糸,N/A,N/A,N/A,N/A,いと,いと,Sợi Chỉ,Chỉ
+糸口,vocab,53,"糸,口",N/A,N/A,N/A,N/A,いとぐち,いとぐち,Đầu Mối,"Manh Mối, Nút Thắt"
 系列,vocab,24,"系,列",N/A,N/A,N/A,N/A,けいれつ,けいれつ,Chuỗi,
 系統,vocab,23,"系,統",N/A,N/A,N/A,N/A,けいとう,けいとう,Hệ Thống,
 紀元,vocab,52,"紀,元",N/A,N/A,N/A,N/A,きげん,きげん,Kỷ Nguyên,
@@ -6073,7 +6089,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 終わらせる,vocab,11,終,N/A,N/A,N/A,N/A,おわらせる,おわらせる,Hoàn Thành,Kết Thúc
 終わる,vocab,11,終,N/A,N/A,N/A,N/A,おわる,おわる,Kết Thúc,
 終了,vocab,11,"終,了",N/A,N/A,N/A,N/A,しゅうりょう,しゅうりょう,Kết Thúc,
-終点,vocab,11,"終,点",N/A,N/A,N/A,N/A,しゅうてん,しゅうてん,Trạm Cuối,Ga Cuối
+終点,vocab,11,"終,点",N/A,N/A,N/A,N/A,しゅうてん,しゅうてん,Trạm Cuối,"Ga Cuối, Điểm Cuối"
 終電,vocab,14,"終,電",N/A,N/A,N/A,N/A,しゅうでん,しゅうでん,Chuyến Cuối,
 組み合わせる,vocab,31,"組,合",N/A,N/A,N/A,N/A,くみあわせる,くみあわせる,Kết Hợp,
 組合,vocab,31,"組,合",N/A,N/A,N/A,N/A,くみあい,くみあい,Nghiệp Đoàn,
@@ -6085,11 +6101,11 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 経済,vocab,14,"経,済",N/A,N/A,N/A,N/A,けいざい,けいざい,Kinh Tế,
 経由,vocab,14,"経,由",N/A,N/A,N/A,N/A,けいゆ,けいゆ,Qua,Quá Cảnh
 経費,vocab,58,"経,費",N/A,N/A,N/A,N/A,けいひ,けいひ,Kinh Phí,
-経験,vocab,25,"経,験",N/A,N/A,N/A,N/A,けいけん,けいけん,Kinh Nghiệm,
+経験,vocab,25,"経,験",N/A,N/A,N/A,N/A,けいけん,けいけん,Kinh Nghiệm,Trải Nghiệm
 結ぶ,vocab,22,結,N/A,N/A,N/A,N/A,むすぶ,むすぶ,Buộc,Kết
 結婚,vocab,47,"結,婚",N/A,N/A,N/A,N/A,けっこん,けっこん,Kết Hôn,
-結局,vocab,22,"結,局",N/A,N/A,N/A,N/A,けっきょく,けっきょく,Kết Cục,
-結束,vocab,24,"結,束",N/A,N/A,N/A,N/A,けっそく,けっそく,Đoàn Kết,Buộc
+結局,vocab,22,"結,局",N/A,N/A,N/A,N/A,けっきょく,けっきょく,Kết Cục,Rốt Cuộc
+結束,vocab,24,"結,束",N/A,N/A,N/A,N/A,けっそく,けっそく,Đoàn Kết,"Liên Kết, Buộc"
 結果,vocab,22,"結,果",N/A,N/A,N/A,N/A,けっか,けっか,Kết Quả,
 結構,vocab,22,"結,構",N/A,N/A,N/A,N/A,けっこう,けっこう,Kekkou,
 結論,vocab,26,"結,論",N/A,N/A,N/A,N/A,けつろん,けつろん,Kết Luận,
@@ -6107,9 +6123,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 絵本,vocab,11,"絵,本",N/A,N/A,N/A,N/A,えほん,えほん,Sách Tranh,
 絵画,vocab,11,"絵,画",N/A,N/A,N/A,N/A,かいが,かいが,Hội Họa,Tranh
 絶える,vocab,29,絶,N/A,N/A,N/A,N/A,たえる,たえる,Tuyệt Chủng,"Ngưng, Hết"
-絶叫,vocab,29,"絶,叫",N/A,N/A,N/A,N/A,ぜっきょう,ぜっきょう,Tiếng Hét,
+絶叫,vocab,29,"絶,叫",N/A,N/A,N/A,N/A,ぜっきょう,ぜっきょう,Gào Thét,La Hét
+絶好,vocab,54,"絶,好",N/A,N/A,N/A,N/A,ぜっこう,ぜっこう,Tuyệt Vời,"Lý Tưởng, Tuyệt Hảo"
 絶妙,vocab,31,"絶,妙",N/A,N/A,N/A,N/A,ぜつみょう,ぜつみょう,Tuyệt Diệu,
-絶対,vocab,29,"絶,対",N/A,N/A,N/A,N/A,ぜったい,ぜったい,Tuyệt Đối,
+絶対,vocab,29,"絶,対",N/A,N/A,N/A,N/A,ぜったい,ぜったい,Tuyệt Đối,Nhất Định
 絶望,vocab,29,"絶,望",N/A,N/A,N/A,N/A,ぜつぼう,ぜつぼう,Tuyệt Vọng,
 絹,vocab,67,絹,N/A,N/A,N/A,N/A,きぬ,きぬ,Vải Lụa,Lụa
 絹糸,vocab,67,"絹,糸",N/A,N/A,N/A,N/A,きぬいと,"きぬいと, けんし",Tơ,
@@ -6189,8 +6206,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 美しい,vocab,25,美,N/A,N/A,N/A,N/A,うつくしい,うつくしい,Đẹp,
 美人,vocab,25,"美,人",N/A,N/A,N/A,N/A,びじん,びじん,Mỹ Nhân,Người Đẹp
 美味しい,vocab,25,"美,味",N/A,N/A,N/A,N/A,おいしい,おいしい,Ngon,
-美容師,vocab,25,"美,容,師",N/A,N/A,N/A,N/A,びようし,びようし,Thợ Cắt Tóc,Thợ Làm Đẹp
-美容院,vocab,25,"美,容,院",N/A,N/A,N/A,N/A,びよういん,びよういん,Tiệm Cắt Tóc,Tiệm Làm Đẹp
+美容師,vocab,25,"美,容,師",N/A,N/A,N/A,N/A,びようし,びようし,Thợ Làm Đẹp,Thợ Làm Tóc
+美容院,vocab,25,"美,容,院",N/A,N/A,N/A,N/A,びよういん,びよういん,Tiệm Làm Đẹp,Tiệm Làm Tóc
 美術,vocab,39,"美,術",N/A,N/A,N/A,N/A,びじゅつ,びじゅつ,Mỹ Thuật,
 美術館,vocab,39,"美,術,館",N/A,N/A,N/A,N/A,びじゅつかん,びじゅつかん,Bảo Tàng,Bảo Tàng Mỹ Thuật
 群がる,vocab,65,群,N/A,N/A,N/A,N/A,むらがる,むらがる,Bâu,"Bu, Xúm"
@@ -6202,10 +6219,10 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 羨む,vocab,47,羨,N/A,N/A,N/A,N/A,うらやむ,うらやむ,Ghen Tị,
 義務,vocab,32,"義,務",N/A,N/A,N/A,N/A,ぎむ,ぎむ,Nghĩa Vụ,
 義理,vocab,53,"義,理",N/A,N/A,N/A,N/A,ぎり,ぎり,Nghĩa Vụ,Lễ Nghĩa
-羽,vocab,26,羽,N/A,N/A,N/A,N/A,はね,はね,Cánh,
+羽,vocab,26,羽,N/A,N/A,N/A,N/A,はね,はね,Lông,Cánh
 羽ばたく,vocab,26,羽,N/A,N/A,N/A,N/A,はばたく,はばたく,Vỗ Cánh,
 羽根,vocab,50,"羽,根",N/A,N/A,N/A,N/A,はね,はね,Chiếc Lông,"Cầu Lông, Cánh Quạt"
-翌年,vocab,26,"翌,年",N/A,N/A,N/A,N/A,よくねん,よくねん,Năm Tiếp Theo,
+翌年,vocab,26,"翌,年",N/A,N/A,N/A,N/A,よくねん,"よくねん, よくとし",Năm Tiếp Theo,
 翌日,vocab,26,"翌,日",N/A,N/A,N/A,N/A,よくじつ,よくじつ,Ngày Tiếp Theo,Ngày Hôm Sau
 翌朝,vocab,26,"翌,朝",N/A,N/A,N/A,N/A,よくあさ,"よくあさ, よくちょう",Sáng Tiếp Theo,Sáng Hôm Sau
 習う,vocab,26,習,N/A,N/A,N/A,N/A,ならう,ならう,Học,
@@ -6214,7 +6231,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 翻訳,vocab,60,"翻,訳",N/A,N/A,N/A,N/A,ほんやく,ほんやく,Phiên Dịch,Dịch
 翼,vocab,70,翼,N/A,N/A,N/A,N/A,つばさ,つばさ,Cánh,
 老いる,vocab,24,老,N/A,N/A,N/A,N/A,おいる,おいる,Già,
-老ける,vocab,24,老,N/A,N/A,N/A,N/A,ふける,ふける,Già,
+老ける,vocab,24,老,N/A,N/A,N/A,N/A,ふける,ふける,Già,Trông Già
 老人,vocab,24,"老,人",N/A,N/A,N/A,N/A,ろうじん,ろうじん,Người Già,
 老化,vocab,24,"老,化",N/A,N/A,N/A,N/A,ろうか,ろうか,Lão Hóa,
 老齢,vocab,50,"老,齢",N/A,N/A,N/A,N/A,ろうれい,ろうれい,Tuổi Già,
@@ -6302,7 +6319,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 腰痛,vocab,35,"腰,痛",N/A,N/A,N/A,N/A,ようつう,ようつう,Đau Hông,
 腸,vocab,50,腸,N/A,N/A,N/A,N/A,ちょう,ちょう,Ruột,
 腹,vocab,23,腹,N/A,N/A,N/A,N/A,はら,はら,Bụng,
-腹減った,vocab,24,"腹,減",N/A,N/A,N/A,N/A,はらへった,はらへった,Đói,
+腹減った,vocab,24,"腹,減",N/A,N/A,N/A,N/A,はらへった,はらへった,Đói,Đói Bụng
 腹立つ,vocab,23,"腹,立",N/A,N/A,N/A,N/A,はらだつ,はらだつ,Giận,"Cáu, Tức"
 膝,vocab,68,膝,N/A,N/A,N/A,N/A,ひざ,ひざ,Đầu Gối,
 膨らます,vocab,70,膨,N/A,N/A,N/A,N/A,ふくらます,ふくらます,Làm Phồng,
@@ -6321,14 +6338,13 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 自動,vocab,18,"自,動",N/A,N/A,N/A,N/A,じどう,じどう,Tự Động,
 自動扉,vocab,66,"自,動,扉",N/A,N/A,N/A,N/A,じどうとびら,じどうとびら,Cửa Tự Động,
 自宅,vocab,18,"自,宅",N/A,N/A,N/A,N/A,じたく,じたく,Nhà,
-自害,vocab,24,"自,害",N/A,N/A,N/A,N/A,じがい,じがい,Tự Sát,
 自己,vocab,28,"自,己",N/A,N/A,N/A,N/A,じこ,じこ,Bản Thân,
 自己紹介,vocab,28,"自,己,紹,介",N/A,N/A,N/A,N/A,じこしょうかい,じこしょうかい,Tự Giới Thiệu,
 自惚れる,vocab,58,"自,惚",N/A,N/A,N/A,N/A,うぬぼれる,うぬぼれる,Tự Phụ,
 自慢,vocab,31,"自,慢",N/A,N/A,N/A,N/A,じまん,じまん,Tự Mãn,
 自殺,vocab,26,"自,殺",N/A,N/A,N/A,N/A,じさつ,じさつ,Tự Sát,Tự Tử
 自炊,vocab,22,"自,炊",N/A,N/A,N/A,N/A,じすい,じすい,Tự Nấu Ăn,
-自然,vocab,26,"自,然",N/A,N/A,N/A,N/A,しぜん,しぜん,Tự Nhiên,Thiên Nhiên
+自然,vocab,26,"自,然",N/A,N/A,N/A,N/A,しぜん,しぜん,Thiên Nhiên,Tự Nhiên
 自由,vocab,13,"自,由",N/A,N/A,N/A,N/A,じゆう,じゆう,Tự Do,
 自立,vocab,5,"自,立",N/A,N/A,N/A,N/A,じりつ,じりつ,Tự Lập,
 自習,vocab,26,"自,習",N/A,N/A,N/A,N/A,じしゅう,じしゅう,Tự Học,
@@ -6337,7 +6353,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 自転車,vocab,19,"自,転,車",N/A,N/A,N/A,N/A,じてんしゃ,じてんしゃ,Xe Đạp,
 自首,vocab,7,"自,首",N/A,N/A,N/A,N/A,じしゅ,じしゅ,Tự Thú,
 臭い,vocab,29,臭,N/A,N/A,N/A,N/A,くさい,くさい,Hôi,
-臭う,vocab,29,臭,N/A,N/A,N/A,N/A,におう,におう,Bốc Mùi,
+臭う,vocab,29,臭,N/A,N/A,N/A,N/A,におう,におう,Bốc Mùi,Có Mùi
 至る,vocab,30,至,N/A,N/A,N/A,N/A,いたる,いたる,Dẫn Đến,Đến
 至急,vocab,30,"至,急",N/A,N/A,N/A,N/A,しきゅう,しきゅう,Khẩn Cấp,Lập Tức
 致す,vocab,50,致,N/A,N/A,N/A,N/A,いたす,いたす,Làm,
@@ -6348,11 +6364,11 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 舗装,vocab,69,"舗,装",N/A,N/A,N/A,N/A,ほそう,ほそう,Lát,Trải
 舞う,vocab,37,舞,N/A,N/A,N/A,N/A,まう,まう,Múa,
 舞台,vocab,37,"舞,台",N/A,N/A,N/A,N/A,ぶたい,ぶたい,Sân Khấu,Bối Cảnh
-舟,vocab,30,舟,N/A,N/A,N/A,N/A,ふね,ふね,Thuyền,
+舟,vocab,30,舟,N/A,N/A,N/A,N/A,ふね,ふね,Xuồng,Thuyền Nhỏ
 航海,vocab,44,"航,海",N/A,N/A,N/A,N/A,こうかい,こうかい,Hàng Hải,
 航空,vocab,44,"航,空",N/A,N/A,N/A,N/A,こうくう,こうくう,Hàng Không,
 航空券,vocab,44,"航,空,券",N/A,N/A,N/A,N/A,こうくうけん,こうくうけん,Vé Máy Bay,
-船,vocab,42,船,N/A,N/A,N/A,N/A,ふね,ふね,Tàu,Thuyền
+船,vocab,42,船,N/A,N/A,N/A,N/A,ふね,ふね,Thuyền,Tàu
 船酔い,vocab,61,"船,酔",N/A,N/A,N/A,N/A,ふなよい,ふなよい,Say Sóng,
 船長,vocab,42,"船,長",N/A,N/A,N/A,N/A,せんちょう,せんちょう,Thuyền Trưởng,
 艦隊,vocab,47,"艦,隊",N/A,N/A,N/A,N/A,かんたい,かんたい,Hạm Đội,
@@ -6374,7 +6390,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 花火,vocab,6,"花,火",N/A,N/A,N/A,N/A,はなび,はなび,Pháo Hoa,
 花瓶,vocab,60,"花,瓶",N/A,N/A,N/A,N/A,かびん,かびん,Bình Hoa,Lọ Hoa
 花粉,vocab,28,"花,粉",N/A,N/A,N/A,N/A,かふん,かふん,Phấn Hoa,
-花粉症,vocab,38,"花,粉,症",N/A,N/A,N/A,N/A,かふんしょう,かふんしょう,Kafunshou,Dị Ứng Phấn Hoa
+花粉症,vocab,38,"花,粉,症",N/A,N/A,N/A,N/A,かふんしょう,かふんしょう,DUPH,Dị Ứng Phấn Hoa
 花見,vocab,6,"花,見",N/A,N/A,N/A,N/A,はなみ,はなみ,Ngắm Hoa,
 芸人,vocab,39,"芸,人",N/A,N/A,N/A,N/A,げいにん,げいにん,Nghệ Sĩ Hài,Nghệ Sĩ Biểu Diễn
 芸者,vocab,39,"芸,者",N/A,N/A,N/A,N/A,げいしゃ,げいしゃ,Geisha,
@@ -6394,7 +6410,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 苦しい,vocab,22,苦,N/A,N/A,N/A,N/A,くるしい,くるしい,Khổ,
 苦しむ,vocab,22,苦,N/A,N/A,N/A,N/A,くるしむ,くるしむ,Khổ,
 苦労,vocab,22,"苦,労",N/A,N/A,N/A,N/A,くろう,くろう,Vất Vả,Khó Khăn
-苦手,vocab,22,"苦,手",N/A,N/A,N/A,N/A,にがて,にがて,Không Hợp,"Không Thích, Không Giỏi"
+苦手,vocab,22,"苦,手",N/A,N/A,N/A,N/A,にがて,にがて,Không Thích,"Không Giỏi, Không Hợp"
 苦痛,vocab,35,"苦,痛",N/A,N/A,N/A,N/A,くつう,くつう,Nỗi Đau,Đau Khổ
 英国,vocab,12,"英,国",N/A,N/A,N/A,N/A,えいこく,えいこく,Anh Quốc,Anh
 英語,vocab,12,"英,語",N/A,N/A,N/A,N/A,えいご,えいご,Tiếng Anh,
@@ -6410,7 +6426,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 草,vocab,18,草,N/A,N/A,N/A,N/A,くさ,くさ,Cỏ,
 草刈り,vocab,33,"草,刈",N/A,N/A,N/A,N/A,くさかり,くさかり,Cắt Cỏ,
 草原,vocab,61,"草,原",N/A,N/A,N/A,N/A,そうげん,"そうげん, くさはら",Thảo Nguyên,
-草木,vocab,18,"草,木",N/A,N/A,N/A,N/A,くさき,くさき,Cỏ Cây,
+草木,vocab,18,"草,木",N/A,N/A,N/A,N/A,くさき,くさき,Cỏ Cây,Cây Cỏ
 草食,vocab,18,"草,食",N/A,N/A,N/A,N/A,そうしょく,そうしょく,Ăn Cỏ,
 荒い,vocab,44,荒,N/A,N/A,N/A,N/A,あらい,あらい,Dữ Dội,"Cẩu Thả, Cục Súc"
 荒らす,vocab,44,荒,N/A,N/A,N/A,N/A,あらす,あらす,Phá Hoại,
@@ -6467,12 +6483,12 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 薬品,vocab,30,"薬,品",N/A,N/A,N/A,N/A,やくひん,やくひん,Dược Phẩm,Hóa Chất
 薬局,vocab,30,"薬,局",N/A,N/A,N/A,N/A,やっきょく,やっきょく,Hiệu Thuốc,
 薬指,vocab,30,"薬,指",N/A,N/A,N/A,N/A,くすりゆび,くすりゆび,Ngón Áp Út,
-薬缶,vocab,30,"薬,缶",N/A,N/A,N/A,N/A,やかん,やかん,Ấm Đun,
+薬缶,vocab,30,"薬,缶",N/A,N/A,N/A,N/A,やかん,やかん,Ấm Đun,Ấm
 藻,vocab,68,藻,N/A,N/A,N/A,N/A,も,も,Tảo,Tảo Biển
 蘇る,vocab,68,蘇,N/A,N/A,N/A,N/A,よみがえる,よみがえる,Sống Lại,Được Hồi Sinh
 蘇生,vocab,68,"蘇,生",N/A,N/A,N/A,N/A,そせい,そせい,Sống Lại,Hồi Sinh
 虎,vocab,25,虎,N/A,N/A,N/A,N/A,とら,とら,Hổ,
-虎猫,vocab,25,"虎,猫",N/A,N/A,N/A,N/A,とらねこ,とらねこ,Mèo Mướp,
+虎猫,vocab,25,"虎,猫",N/A,N/A,N/A,N/A,とらねこ,とらねこ,Mèo Mướp,Mèo Vằn
 虐待,vocab,55,"虐,待",N/A,N/A,N/A,N/A,ぎゃくたい,ぎゃくたい,Ngược Đãi,Bạo Hành
 虐殺,vocab,55,"虐,殺",N/A,N/A,N/A,N/A,ぎゃくさつ,ぎゃくさつ,Thảm Sát,
 虚しい,vocab,45,虚,N/A,N/A,N/A,N/A,むなしい,むなしい,Trống Rỗng,"Vô Vị, Công Cốc"
@@ -6647,7 +6663,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 触れる,vocab,52,触,N/A,N/A,N/A,N/A,ふれる,ふれる,Chạm,Đề Cập
 触覚,vocab,52,"触,覚",N/A,N/A,N/A,N/A,しょっかく,しょっかく,Xúc Giác,
 言い争う,vocab,20,"言,争",N/A,N/A,N/A,N/A,いいあらそう,いいあらそう,Tranh Cãi,
-言い掛かり,vocab,27,"言,掛",N/A,N/A,N/A,N/A,いいがかり,いいがかり,Vu Khống,Lời Buộc Tội
+言い掛かり,vocab,27,"言,掛",N/A,N/A,N/A,N/A,いいがかり,いいがかり,Lời Buộc Tội,Vu Khống
 言い方,vocab,9,"言,方",N/A,N/A,N/A,N/A,いいかた,いいかた,Cách Nói,
 言い表す,vocab,19,"言,表",N/A,N/A,N/A,N/A,いいあらわす,いいあらわす,Diễn Đạt,
 言い訳,vocab,60,"言,訳",N/A,N/A,N/A,N/A,いいわけ,いいわけ,Thanh Minh,"Giải Thích, Biện Hộ"
@@ -6699,7 +6715,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 試す,vocab,25,試,N/A,N/A,N/A,N/A,ためす,ためす,Thử,
 試みる,vocab,26,試,N/A,N/A,N/A,N/A,こころみる,こころみる,Thử,
 試合,vocab,25,"試,合",N/A,N/A,N/A,N/A,しあい,しあい,Trận Đấu,
-試験,vocab,25,"試,験",N/A,N/A,N/A,N/A,しけん,しけん,Kỳ Thi,
+試験,vocab,25,"試,験",N/A,N/A,N/A,N/A,しけん,しけん,Kỳ Thi,Bài Thi
 詩,vocab,66,詩,N/A,N/A,N/A,N/A,し,し,Thơ,
 詩人,vocab,66,"詩,人",N/A,N/A,N/A,N/A,しじん,しじん,Thi Nhân,
 詩歌,vocab,66,"詩,歌",N/A,N/A,N/A,N/A,しいか,"しいか, しか",Thi Ca,
@@ -6731,6 +6747,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 誤る,vocab,46,誤,N/A,N/A,N/A,N/A,あやまる,あやまる,Nhầm,Sai Lầm
 誤字,vocab,46,"誤,字",N/A,N/A,N/A,N/A,ごじ,ごじ,Lỗi Chính Tả,
 誤解,vocab,46,"誤,解",N/A,N/A,N/A,N/A,ごかい,ごかい,Hiểu Lầm,
+誤魔化す,vocab,64,"誤,魔,化",N/A,N/A,N/A,N/A,ごまかす,ごまかす,Đánh Lừa,"Nói Dối, Né"
 説,vocab,22,説,N/A,N/A,N/A,N/A,せつ,せつ,Thuyết,
 説く,vocab,23,説,N/A,N/A,N/A,N/A,とく,とく,Thuyết Giáo,Giải Thích
 説得,vocab,33,"説,得",N/A,N/A,N/A,N/A,せっとく,せっとく,Thuyết Phục,
@@ -6741,7 +6758,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 読者,vocab,13,"読,者",N/A,N/A,N/A,N/A,どくしゃ,どくしゃ,Độc Giả,
 誰,vocab,9,誰,N/A,N/A,N/A,N/A,だれ,だれ,Ai,
 誰か,vocab,9,誰,N/A,N/A,N/A,N/A,だれか,だれか,Ai Đó,
-課程,vocab,24,"課,程",N/A,N/A,N/A,N/A,かてい,かてい,Khóa Học,
+課程,vocab,24,"課,程",N/A,N/A,N/A,N/A,かてい,かてい,Khóa Trình,Khóa Học
 課題,vocab,21,"課,題",N/A,N/A,N/A,N/A,かだい,かだい,Việc Được Giao,"Vấn Đề, Bài Tập"
 調べる,vocab,36,調,N/A,N/A,N/A,N/A,しらべる,しらべる,Tìm Hiểu,Điều Tra
 調味料,vocab,36,"調,味,料",N/A,N/A,N/A,N/A,ちょうみりょう,ちょうみりょう,Gia Vị,
@@ -6763,7 +6780,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 講堂,vocab,29,"講,堂",N/A,N/A,N/A,N/A,こうどう,こうどう,Giảng Đường,
 講師,vocab,29,"講,師",N/A,N/A,N/A,N/A,こうし,こうし,Giảng Viên,
 講座,vocab,29,"講,座",N/A,N/A,N/A,N/A,こうざ,こうざ,Khóa Học,
-講演,vocab,29,"講,演",N/A,N/A,N/A,N/A,こうえん,こうえん,Diễn Thuyết,Diễn Giảng
+講演,vocab,29,"講,演",N/A,N/A,N/A,N/A,こうえん,こうえん,Diễn Giảng,Diễn Thuyết
 講義,vocab,29,"講,義",N/A,N/A,N/A,N/A,こうぎ,こうぎ,Bài Giảng,
 謝る,vocab,69,謝,N/A,N/A,N/A,N/A,あやまる,あやまる,Xin Lỗi,
 謝罪,vocab,69,"謝,罪",N/A,N/A,N/A,N/A,しゃざい,しゃざい,Xin Lỗi,
@@ -6792,7 +6809,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 象徴,vocab,50,"象,徴",N/A,N/A,N/A,N/A,しょうちょう,しょうちょう,Tượng Trưng,Biểu Tượng
 豪傑,vocab,67,"豪,傑",N/A,N/A,N/A,N/A,ごうけつ,ごうけつ,Hào Kiệt,
 豪華,vocab,67,"豪,華",N/A,N/A,N/A,N/A,ごうか,ごうか,Hào Hoa,
-豪雨,vocab,67,"豪,雨",N/A,N/A,N/A,N/A,ごうう,ごうう,Mưa To,
+豪雨,vocab,68,"豪,雨",N/A,N/A,N/A,N/A,ごうう,ごうう,Mưa To,
+豪雪,vocab,68,"豪,雪",N/A,N/A,N/A,N/A,ごうせつ,ごうせつ,Tuyết Dày,
 貝,vocab,40,貝,N/A,N/A,N/A,N/A,かい,かい,Sò,"Ngao, Hến, Trai"
 貝殻,vocab,40,"貝,殻",N/A,N/A,N/A,N/A,かいがら,かいがら,Vỏ Sò,
 貝類,vocab,40,"貝,類",N/A,N/A,N/A,N/A,かいるい,かいるい,Kairui,Động Vật Có Vỏ
@@ -6827,8 +6845,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 買い物,vocab,23,"買,物",N/A,N/A,N/A,N/A,かいもの,かいもの,Mua Đồ,Mua Sắm
 買う,vocab,23,買,N/A,N/A,N/A,N/A,かう,かう,Mua,
 貸し切り,vocab,24,"貸,切",N/A,N/A,N/A,N/A,かしきり,かしきり,Đặt Trước,Thuê Trọn Gói
-貸す,vocab,24,貸,N/A,N/A,N/A,N/A,かす,かす,Cho Mượn,Cho Vay
-貸間,vocab,24,貸,N/A,N/A,N/A,N/A,かしま,かしま,Phòng Trọ,
+貸す,vocab,24,貸,N/A,N/A,N/A,N/A,かす,かす,Cho Mượn,"Cho Vay, Cho Thuê"
+貸間,vocab,24,貸,N/A,N/A,N/A,N/A,かしま,かしま,Phòng Cho Thuê,Phòng Trọ
 費やす,vocab,58,費,N/A,N/A,N/A,N/A,ついやす,ついやす,Chi,"Dùng, Tiêu Tốn"
 費用,vocab,58,"費,用",N/A,N/A,N/A,N/A,ひよう,ひよう,Chi Phí,
 貼り付ける,vocab,24,"貼,付",N/A,N/A,N/A,N/A,はりつける,はりつける,Dán Vào,Gắn Vào
@@ -6865,13 +6883,13 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 赤,vocab,8,赤,N/A,N/A,N/A,N/A,あか,あか,Đỏ,
 赤い,vocab,8,赤,N/A,N/A,N/A,N/A,あかい,あかい,Đỏ,
 赤ちゃん,vocab,8,赤,N/A,N/A,N/A,N/A,あかちゃん,あかちゃん,Em Bé,
-赤ん坊,vocab,26,"赤,坊",N/A,N/A,N/A,N/A,あかんぼう,"あかんぼう, あかんぼ",Akanbou,Em Bé Sơ Sinh
+赤ん坊,vocab,26,"赤,坊",N/A,N/A,N/A,N/A,あかんぼう,"あかんぼう, あかんぼ",EBSS,Em Bé Sơ Sinh
 赤色,vocab,8,"赤,色",N/A,N/A,N/A,N/A,あかいろ,あかいろ,Màu Đỏ,
 走り回る,vocab,16,"走,回",N/A,N/A,N/A,N/A,はしりまわる,はしりまわる,Chạy Quanh,
 走る,vocab,16,走,N/A,N/A,N/A,N/A,はしる,はしる,Chạy,
 走行,vocab,16,"走,行",N/A,N/A,N/A,N/A,そうこう,そうこう,Chạy,
 起きる,vocab,17,起,N/A,N/A,N/A,N/A,おきる,おきる,Dậy,Xảy Ra
-起こす,vocab,17,起,N/A,N/A,N/A,N/A,おこす,おこす,Gây Ra,
+起こす,vocab,17,起,N/A,N/A,N/A,N/A,おこす,おこす,Đánh Thức,Gây Ra
 起こる,vocab,17,起,N/A,N/A,N/A,N/A,おこる,おこる,Xảy Ra,
 起動,vocab,18,"起,動",N/A,N/A,N/A,N/A,きどう,きどう,Khởi Động,
 起床,vocab,19,"起,床",N/A,N/A,N/A,N/A,きしょう,きしょう,Dậy,Ra Khỏi Giường
@@ -6992,7 +7010,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 追う,vocab,47,追,N/A,N/A,N/A,N/A,おう,おう,Đuổi,
 追加,vocab,47,"追,加",N/A,N/A,N/A,N/A,ついか,ついか,Thêm,
 追跡,vocab,47,"追,跡",N/A,N/A,N/A,N/A,ついせき,ついせき,Truy Tích,
-退く,vocab,27,退,N/A,N/A,N/A,N/A,しりぞく,しりぞく,Nghỉ Việc,Rút Lui
+退く,vocab,27,退,N/A,N/A,N/A,N/A,しりぞく,しりぞく,Rút Lui,Nghỉ Việc
 退学,vocab,27,"退,学",N/A,N/A,N/A,N/A,たいがく,たいがく,Bỏ Học,Bị Đuổi Học
 退屈,vocab,49,"退,屈",N/A,N/A,N/A,N/A,たいくつ,たいくつ,Buồn Tẻ,Chán
 退廃,vocab,66,"退,廃",N/A,N/A,N/A,N/A,たいはい,たいはい,Thoái Hóa,Tha Hóa
@@ -7000,8 +7018,8 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 退院,vocab,27,"退,院",N/A,N/A,N/A,N/A,たいいん,たいいん,Xuất Viện,
 送る,vocab,17,送,N/A,N/A,N/A,N/A,おくる,おくる,Gửi,Tiễn
 送別会,vocab,17,"送,別,会",N/A,N/A,N/A,N/A,そうべつかい,そうべつかい,Tiệc Tiễn Biệt,
-逃がす,vocab,27,逃,N/A,N/A,N/A,N/A,にがす,にがす,Thả,
-逃げる,vocab,27,逃,N/A,N/A,N/A,N/A,にげる,にげる,Chạy Trốn,
+逃がす,vocab,27,逃,N/A,N/A,N/A,N/A,にがす,にがす,Thả,"Cho Bỏ Chạy, Để Tuột Mất"
+逃げる,vocab,27,逃,N/A,N/A,N/A,N/A,にげる,にげる,Bỏ Chạy,Chạy Trốn
 逃走,vocab,27,"逃,走",N/A,N/A,N/A,N/A,とうそう,とうそう,Đào Tẩu,
 逆,vocab,38,逆,N/A,N/A,N/A,N/A,ぎゃく,ぎゃく,Ngược,
 逆さ,vocab,38,逆,N/A,N/A,N/A,N/A,さかさ,さかさ,Ngược,
@@ -7010,7 +7028,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 透明,vocab,56,"透,明",N/A,N/A,N/A,N/A,とうめい,とうめい,Trong Suốt,
 途中,vocab,55,"途,中",N/A,N/A,N/A,N/A,とちゅう,とちゅう,Giữa Đường,Giữa Chừng
 途切れる,vocab,55,"途,切",N/A,N/A,N/A,N/A,とぎれる,とぎれる,Bị Gián Đoạn,
-通う,vocab,18,通,N/A,N/A,N/A,N/A,かよう,かよう,Đi Lại,
+通う,vocab,18,通,N/A,N/A,N/A,N/A,かよう,かよう,Đi,"Đi Học, Đi Làm"
 通す,vocab,17,通,N/A,N/A,N/A,N/A,とおす,とおす,Thông,Xuyên Qua
 通る,vocab,17,通,N/A,N/A,N/A,N/A,とおる,とおる,Đi Qua,"Qua, Hiểu Được"
 通勤,vocab,32,"通,勤",N/A,N/A,N/A,N/A,つうきん,つうきん,Đi Làm,
@@ -7070,7 +7088,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 過程,vocab,31,"過,程",N/A,N/A,N/A,N/A,かてい,かてい,Quá Trình,
 過酷,vocab,68,"過,酷",N/A,N/A,N/A,N/A,かこく,かこく,Khắc Nghiệt,
 道,vocab,7,道,N/A,N/A,N/A,N/A,みち,みち,Đường,
-道具,vocab,11,"道,具",N/A,N/A,N/A,N/A,どうぐ,どうぐ,Dụng Cụ,
+道具,vocab,11,"道,具",N/A,N/A,N/A,N/A,どうぐ,どうぐ,Dụng Cụ,"Công Cụ, Phương Tiện"
 道場,vocab,10,"道,場",N/A,N/A,N/A,N/A,どうじょう,どうじょう,Võ Đường,
 道徳,vocab,52,"道,徳",N/A,N/A,N/A,N/A,どうとく,どうとく,Đạo Đức,
 道路,vocab,32,"道,路",N/A,N/A,N/A,N/A,どうろ,どうろ,Đường,
@@ -7143,18 +7161,19 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 醤油,vocab,57,"醤,油",N/A,N/A,N/A,N/A,しょうゆ,しょうゆ,Xì Dầu,Nước Tương
 釈明,vocab,62,"釈,明",N/A,N/A,N/A,N/A,しゃくめい,しゃくめい,Thanh Minh,
 里子,vocab,30,"里,子",N/A,N/A,N/A,N/A,さとご,さとご,Con Nuôi,
-里親,vocab,30,"里,親",N/A,N/A,N/A,N/A,さと,さと,Bố Mẹ Nuôi,
+里親,vocab,30,"里,親",N/A,N/A,N/A,N/A,さとおや,さとおや,Bố Mẹ Nuôi,
 重い,vocab,11,重,N/A,N/A,N/A,N/A,おもい,おもい,Nặng,
 重なる,vocab,12,重,N/A,N/A,N/A,N/A,かさなる,かさなる,Chồng Chất,
 重ねる,vocab,12,重,N/A,N/A,N/A,N/A,かさねる,かさねる,Tích Lũy,
 重傷,vocab,36,"重,傷",N/A,N/A,N/A,N/A,じゅうしょう,じゅうしょう,Thương Nặng,Trọng Thương
 重力,vocab,11,"重,力",N/A,N/A,N/A,N/A,じゅうりょく,じゅうりょく,Trọng Lực,
-重大,vocab,11,"重,大",N/A,N/A,N/A,N/A,じゅうだい,じゅうだい,Trọng Đại,
+重大,vocab,11,"重,大",N/A,N/A,N/A,N/A,じゅうだい,じゅうだい,Trọng Đại,Quan Trọng
 重複,vocab,45,"重,複",N/A,N/A,N/A,N/A,じゅうふく,じゅうふく,Trùng Lặp,
 重要,vocab,11,"重,要",N/A,N/A,N/A,N/A,じゅうよう,じゅうよう,Trọng Yếu,
 重視,vocab,11,"重,視",N/A,N/A,N/A,N/A,じゅうし,じゅうし,Coi Trọng,
 重量,vocab,60,"重,量",N/A,N/A,N/A,N/A,じゅうりょう,じゅうりょう,Trọng Lượng,
 野党,vocab,55,"野,党",N/A,N/A,N/A,N/A,やとう,やとう,Đảng Đối Lập,
+野次馬,vocab,54,"野,次,馬",N/A,N/A,N/A,N/A,やじうま,やじうま,Người Hóng Hớt,Người Tò Mò
 野球,vocab,13,"野,球",N/A,N/A,N/A,N/A,やきゅう,やきゅう,Bóng Chày,
 野生,vocab,13,"野,生",N/A,N/A,N/A,N/A,やせい,やせい,Hoang Dã,
 野良,vocab,14,"野,良",N/A,N/A,N/A,N/A,のら,のら,Hoang,
@@ -7197,7 +7216,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 鉱業,vocab,51,"鉱,業",N/A,N/A,N/A,N/A,こうぎょう,こうぎょう,Kougyou,Công Nghiệp Khai Khoáng
 鉱物,vocab,51,"鉱,物",N/A,N/A,N/A,N/A,こうぶつ,こうぶつ,Khoáng Vật,
 銀,vocab,26,銀,N/A,N/A,N/A,N/A,ぎん,ぎん,Bạc,
-銀河,vocab,26,"銀,河",N/A,N/A,N/A,N/A,ぎんが,ぎんが,Ngân Hà,
+銀河,vocab,26,"銀,河",N/A,N/A,N/A,N/A,ぎんが,ぎんが,Thiên Hà,Ngân Hà
 銀行,vocab,26,"銀,行",N/A,N/A,N/A,N/A,ぎんこう,ぎんこう,Ngân Hàng,
 銃,vocab,43,銃,N/A,N/A,N/A,N/A,じゅう,じゅう,Súng,
 銃弾,vocab,43,"銃,弾",N/A,N/A,N/A,N/A,じゅうだん,じゅうだん,Đạn,
@@ -7238,6 +7257,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 閉まる,vocab,7,閉,N/A,N/A,N/A,N/A,しまる,しまる,Đóng,
 閉める,vocab,7,閉,N/A,N/A,N/A,N/A,しめる,しめる,Đóng,
 閉会,vocab,7,"閉,会",N/A,N/A,N/A,N/A,へいかい,へいかい,Bế Mạc,
+閉店,vocab,60,"閉,店",N/A,N/A,N/A,N/A,へいてん,へいてん,Đóng Cửa,
 閉鎖,vocab,51,"閉,鎖",N/A,N/A,N/A,N/A,へいさ,へいさ,Phong Tỏa,
 開く,vocab,7,開,N/A,N/A,N/A,N/A,あく,あく,Mở,
 開ける,vocab,7,開,N/A,N/A,N/A,N/A,あける,あける,Mở,
@@ -7311,9 +7331,9 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 隣国,vocab,37,"隣,国",N/A,N/A,N/A,N/A,りんごく,りんごく,Nước Láng Giềng,
 雄,vocab,31,雄,N/A,N/A,N/A,N/A,おす,おす,Đực,
 集まる,vocab,13,集,N/A,N/A,N/A,N/A,あつまる,あつまる,Tập Hợp,
-集める,vocab,13,集,N/A,N/A,N/A,N/A,あつめる,あつめる,Thu Thập,
+集める,vocab,13,集,N/A,N/A,N/A,N/A,あつめる,あつめる,Tập Hợp,"Thu Thập, Gom"
 集中,vocab,13,"集,中",N/A,N/A,N/A,N/A,しゅうちゅう,しゅうちゅう,Tập Trung,
-集中力,vocab,30,"集,中,力",N/A,N/A,N/A,N/A,しゅうちゅうりょく,しゅうちゅうりょく,Sự Tập Trung,
+集中力,vocab,30,"集,中,力",N/A,N/A,N/A,N/A,しゅうちゅうりょく,しゅうちゅうりょく,Sự Tập Trung,Khả Năng Tập Trung
 集合,vocab,13,"集,合",N/A,N/A,N/A,N/A,しゅうごう,しゅうごう,Tập Hợp,
 集団,vocab,13,"集,団",N/A,N/A,N/A,N/A,しゅうだん,しゅうだん,Tập Thể,Nhóm
 雇う,vocab,64,雇,N/A,N/A,N/A,N/A,やとう,やとう,Thuê,Tuyển
@@ -7346,7 +7366,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 零す,vocab,66,零,N/A,N/A,N/A,N/A,こぼす,こぼす,Làm Đổ,
 雷,vocab,67,雷,N/A,N/A,N/A,N/A,かみなり,かみなり,Sấm,Sấm Sét
 雷雨,vocab,67,"雷,雨",N/A,N/A,N/A,N/A,らいう,らいう,Lôi Vũ,"Dông Bão, Mưa Dông"
-電卓,vocab,29,"電,卓",N/A,N/A,N/A,N/A,でんたく,でんたく,Máy Tính,Máy Tính Cầm Tay
+電卓,vocab,29,"電,卓",N/A,N/A,N/A,N/A,でんたく,でんたく,MTCT,Máy Tính Cầm Tay
 電柱,vocab,29,"電,柱",N/A,N/A,N/A,N/A,でんちゅう,でんちゅう,Cột Điện,
 電気,vocab,14,"電,気",N/A,N/A,N/A,N/A,でんき,でんき,Điện,
 電気柵,vocab,53,"電,気,柵",N/A,N/A,N/A,N/A,でんきさく,でんきさく,Hàng Rào Điện,
@@ -7376,7 +7396,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 青色,vocab,8,"青,色",N/A,N/A,N/A,N/A,あおいろ,あおいろ,Màu Xanh,
 青銅,vocab,45,"青,銅",N/A,N/A,N/A,N/A,せいどう,せいどう,Đồng,
 静か,vocab,21,静,N/A,N/A,N/A,N/A,しずか,しずか,Yên Tĩnh,
-静まる,vocab,21,静,N/A,N/A,N/A,N/A,しずまる,しずまる,Yên Tĩnh,Dịu Đi
+静まる,vocab,21,静,N/A,N/A,N/A,N/A,しずまる,しずまる,Dịu Đi,Yên Tĩnh
 静寂,vocab,61,"静,寂",N/A,N/A,N/A,N/A,せいじゃく,せいじゃく,Yên Lặng,
 静岡県,vocab,49,"静,岡,県",N/A,N/A,N/A,N/A,しずおかけん,しずおかけん,Shizuokaken,Tỉnh Shizuoka
 非公式,vocab,23,"非,公,式",N/A,N/A,N/A,N/A,ひこうしき,ひこうしき,Không Chính Thức,
@@ -7392,7 +7412,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 革,vocab,23,革,N/A,N/A,N/A,N/A,かわ,かわ,Da,
 革命,vocab,23,"革,命",N/A,N/A,N/A,N/A,かくめい,かくめい,Cách Mạng,
 靴,vocab,24,靴,N/A,N/A,N/A,N/A,くつ,くつ,Giày,
-靴の紐,vocab,24,"靴,紐",N/A,N/A,N/A,N/A,くつのひも,くつのひも,Dây Giầy,
+靴の紐,vocab,24,"靴,紐",N/A,N/A,N/A,N/A,くつのひも,くつのひも,Dây Giày,
 靴下,vocab,24,"靴,下",N/A,N/A,N/A,N/A,くつした,くつした,Tất,
 韓国,vocab,26,"韓,国",N/A,N/A,N/A,N/A,かんこく,かんこく,Hàn Quốc,
 音,vocab,9,音,N/A,N/A,N/A,N/A,おと,おと,Tiếng,Âm Thanh
@@ -7462,6 +7482,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 食品,vocab,14,"食,品",N/A,N/A,N/A,N/A,しょくひん,しょくひん,Thực Phẩm,
 食器,vocab,15,"食,器",N/A,N/A,N/A,N/A,しょっき,しょっき,Bát Đĩa,Dụng Cụ Ăn Uống
 食堂,vocab,22,"食,堂",N/A,N/A,N/A,N/A,しょくどう,しょくどう,Nhà Ăn,
+食塩,vocab,69,"食,塩",N/A,N/A,N/A,N/A,しょくえん,しょくえん,Muối Ăn,
 食料,vocab,17,"食,料",N/A,N/A,N/A,N/A,しょくりょう,しょくりょう,Thực Phẩm,Đồ Ăn
 食欲,vocab,32,"食,欲",N/A,N/A,N/A,N/A,しょくよく,しょくよく,Sự Thèm Ăn,
 食糧,vocab,67,"食,糧",N/A,N/A,N/A,N/A,しょくりょう,しょくりょう,Lương Thực,
@@ -7556,7 +7577,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 鳥肌,vocab,13,"鳥,肌",N/A,N/A,N/A,N/A,とりはだ,とりはだ,Da Gà,
 鳥類,vocab,40,"鳥,類",N/A,N/A,N/A,N/A,ちょうるい,ちょうるい,Loài Chim,
 鳩,vocab,67,鳩,N/A,N/A,N/A,N/A,はと,はと,Bồ Câu,
-鳴き声,vocab,28,"鳴,声",N/A,N/A,N/A,N/A,なきごえ,なきごえ,Tiếng Kêu,Tiếng Hót
+鳴き声,vocab,28,"鳴,声",N/A,N/A,N/A,N/A,なきごえ,なきごえ,Tiếng Kêu,"Tiếng Hót, Tiếng Gáy"
 鳴く,vocab,28,鳴,N/A,N/A,N/A,N/A,なく,なく,Kêu,"Hót, Gáy"
 鳴らす,vocab,29,鳴,N/A,N/A,N/A,N/A,ならす,ならす,Làm Kêu,
 鳴る,vocab,28,鳴,N/A,N/A,N/A,N/A,なる,なる,Kêu,
@@ -7566,7 +7587,7 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 鹿,vocab,62,鹿,N/A,N/A,N/A,N/A,しか,しか,Hươu,
 麦,vocab,28,麦,N/A,N/A,N/A,N/A,むぎ,むぎ,Lúa Mì,Lúa Mạch
 麦畑,vocab,43,"麦,畑",N/A,N/A,N/A,N/A,むぎばたけ,むぎばたけ,Ruộng Lúa,Cánh Đồng Lúa
-麺,vocab,50,麺,N/A,N/A,N/A,N/A,めん,めん,Mỳ,
+麺,vocab,50,麺,N/A,N/A,N/A,N/A,めん,めん,Mì,
 麻婆豆腐,vocab,62,"麻,婆,豆,腐",N/A,N/A,N/A,N/A,まーぼーどうふ,まーぼーどうふ,Mapo Tofu,Đậu Phụ Tứ Xuyên
 麻痺,vocab,62,"麻,痺",N/A,N/A,N/A,N/A,まひ,まひ,Liệt,Tê Liệt
 麻薬,vocab,62,"麻,薬",N/A,N/A,N/A,N/A,まやく,まやく,Ma Túy,
@@ -7586,6 +7607,5 @@ L,bushu,4,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Ống Hút,
 鼻,vocab,6,鼻,N/A,N/A,N/A,N/A,はな,はな,Mũi,
 鼻の穴,vocab,6,"鼻,穴",N/A,N/A,N/A,N/A,はなのあな,はなのあな,Lỗ Mũi,
 鼻歌,vocab,14,"鼻,歌",N/A,N/A,N/A,N/A,はなうた,はなうた,Hát Thầm,
-鼻水,vocab,6,"鼻,水",N/A,N/A,N/A,N/A,はなみず,はなみず,Nước Mũi,
-鼻血,vocab,25,"鼻,血",N/A,N/A,N/A,N/A,はなぢ,はなぢ,Máu Mũi,
-夜勤,vocab,59,"夜,勤",N/A,N/A,N/A,N/A,やきん,やきん,Ca Đêm,
+鼻水,vocab,6,"鼻,水",N/A,N/A,N/A,N/A,はなみず,はなみず,Nước Mũi,Chảy Nước Mũi
+鼻血,vocab,25,"鼻,血",N/A,N/A,N/A,N/A,はなぢ,はなぢ,Máu Mũi,Chảy Máu Mũi
