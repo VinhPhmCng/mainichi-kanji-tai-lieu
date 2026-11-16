@@ -1,5 +1,15 @@
 ## Chi tiết các cập nhật của website Mainichi Kanji
 
+#### 16/11/2026
+
+- Tối ưu hóa website - compressed font files
+- Thêm từ loại cho thẻ từ vựng.
+- Cập nhật nội dung của một số thẻ.
+
+#### 12/10/2026
+
+- Cập nhật nội dung của một số thẻ.
+
 #### 02/08/2026
 
 - Cập nhật nội dung của một số thẻ.
