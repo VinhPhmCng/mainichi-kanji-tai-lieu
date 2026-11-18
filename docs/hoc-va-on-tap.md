@@ -15,9 +15,10 @@
 
 #### Trả lời
 
-- Sau khi gõ câu trả lời, bấm **Enter** để trả lời.
-- Sau khi trả lời đúng, bấm **Enter** để tiếp tục với thẻ tiếp theo.
-- Sau khi trả lời sai, bấm **Enter** để trả lời lại.
+- Nhấp chuột vào ô trả lời
+- Gõ câu trả lời và bấm **Enter**
+- Nếu trả lời sai, bấm **Enter** để thử lại
+- Sau khi trả lời đúng, bấm **Enter** để tiếp tục
 
 #### Về thẻ học mới
 
