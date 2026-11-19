@@ -1,6 +1,6 @@
 ## Satori Reader
 
-[Satori Reader](https://www.satorireader.com/stories) là một website/ứng dụng cung cấp các series sách nguyên bản cho người biết tiếng Anh, đi kèm một số tính năng hỗ trợ người học. Bạn có thể trải nghiệm sản phẩm của họ tại [đây](https://www.satorireader.com/how-it-works).
+[Satori Reader](https://www.satorireader.com/stories) là một website/ứng dụng cung cấp các series sách nguyên bản cho người biết tiếng Anh, đi kèm một số tính năng hỗ trợ người học. Bạn có thể trải nghiệm sản phẩm của họ [tại đây](https://www.satorireader.com/how-it-works).
 
 Satori Reader là một sản phẩm có phí, nhưng người dùng đăng ký tài khoản có thể đọc miễn phí 2 chương đầu của mọi series.
 

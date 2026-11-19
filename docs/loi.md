@@ -1,6 +1,6 @@
 ## Lỗi
 
-Dưới đây là các lỗi mà người dùng hiện tại có thể gặp phải và phương pháp đối phó tạm thời cho đến khi chúng được giải quyết. Nếu bạn gặp phải lỗi không được nêu dưới đây, hãy [gửi phản hồi](phan-hoi.md) cho Mainichi Kanji. Cảm ơn bạn.
+Hiện tại, người dùng có thể gặp phải những lỗi dưới đây. Nếu không thấy lỗi bản thân đang gặp phải, bạn hãy [gửi phản hồi](phan-hoi.md) cho Mainichi Kanji. Cảm ơn bạn.
 
 
 #### Lỗi khi đăng nhập

@@ -13,5 +13,6 @@ Mainichi Kanji còn nhiều điểm thiếu xót có thể được cải thiệ
 5. Điền form
 6. Nhấn nút **Create** để gửi form
 
-?> Nếu muốn, bạn có thể nhấn nút phóng to form.
+> [!TIP]
+> Bạn có thể phóng to form.
 ![phan-hoi-01](/_media/phan-hoi-01.png)

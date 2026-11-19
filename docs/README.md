@@ -14,14 +14,18 @@
 - Muốn học những kanji cơ bản và phổ biến nhất, cùng các từ vựng liên quan
 - Có thể đọc và gõ hiragana ở mức độ cơ bản
 
-!> Mainichi Kanji chỉ cung cấp dịch vụ cho người từ 15 tuổi trở lên. ([Điều khoản Dịch vụ](https://mainichikanji.org/ve_mainichi_kanji))
+> [!CAUTION]
+> Mainichi Kanji chỉ cung cấp dịch vụ cho người từ 15 tuổi trở lên. ([Điều khoản Dịch vụ](https://mainichikanji.org/ve_mainichi_kanji))
 
 ### Cách sử dụng
 
 - Tạo thói quen đăng nhập hằng ngày. Học khi có thẻ học. Ôn tập khi có thẻ ôn tập.
 - Học song song với một giáo trình sơ cấp như Minna no Nihongo, Genki, v.v.
 
-> Ngoài ra, Mainichi Kanji và toàn bộ dữ liệu học tập đều được phát triển và soạn thảo thủ công 100% bởi đội ngũ con người, không sử dụng AI.
+
+### Không generative AI
+
+- Mainichi Kanji và toàn bộ dữ liệu học tập được phát triển và soạn thảo thủ công 100% bởi đội ngũ con người, không sử dụng generative AI.
 
 ## Mainichi Kanji: Tài Liệu
 

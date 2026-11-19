@@ -1,6 +1,6 @@
 ## Sách tương tự Tadoku
 
-Ngoài tadoku.org, có nhiều (nhóm) tác giả khác cũng phát hành các cuốn sách đọc theo cấp độ (graded readers) cho người học tiếng Nhật. Tadoku có tổng hợp một số nguồn tiêu biểu tại [đây](https://tadoku.org/japanese/other-grs/).
+Ngoài tadoku.org, có nhiều (nhóm) tác giả khác cũng phát hành sách phân theo cấp độ (graded readers) cho người học tiếng Nhật. Tadoku có tổng hợp một số nguồn tiêu biểu [tại đây](https://tadoku.org/japanese/other-grs/).
 
 Tôi đánh giá cao mức độ hiệu quả của những cuốn sách này trong quá trình học tiếng Nhật, đặc biệt là đối với các bạn học mới. Chúng có rất nhiều điểm cộng, như:
 - giúp bạn làm quen với kanji, từ vựng, và ngữ pháp

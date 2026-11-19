@@ -23,6 +23,6 @@ Dưới đây là một vài tựa đề tôi khuyến khích nếu bạn muốn
 
 Khác với sách đọc phân theo cấp độ, 漫画 hay アニメ không được tạo ra dựa trên khả năng tiếng Nhật của người xem. Vì vậy, đừng đặt ra mục tiêu hay kỳ vọng như "mình phải hiểu tất cả các ngữ pháp của tập này", "mình phải đọc được tất cả các kanji trong chương này", v.v.
 
-Điều quan trọng nhất bạn nên làm là thưởng thức chúng.
+Điều quan trọng nhất bạn nên làm là **thưởng thức** chúng.
 
 Nhưng việc tiếp thu kiến thức từng tí một ở chỗ này chỗ kia cũng rất hữu ích. Khi bạn thấy một từ vựng thú vị, một cấu trúc ngữ pháp kỳ lạ, bạn nên dành ra một chút thời gian tìm hiểu chúng.

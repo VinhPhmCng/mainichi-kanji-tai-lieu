@@ -1,8 +1,12 @@
 ## Bàn phím tự động
 
-Khi ôn tập, bạn cần gõ tiếng Việt khi trả lời nghĩa và tiếng Nhật (kana) khi trả lời cách đọc. Mainichi Kanji cung cấp tính năng này để bạn không cần phải liên tục chuyển đổi giữa các chế độ gõ của thiết bị.
+Khi ôn tập, bạn cần gõ tiếng Việt khi trả lời nghĩa và tiếng Nhật (kana) khi trả lời cách đọc. Mainichi Kanji cung cấp tính năng này để bạn không phải liên tục chuyển đổi giữa các chế độ gõ của thiết bị.
 
-Ngoài lúc ôn tập trên Mainichi Kanji, tôi khuyến khích bạn cài đặt và sử dụng một bộ gõ tiếng Nhật tử tế.
+> [!CAUTION]
+> Nếu bạn bật cả bàn phím tự động trên Mainichi Kanji và chế độ gõ tiếng Việt trên thiết bị, chúng sẽ cản trở nhau.
+
+> [!IMPORTANT]
+> Ngoài lúc ôn tập trên Mainichi Kanji, tôi khuyến khích bạn cài đặt và sử dụng một bộ gõ tiếng Nhật tử tế.
 
 #### Bàn phím tiếng Việt tự động
 

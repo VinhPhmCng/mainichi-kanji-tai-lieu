@@ -16,7 +16,8 @@ Nhưng, họ không biết rằng chính sự "lười biếng" đó là lý do 
 
 Ngoài ra, họ còn đang tự hạn chế lượng kiến thức bản thân có thể tiếp xúc với. Bởi vì, khả năng tra cứu kiến thức của một người cũng dần dần phát triển trong quá trình học tập. Nghĩa là, mỗi lần tra cứu về cùng một mẩu kiến thức, câu từ hay cách thức họ dùng để tra cứu sẽ khác lúc trước, từ đó có thể dẫn tới các bài viết mới hơn, hay hơn. Việc phụ thuộc vào URL sẽ loại bỏ hoàn toàn lợi thế này.
 
-?> P.S. Tập sử dụng cả công cụ lọc kết quả tra cứu đi bạn nhé.
+> [!NOTE]
+> **P.S.** Tập sử dụng cả công cụ lọc kết quả tra cứu bạn nhé.
 
 #### Đừng phụ thuộc vào ghi chú cũ
 

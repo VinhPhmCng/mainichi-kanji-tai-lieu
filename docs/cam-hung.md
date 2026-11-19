@@ -8,6 +8,8 @@
 
 - Wikipedia
 
-- Flutter ー để phát triển website Mainichi Kanji
+## Công cụ
 
-- Docsify ー để biên soạn "Mainichi Kanji: Tài Liệu" mà bạn đang đọc
+- Flutter
+
+- Docsify

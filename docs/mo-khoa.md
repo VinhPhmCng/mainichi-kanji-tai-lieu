@@ -2,8 +2,8 @@
 
 #### Thông tin cơ bản
 
-- Đối với tài khoản đã xác minh email, các thẻ từ cấp 1 đến 10 là miễn phí (SRS, thêm nghĩa, thêm ghi chú).
-- Đối với các bạn học sinh, sinh viên, các thẻ từ cấp 1 đến cấp 20 là miễn phí (SRS, thêm nghĩa, thêm ghi chú). Để áp dụng, bạn hãy:
+- Đối với tài khoản đã xác minh email, các thẻ từ cấp 1 **đến cấp 10** là miễn phí (SRS, thêm nghĩa, thêm ghi chú).
+- Đối với các bạn học sinh, sinh viên, các thẻ từ cấp 1 **đến cấp 20** là miễn phí (SRS, thêm nghĩa, thêm ghi chú). Để áp dụng, bạn hãy:
     - sử dụng địa chỉ email đã đăng ký tài khoản Mainichi Kanji,
     - soạn thư với tiêu đề "HSSV",
     - nội dung thư là gì cũng được,

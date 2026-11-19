@@ -2,6 +2,9 @@
 
 ![hoc-va-on-tap-01](/_media/hoc-va-on-tap-01.png)
 
+> [!CAUTION]
+> Khi ôn tập, nếu bạn bật cả bàn phím tự động trên Mainichi Kanji và chế độ gõ tiếng Việt trên thiết bị, chúng sẽ cản trở nhau. Tham khảo [Bàn phím tự động](ban-phim-tu-dong.md) và [Chi tiết các cài đặt](cai-dat.md)
+
 #### Học
 
 - Mainichi Kanji chia các thẻ học mới thành các nhóm gồm nhiều nhất là 5 thẻ.
@@ -40,7 +43,7 @@
 | 9  | 6 tuần  |
 | 10 | N/A     |
 
-?> Các bushu của cấp 1 và 2 là ngoại lệ. Cụ thể, sau lần ôn tập đầu tiên và thứ hai (1 tiếng sau), các bushu này được coi là đã ôn tập 5 lần. Điều này giúp bạn học những kanji đầu tiên sớm hơn.
+?> Các bushu của **cấp 1 và 2** là ngoại lệ. Cụ thể, sau lần ôn tập đầu tiên và thứ hai (1 tiếng sau), các bushu này được coi là đã ôn tập 5 lần. Điều này giúp bạn học những kanji đầu tiên sớm hơn.
 
 ?> Sau lần ôn tập thứ 10, thẻ đã "cháy".
 
@@ -51,4 +54,4 @@
 #### Ghi chú
 
 - Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi ôn tập" và "Bàn phím Hiragana tự động khi ôn tập" được **bật**. ([Chi tiết các cài đặt](cai-dat.md))
-- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, nếu cố hết sức mà vẫn không thể nhớ ra, thì đừng sợ sai mà hãy thử đoán có cơ sở (educated guess) xem sao nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.
+- Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, đừng sợ sai mà cứ cố hết sức xem có nhớ ra không nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.

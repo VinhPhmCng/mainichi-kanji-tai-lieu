@@ -9,9 +9,13 @@
     - Theo cấp: nhập phạm vi "từ cấp" và "đến cấp"
 - Sau khi tra cứu, bạn có thể chọn hiển thị bushu, kanji, hay từ vựng.
 
+#### Xem thẻ
+
+- Nhấn vào một thẻ để xem thẻ đó
+- Nhấn vào một thẻ tham chiếu để xem thông tin cơ bản của nó. Nhấn nút mở rộng để mở thẻ đó
+
+![tu-dien-02](/_media/tu-dien-03.png)
+
 #### Ghi chú
 
 - Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi tra cứu" và "Bàn phím Hiragana tự động khi tra cứu" được **tắt**. ([Chi tiết các cài đặt](cai-dat.md))
-- Bạn có thể nhấn vào một thẻ tham chiếu để xem thông tin cơ bản của thẻ đó.
-
-![tu-dien-02](/_media/tu-dien-03.png)
