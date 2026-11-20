@@ -3,7 +3,7 @@
 Khi ôn tập thẻ, bạn cần gõ tiếng Việt khi trả lời nghĩa và tiếng Nhật (kana) khi trả lời cách đọc. Mainichi Kanji cung cấp tính năng này để bạn không phải liên tục chuyển đổi giữa các chế độ gõ của thiết bị.
 
 > [!CAUTION]
-> Nếu bạn bật cả chế độ gõ tiếng Việt trên thiết bị và tính năng "chuyển đổi tiếng Việt" trên Mainichi Kanji, chúng sẽ cản trở nhau.
+> Nếu bạn bật cả chế độ gõ tiếng Việt trên thiết bị và tính năng "chuyển đổi tiếng Việt" của Mainichi Kanji, chúng sẽ cản trở nhau.
 
 > [!IMPORTANT]
 > Ngoài lúc ôn tập trên Mainichi Kanji, tôi khuyến khích bạn cài đặt và sử dụng một bộ gõ tiếng Nhật tử tế.
