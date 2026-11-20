@@ -59,3 +59,4 @@
 
 - Cập nhật
   - [Mainichi Kanji](mk-changelog.md)
+  - [Mainichi Kanji: Tài Liệu](tl-changelog.md)

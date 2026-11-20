@@ -1,4 +1,4 @@
-## Chi tiết các cập nhật của website Mainichi Kanji
+## Các cập nhật của website Mainichi Kanji
 
 #### 16/11/2026
 
