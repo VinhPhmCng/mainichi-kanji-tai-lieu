@@ -3,7 +3,7 @@
 ![hoc-va-on-tap-01](/_media/hoc-va-on-tap-01.png)
 
 > [!CAUTION]
-> Khi ôn tập, nếu bạn bật cả bàn phím tự động trên Mainichi Kanji và chế độ gõ tiếng Việt trên thiết bị, chúng sẽ cản trở nhau. Tham khảo [Bàn phím tự động](ban-phim-tu-dong.md) và [Chi tiết các cài đặt](cai-dat.md)
+> Khi trả lời nghĩa của thẻ, nếu bạn bật cả chế độ gõ tiếng Việt trên thiết bị và tính năng "Chuyển đổi tiếng Việt" của Mainichi Kanji, chúng sẽ cản trở nhau. Tham khảo [Chuyển đổi tự động](chuyen-doi-tu-dong.md) và [Chi tiết các cài đặt](cai-dat.md)
 
 #### Học
 
@@ -53,5 +53,5 @@
 
 #### Ghi chú
 
-- Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi ôn tập" và "Bàn phím Hiragana tự động khi ôn tập" được **bật**. ([Chi tiết các cài đặt](cai-dat.md))
+- Mặc định, hai cài đặt "Chuyển đổi tiếng Việt khi trả lời nghĩa" và "Chuyển đổi kana khi trả lời cách đọc" được **bật**. ([Chi tiết các cài đặt](cai-dat.md))
 - Việc trả lời sai 3 lần liên tiếp **không** có tác động xấu lên thời gian chờ ôn tập của thẻ, mà chỉ thêm thẻ vào mục "Thẻ ôn tập sai" ở trang "Ngoại khóa". Vậy nên, đừng sợ sai mà cứ cố hết sức xem có nhớ ra không nhé. Chính việc vắt óc suy nghĩ này sẽ củng cố sự tiếp thu lâu dài.

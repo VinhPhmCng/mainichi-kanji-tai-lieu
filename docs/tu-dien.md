@@ -18,4 +18,4 @@
 
 #### Ghi chú
 
-- Mặc định, hai cài đặt "Bàn phím tiếng Việt tự động khi tra cứu" và "Bàn phím Hiragana tự động khi tra cứu" được **tắt**. ([Chi tiết các cài đặt](cai-dat.md))
+- Mặc định, hai cài đặt "Chuyển đổi tiếng Việt khi tra từ điển" và "Chuyển đổi kana khi tra từ điển" được **tắt**. ([Chi tiết các cài đặt](cai-dat.md))
