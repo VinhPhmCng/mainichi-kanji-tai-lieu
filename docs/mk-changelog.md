@@ -1,5 +1,14 @@
 ## Các cập nhật của website Mainichi Kanji
 
+#### 22/11/2026
+
+- Thay icon
+- Cập nhật nội dung của một số thẻ.
+
+#### 20/11/2026
+
+- Tối ưu hóa website - WASM compilation
+
 #### 16/11/2026
 
 - Tối ưu hóa website - compressed font files
