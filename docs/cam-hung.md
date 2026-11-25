@@ -2,7 +2,7 @@
 
 - WaniKani
 
-- Kanji Damage
+- KANJIDAMAGE
 
 - Cubadust (2004)
 
