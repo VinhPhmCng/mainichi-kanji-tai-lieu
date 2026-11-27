@@ -1,5 +1,10 @@
 ## Các cập nhật của website Mainichi Kanji
 
+#### 27/11/2026
+
+- Tính năng: Trực quan hóa tiến độ học tập với ASCII art
+- Cập nhật nội dung của một số thẻ.
+
 #### 22/11/2026
 
 - Thay icon
