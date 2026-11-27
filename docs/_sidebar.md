@@ -6,6 +6,7 @@
 - Hướng dẫn / Chi tiết
 
   - [Học và ôn tập](hoc-va-on-tap.md)
+  - [Tiến độ](tien-do.md)
   - [Từ điển](tu-dien.md)
   - [Thêm ghi chú](them-ghi-chu.md)
   - [Mở khóa](mo-khoa.md)
